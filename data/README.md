@@ -9,6 +9,13 @@ johnhopkins-covid19-curated
 Daily updated John Hopkins covid-19 curated data. 
 Country and Region level data, including lat/long, Confirmed, Recovered, Deaths.
 
+### IASI-METOP C CO
+
+iasi-metop - after processing (full data is 300M / day, processed: 1M/day)
+Source: https://iasi.aeris-data.fr/co_iasi_c_arch/
+Data info: https://iasi.aeris-data.fr/CO_readme/
+
+
 
 
 
