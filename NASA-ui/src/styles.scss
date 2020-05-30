@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  height: 100%;
+  min-height: 100%;
+  min-width: 100%;
+  //overflow-x: hidden;
+  //background-size: contain;
+  font-size: 16px;
+  touch-action: manipulation;
+  background-color: #F7FFF7;
+  background-size: 100%;
+}
