@@ -1,0 +1,21 @@
+Type,Sector,Jan-19,Feb-19,Mar-19,Apr-19,May-19,Jun-19,Jul-19,Aug-19,Sep-19,Oct-19,Nov-19,Dec-19
+Hard Coal,Transformation input - coke ovens,3804.751,3529.377,3952.336,3969.765,4064.549,3948.641,4048.884,4014.95,3856.715,3667.121,3627.287,3580.923
+Hard Coal,Final consumption - industry sector,3216.995,3239.377,3360.693,3093.582,2726.12,2628.647,2579.41,2628.119,2701.073,2723.304,2326.139,2341.37
+Hard Coal,Transformation input - electricity and heat generation - main activity producers,10479.196,9312.672,8024.345,6720.287,5130.762,5227.743,5843.003,5186.128,6421.785,7047.179,7852.037,7700.293
+Hard Coal,Final consumption - industry sector - iron and steel,1851.023,1743.872,1926.466,1814.658,1520.728,1496.999,1566.899,1513.725,1472.628,1424.804,1075.759,1026.336
+Hard Coal,Final consumption - other sectors,938.851,883.968,963.999,861.867,813.319,838.348,894.871,848.627,905.12,970.287,1058.931,1137.454
+Lignite/Brown Coal,Transformation input - coke ovens,,,,,,,,,,,,
+Lignite/Brown Coal,Final consumption - industry sector,,,,,,,,,,,,
+Lignite/Brown Coal,Transformation input - electricity and heat generation - main activity producers,25749.724,23763.414,21848.451,20882,21264.422,17854.956,20098.669,20275.537,20036.704,21575.613,22647.34,20333.131
+Lignite/Brown Coal,Final consumption - industry sector - iron and steel,,,,,,,,,,,,
+Lignite/Brown Coal,Final consumption - other sectors,,,,,,,,,,,,
+Peat,Transformation input - coke ovens,,,,,,,,,,,,
+Peat,Final consumption - industry sector,,,,,,,,,,,,
+Peat,Transformation input - electricity and heat generation - main activity producers,340.331,290.974,271.685,571.629,408.799,333.832,126.434,289.09,425.612,596.62,751.371,765.371
+Peat,Final consumption - industry sector - iron and steel,,,,,,,,,,,,
+Peat,Final consumption - other sectors,,,,,,,,,,,,
+Oil shale and oil sands,Transformation input - coke ovens,,,,,,,,,,,,
+Oil shale and oil sands,Final consumption - industry sector,,,,,,,,,,,,
+Oil shale and oil sands,Transformation input - electricity and heat generation - main activity producers,1713.584,1117.688,1018.004,999.228,855.973,578.261,660.029,740.631,787,746.384,942.451,773.776
+Oil shale and oil sands,Final consumption - industry sector - iron and steel,,,,,,,,,,,,
+Oil shale and oil sands,Final consumption - other sectors,,,,,,,,,,,,

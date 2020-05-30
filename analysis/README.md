@@ -45,6 +45,6 @@ Households - type of connection to the internet - filtered on EU countries & 2-a
 This data contains economic indicators for countries. Not recently updated
 
 
-### Sustainable energy 
+### Energy consumption
 
-Energy consumption, sustainable energy. Recently updated data.
+Energy consumption in Europe - per country, per type of energy source (coal, oil, nuclear, wind, water, renewable), per sector. 
