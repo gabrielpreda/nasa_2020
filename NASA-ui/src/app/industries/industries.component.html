@@ -1,0 +1,4 @@
+<div *ngFor="let industry of industriesService.industries; let i = index" class="card card-1" [ngStyle]="{'background-color': getColor(i)}" >
+  <h5>{{industry.name}}</h5>
+</div>
+
