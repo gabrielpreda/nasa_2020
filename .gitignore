@@ -1,3 +1,4 @@
 .ipynb_checkpoints/*
 analysis/.ipynb_checkpoints/*
 data/earthdata-merra2-co/co2MERA/*
+data/iasi/iasi-metop/iasi_CO_LATMOS_ULB_metopc_20200101_v20191122.txt
