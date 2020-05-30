@@ -28,6 +28,12 @@ Euro area 19 international trade - monthly data - eda (data is not qualifying fo
 
 This data can help us understand how families are coping with WFH and home schooling / online learning constraints due to lockdown in Europe countries.
 
+#### Unemployment in EU
+
+Unemployment in EU, grouped by country, sex, age - data up to April 2020. Some countries shows an sharp increase in unemployment - especially for people <25 
+(some cases, male more impacted than female); it might be, in some countries cases, a seasonal effect.
+The sharp increase arrives on a general decreasing trend, with some countries with an overlap of bi-qarterly peaks.
+
 Households - type of connection to the internet - filtered on EU countries & 2-adults household (2019)
 
 ### UN Data
