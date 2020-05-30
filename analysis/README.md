@@ -10,6 +10,10 @@ iasi-metop-c-co-eda - select data from iasi-metop-c-co - only lat/long/date/CO t
 Show distribution of CO total over Europe teritory. Uses data from Jan 2020. This CO total distribution might be an indicator of economic status/energy consumption.
 Issue: not all data can be downloaded - and no recent Satellite data.
 
+### EARTH DATA MERRA-2 Data Analysis
+
+Satelite data in format ndf4 - exploratory analysis for data extraction & visualization
+
 
 ### COVID-19 Europe Data Analysis
 
