@@ -16,8 +16,10 @@ Source: https://iasi.aeris-data.fr/co_iasi_c_arch/
 Data info: https://iasi.aeris-data.fr/CO_readme/
 
 
+### DATA EUROPA EU
 
+ei_etea19_m - Euro area 19 international trade - monthly data - eda
 
-
+isoc_ci_it_h - Households - type of connection to the internet
 
 
