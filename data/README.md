@@ -23,3 +23,13 @@ ei_etea19_m - Euro area 19 international trade - monthly data - eda
 isoc_ci_it_h - Households - type of connection to the internet
 
 
+### UN Data
+
+This data contains economic indicators for countries. Not recently updated
+Original source: https://www.kaggle.com/sudalairajkumar/undata-country-profiles
+
+
+### Sustainable energy 
+
+Energy consumption, sustainable energy. Recently updated data.
+Original source: https://www.kaggle.com/natashalondon/sustainable-energy-for-all
