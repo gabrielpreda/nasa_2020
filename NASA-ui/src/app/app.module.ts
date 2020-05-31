@@ -10,6 +10,7 @@ import { MapComponent } from './map/map.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatDialogModule } from '@angular/material/dialog';
 import { BrowserModule } from '@angular/platform-browser';
+import { ChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { BrowserModule } from '@angular/platform-browser';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatDialogModule
+    MatDialogModule,
+    ChartsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
