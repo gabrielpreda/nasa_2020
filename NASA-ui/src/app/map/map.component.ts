@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import * as $ from 'jquery';
 import { IndustriesComponent } from '../industries/industries.component';
 // @ts-ignore
@@ -13,6 +13,7 @@ declare var topojson: any;
 	styleUrls: ['./map.component.scss']
 })
 export class MapComponent implements OnInit {
+	@Input() series:[];
 	constructor(private dialog: MatDialog) {
 	}
 
@@ -95,7 +96,10 @@ export class MapComponent implements OnInit {
 					// const step = 255 / avaibleCountries.length;
 					// return `rgb(${200 }, ${255 - (step)}, ${70 })`;
 					//
-					return color(+csv_value(+d.properties.indx));
+					const step = 255 / thisInstance.series.length;
+					let index = thisInstance.series.findIndex(value => value.countryCode === d.properties.iso_a3);
+					return `rgb(${120 + index * (step / 2)}, ${255 - (index * step)}, ${70 - (index * step / 4)})`;
+					// return color(+csv_value(+d.properties.indx));
 				});
 		}
 
