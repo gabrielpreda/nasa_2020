@@ -21,14 +21,30 @@ export class IndustriesComponent implements OnInit {
 	};
 
 	public lineChartColors: Color[] = [
-		{
-			borderColor: 'rgba(255,183,1,1)',
-			backgroundColor: 'rgba(255,183,1,0)',
+		{ // grey
+			backgroundColor: 'rgba(148,159,177,0.2)',
+			borderColor: 'rgba(148,159,177,1)',
+			pointBackgroundColor: 'rgba(148,159,177,1)',
+			pointBorderColor: '#fff',
+			pointHoverBackgroundColor: '#fff',
+			pointHoverBorderColor: 'rgba(148,159,177,0.8)'
 		},
-		{
-			borderColor: '#023047',
-			backgroundColor: 'rgba(255,183,1,0)',
+		{ // dark grey
+			backgroundColor: 'rgba(77,83,96,0.2)',
+			borderColor: 'rgba(77,83,96,1)',
+			pointBackgroundColor: 'rgba(77,83,96,1)',
+			pointBorderColor: '#fff',
+			pointHoverBackgroundColor: '#fff',
+			pointHoverBorderColor: 'rgba(77,83,96,1)'
 		},
+		{ // red
+			backgroundColor: 'rgba(255,0,0,0.3)',
+			borderColor: 'red',
+			pointBackgroundColor: 'rgba(148,159,177,1)',
+			pointBorderColor: '#fff',
+			pointHoverBackgroundColor: '#fff',
+			pointHoverBorderColor: 'rgba(148,159,177,0.8)'
+		}
 	];
 	public lineChartLegend = true;
 	public lineChartType = 'line';
