@@ -1,0 +1,3524 @@
+notation,prefLabel,country
+EU28,European Union - 28 countries (2013-2020),Europe
+EU27,European Union - 27 countries (2007-2013),Europe
+EU25,European Union - 25 countries (2004-2006),Europe
+EU15,European Union - 15 countries (1995-2004),Europe
+EA15,"Euro area (BE, DE, IE, EL, ES, FR, IT, CY, LU, MT, NL, AT, PT, SI, FI)",Europe
+EA13,"Euro area (BE, DE, IE, EL, ES, FR, IT, LU, NL, AT, PT, SI, FI)",Europe
+EA12,"Euro area (BE, DE, IE, EL, ES, FR, IT, LU, NL, AT, PT, FI)",Europe
+BE,Belgium,Belgium
+BG,Bulgaria,Bulgaria
+DK,Denmark,Denmark
+DE,Germany,Germany
+EE,Estonia,Estonia
+IE,Ireland,Ireland
+EL,Greece,Greece
+ES,Spain,Spain
+FR,France,France
+IT,Italy,Italy
+CY,Cyprus,Cyprus
+LV,Latvia,Latvia
+LT,Lithuania,Lithuania
+MT,Malta,Malta
+NL,Netherlands,Netherlands
+PL,Poland,Poland
+PT,Portugal,Portugal
+RO,Romania,Romania
+SI,Slovenia,Slovenia
+FI,Finland,Finland
+SE,Sweden,Sweden
+UK,United Kingdom,United Kingdom
+HR,Croatia,Croatia
+IS,Iceland,Iceland
+NO,Norway,Norway
+TR,Turkey,Turkey
+EU27_NO,EU27 plus NO,non-Euro
+EEA30,"European Economic Area (EEA) (EU-27 plus IS, LI, NO)",Europe
+EEA30_HR,EEA plus HR,Europe
+DE01,Germany: North Sea,Germany
+DE02,Germany: Baltic,Germany
+DE03,Germany: Rhine,Germany
+DE09,Germany: unspecified maritime coastal area,Germany
+ES01,Spain: Atlantic  (North),Spain
+ES02,Spain: Mediterranean & Atlantic (South),Spain
+ES03,Spain: Ceuta,Spain
+ES04,Spain: Melilla,Spain
+ES09,Spain: unspecified maritime coastal area,Spain
+FR01,France: Atlantic / North Sea,France
+FR02,France: Mediterranean - including Monaco,France
+FR03,France: French Guiana,France
+FR04,France: Guadeloupe and Martinique,France
+FR05,France: Reunion,France
+FR09,France: unspecified maritime coastal area,France
+SE01,Sweden: Baltic,Sweden
+SE02,Sweden: North Sea,Sweden
+SE09,Sweden: unspecified maritime coastal area,Sweden
+UK01,United Kingdom (Great Britain & Northern Ireland),United Kingdom
+UK02,United Kingdom: Isle of Man,United Kingdom
+UK03,United Kingdom: Channel Islands,United Kingdom
+UK09,United Kingdom: unspecified maritime coastal area,United Kingdom
+TR01,Turkey: Black Sea,Turkey
+TR02,Turkey: Mediterranean,Turkey
+TR09,Turkey: unspecified maritime coastal area,Turkey
+BE00BEANR,Antwerpen,Belgium
+BE00BEBRU,Bruxelles (Brussel),Belgium
+BE00BEGNE,Gent (Ghent),Belgium
+BE00BELGG,Liège,Belgium
+BE00BENIE,Nieuwpoort,Belgium
+BE00BEOST,Oostende (Ostend),Belgium
+BE00BEZEE,Zeebrugge,Belgium
+BE00BE001,Zeekanaal Brussel-Schelde ports,Belgium
+BE00BE002,Other Inland ports (other than Zeekanaal Brussel-Schelde ports),Belgium
+BE00BE888,Belgium: other ports,Belgium
+BG00BGBOJ,Burgas,Bulgaria
+BG00BGVAR,Varna,Bulgaria
+BG00BG888,Bulgaria: other ports,Bulgaria
+DK00DKAAB,Aabenraa,Denmark
+DK00DKAAL,Aalborg,Denmark
+DK00DKROR,Aalborg Portland (Cementfabrikken Rordal),Denmark
+DK00DKAAR,Aarhus,Denmark
+DK00DKARO,Aaro,Denmark
+DK00DKARD,Aarosund,Denmark
+DK00DKARK,Aeroskobing,Denmark
+DK00DKAGO,Agerso,Denmark
+DK00DKAGH,Agger Havn,Denmark
+DK00DKASH,Aggersund Havn,Denmark
+DK00DKANH,Anholt,Denmark
+DK00DKASK,Asko,Denmark
+DK00DKASV,Asnaesvaerkets Havn,Denmark
+DK00DKASN,Assens,Denmark
+DK00DKAUB,Augustenborg,Denmark
+DK00DKAVE,Avedorevaerkets Havn,Denmark
+DK00DKAVK,Avernako/Lyo,Denmark
+DK00DKBGO,Baago,Denmark
+DK00DKBAG,Bagenkop,Denmark
+DK00DKBLB,Ballebro,Denmark
+DK00DKBDX,Bandholm (Maribo),Denmark
+DK00DKBOG,Bogo,Denmark
+DK00DKBOS,Bojden,Denmark
+DK00DKBRH,Branden Havn,Denmark
+DK00DKDAN,Cementfabrikken Danias Havn,Denmark
+DK00DKKON,Cementfabrikken Kongsdal Havn,Denmark
+DK00DKDAS,Dansk Salts Havn,Denmark
+DK00DKDRA,Dragor,Denmark
+DK00DKEBT,Ebeltoft,Denmark
+DK00DKEGN,Egense,Denmark
+DK00DKEDL,Endelave,Denmark
+DK00DKENS,Enstedvaerkets Havn,Denmark
+DK00DKEBJ,Esbjerg,Denmark
+DK00DKFAA,Faaborg Havn,Denmark
+DK00DKFAK,Fakse Ladeplads Havn,Denmark
+DK00DKFGS,Feggesund,Denmark
+DK00DKFEJ,Fejo,Denmark
+DK00DKFMO,Femo,Denmark
+DK00DKFRC,Fredericia (Og Shell-Havnen),Denmark
+DK00DKFDH,Frederikshavn,Denmark
+DK00DKFDS,Frederikssund Havn,Denmark
+DK00DKSVV,Frederiskværk Havn (Frederiksværk Stålvalseværk),Denmark
+DK00DKFUH,Fur,Denmark
+DK00DKFYH,Fynshav,Denmark
+DK00DKGED,Gedser,Denmark
+DK00DKGRA,Graasten,Denmark
+DK00DKGRE,Grenaa,Denmark
+DK00DKGFH,Gulfhavnen,Denmark
+DK00DKHAD,Haderslev,Denmark
+DK00DKHSU,Hadsund,Denmark
+DK00DKHAS,Hals,Denmark
+DK00DKHAN,Hanstholm,Denmark
+DK00DKHDH,Hardeshoj,Denmark
+DK00DKHSL,Hasle,Denmark
+DK00DKHNB,Havneby,Denmark
+DK00DKHVN,Havnso,Denmark
+DK00DKHLS,Helsingor (Elsinore),Denmark
+DK00DKHIR,Hirtshals,Denmark
+DK00DKHBO,Hobro,Denmark
+DK00DKHBK,Holbaek,Denmark
+DK00DKHOR,Horsens,Denmark
+DK00DKHOH,Hou Havn,Denmark
+DK00DKHUN,Hundested,Denmark
+DK00DKHVA,Hvalpsund,Denmark
+DK00DKJUE,Juelsminde Havn,Denmark
+DK00DKKAL,Kalundborg,Denmark
+DK00DKKTP,Kastrup,Denmark
+DK00DKKTD,Kerteminde,Denmark
+DK00DKKLP,Kleppen,Denmark
+DK00DKCPH,Kobenhavns Havn,Denmark
+DK00DKKOG,Koge,Denmark
+DK00DKKOK,Kolby Kas Havn,Denmark
+DK00DKKOL,Kolding,Denmark
+DK00DKKRR,Korsor,Denmark
+DK00DKKRA,Kragenaes,Denmark
+DK00DKKBY,Kyndbyvaerkets Havn,Denmark
+DK00DKLVG,Lemvig,Denmark
+DK00DKLGR,Logstor,Denmark
+DK00DKLOH,Lohals,Denmark
+DK00DKLYO,Lyngs Odde Havn,Denmark
+DK00DKMRB,Marbæk Havn,Denmark
+DK00DKMRS,Marstal,Denmark
+DK00DKMAS,Masnedovaerkets Havn,Denmark
+DK00DKMNS,Masnedsund,Denmark
+DK00DKMID,Middelfart,Denmark
+DK00DKMOM,Mommark,Denmark
+DK00DKNUD,Naessund,Denmark
+DK00DKNVD,Naestved,Denmark
+DK00DKNAK,Nakskov,Denmark
+DK00DKNEX,Nekso,Denmark
+DK00DKNDB,"Nordby Havn, Fano",Denmark
+DK00DKVSV,Nordjyllandsvaerkets Havn,Denmark
+DK00DKNRS,Nørresundby,Denmark
+DK00DKNBG,Nyborg,Denmark
+DK00DKNYF,Nykobing Falster,Denmark
+DK00DKNYM,Nykobing Mors,Denmark
+DK00DKODE,Odense,Denmark
+DK00DKOMO,Omo,Denmark
+DK00DKORE,"Orehoved, Falster",Denmark
+DK00DKORO,Oro,Denmark
+DK00DKRAN,Randers,Denmark
+DK00DKROD,Rodby,Denmark
+DK00DKROF,Rodby (Faergehavn),Denmark
+DK00DKRNN,Ronne,Denmark
+DK00DKRRV,Rorvig,Denmark
+DK00DKRKB,Rudkobing,Denmark
+DK00DKSLV,Saelvig Havn,Denmark
+DK00DKSAX,Sakskøbing,Denmark
+DK00DKSEO,Sejero,Denmark
+DK00DKSJO,Sjaellands Odde,Denmark
+DK00DKSSK,Skaelskor,Denmark
+DK00DKSKB,Skaerbaekvaerkets Havn,Denmark
+DK00DKSKA,Skagen,Denmark
+DK00DKSDO,Skaro/Drejo,Denmark
+DK00DKSKV,Skive,Denmark
+DK00DKSOB,Soby Havn,Denmark
+DK00DKSGD,Sonderborg,Denmark
+DK00DKSPB,Spodsbjerg Havn,Denmark
+DK00DKSTT,Statoil-Havnen,Denmark
+DK00DKSTN,Stigsnaes,Denmark
+DK00DKSTG,Stigsnaesvaerkets Havn,Denmark
+DK00DKSTR,Struer Havn,Denmark
+DK00DKSNO,Stryno,Denmark
+DK00DKSBK,Stubbekobing Havn,Denmark
+DK00DKSSV,Studstrupvaerkets Havn,Denmark
+DK00DKSUE,Sundsore,Denmark
+DK00DKSVE,Svendborg,Denmark
+DK00DKTRS,Taars,Denmark
+DK00DKTED,Thisted,Denmark
+DK00DKTYB,Thyboron,Denmark
+DK00DKTNO,Tuno,Denmark
+DK00DKUNX,Masnedo Godningshavn (Uno-X Havn),Denmark
+DK00DKVNG,Vang Havn,Denmark
+DK00DKVEJ,Vejle,Denmark
+DK00DKVEN,Veno Havn,Denmark
+DK00DKVES,"Vestero Havn, Laeso",Denmark
+DK00DKVOR,Vordingborg Havn,Denmark
+DK00DK888,Denmark: other ports,Denmark
+DE01DEAMR,Amrun I.,Germany
+DE03DEAND,Andernach,Germany
+DE02DEANK,Anklam,Germany
+DE01DEBMR,Baltrum I.,Germany
+DE01DEBEI,Beidenfleth,Germany
+DE01DEBEN,Bensersiel,Germany
+DE03DEBER,Berlin,Germany
+DE02DEBOF,Berndshof,Germany
+DE01DEBMK,Borkum I.,Germany
+DE01DEBKE,Brake,Germany
+DE03DEBWE,Braunschweig,Germany
+DE01DEBRE,Bremen,Germany
+DE01DEBRV,Bremerhaven,Germany
+DE01DEBRB,Brunsbuettel,Germany
+DE01DEBUM,Buesum,Germany
+DE01DEBUZ,Buetzfleth,Germany
+DE02DEBSK,Burgstaaken/Fehmarn,Germany
+DE01DECAR,Carolinensiel,Germany
+DE03DECRL,Castrop-Rauxel,Germany
+DE01DECUX,Cuxhaven,Germany
+DE01DEDAG,Dagebuell,Germany
+DE02DEDMN,Demmin,Germany
+DE03DEDON,Dorsten,Germany
+DE03DEDTM,Dortmund,Germany
+DE03DEDUS,Duesseldorf,Germany
+DE03DEDUI,Duisburg,Germany
+DE02DEECK,Eckernfoerde,Germany
+DE01DEEME,Emden,Germany
+DE03DEESU,Emmelsum,Germany
+DE02DEFLF,Flensburg,Germany
+DE02DE117,Flensburger Foerde (Uebrige Haefen),Germany
+DE01DE017,Föhr I.,Germany
+DE01DEFRI,Friedrichstadt,Germany
+DE03DEGEK,Gelsenkirchen,Germany
+DE01DE118,Gieselau canal and Eider (Other ports),Germany
+DE01DEGLU,Glueckstadt,Germany
+DE02DEGRD,"Greifswald, Landkreis",Germany
+DE01DEHAM,Hamburg,Germany
+DE03DEHAU,Hanau,Germany
+DE01DEHRN,Haren/Ems,Germany
+DE02DEHHF,Heiligenhafen,Germany
+DE01DEHGL,Helgoland I.,Germany
+DE01DEHOD,Hochdonn,Germany
+DE01DEHRM,Hoernum/Sylt,Germany
+DE01DEHHS,Hohenhorn,Germany
+DE01DEHUS,Husum,Germany
+DE01DEITZ,Itzehohe,Germany
+DE01DEJUI,Juist,Germany
+DE02DEKAP,Kappeln,Germany
+DE02DEKEL,Kiel,Germany
+DE03DECGN,Koeln,Germany
+DE03DEKRE,Krefeld,Germany
+DE01DELGO,"Langeroog, Insel",Germany
+DE02DELAU,Lauterbach,Germany
+DE01DELEE,Leer,Germany
+DE01DELIS,List/Sylt,Germany
+DE01DELOH,Lohesch,Germany
+DE02DELBC,Luebeck,Germany
+DE03DELLF,Luelsdorf,Germany
+DE03DELLS,Luelsdorf,Germany
+DE03DEMUH,Muehlheim An Der Ruhr,Germany
+DE01DENES,Nessmersiel,Germany
+DE01DENHS,Neuharlingersiel,Germany
+DE03DENSS,Neuss,Germany
+DE02DENHO,Neustadt/Holstein,Germany
+DE01DENOE,Norddeich,Germany
+DE01DENHA,Nordenham,Germany
+DE01DENRD,Norderney I.,Germany
+DE01DENOR,Norstrand I.,Germany
+DE01DEOLO,Oldenburg/Oldenburg,Germany
+DE03DEORS,Orsoy,Germany
+DE02DEORT,"Orth, Fehmarn",Germany
+DE01DEPAP,Papenburg,Germany
+DE03DEPEI,Peine,Germany
+DE01DEPEL,Pellworm I.,Germany
+DE02DEPUT,Puttgarden,Germany
+DE02DEREN,Rendsburg,Germany
+DE03DERHB,Rheinberg-Ossenberg,Germany
+DE02DERSK,Rostock,Germany
+DE02DE055,Rügen (Eastern Stralsund line),Germany
+DE03DESAR,Salzgitter,Germany
+DE02DESAS,Sassnitz,Germany
+DE01DEHMO,"Schwarzenhütten, Hemmoor",Germany
+DE03DESDT,Schwedt,Germany
+DE03DESNE,Sehnde,Germany
+DE01DESPI,Spieckeroog I.,Germany
+DE03DE061,Spyck,Germany
+DE03DEPYK,Spyck,Germany
+DE01DESTA,Stade,Germany
+DE01DESTS,Stadersand,Germany
+DE02DESTL,Stralsund,Germany
+DE02DEUCK,Ückermünde,Germany
+DE03DEUEL,Uelzen,Germany
+DE01DEAGE,Wangerooge I.,Germany
+DE01DEWED,Wedel-Schulau,Germany
+DE03DEWES,Wesel,Germany
+DE01DEWVN,Wilhelmshaven,Germany
+DE01DEWIF,Wischhafen,Germany
+DE02DEWIS,Wismar,Germany
+DE02DEWOL,Wolgast,Germany
+DE01DEWYK,Wyk/Foehr,Germany
+DE01DE116,Other Ports on the Elbe,Germany
+DE02DE115,Other ports on the Baltic coast,Germany
+DE03DE888,Other - Germany Inland,Germany
+DE09DE888,Germany: other ports (unspecified maritime coastal area),Germany
+EE00EEHLT,Heltermaa,Estonia
+EE00EEKUI,Kuivastu,Estonia
+EE00EEKND,Kunda,Estonia
+EE00EEMDR,Miiduranna,Estonia
+EE00EEPLN,Paldiski Põhjasadam,Estonia
+EE00EEPRN,Pärnu,Estonia
+EE00EEPAR,Patareisadam,Estonia
+EE00EERHK,Rohuküla,Estonia
+EE00EESLM,Sillamäe,Estonia
+EE00EETLL,Tallinn,Estonia
+EE00EEVEB,Vene-Balti,Estonia
+EE00EEVIR,Virtsu,Estonia
+EE00EE888,Estonia: other ports,Estonia
+IE00IEARK,Arklow,Ireland
+IE00IEBYT,Bantry Bay,Ireland
+IE00IECTB,Castletownbere (Castletown Bearhaven),Ireland
+IE00IEORK,Cork,Ireland
+IE00IEDRO,Drogheda,Ireland
+IE00IEDUB,Dublin,Ireland
+IE00IEDLG,Dun Laoghaire,Ireland
+IE00IEDDK,Dundalk,Ireland
+IE00IEFOV,Foynes,Ireland
+IE00IEGWY,Galway,Ireland
+IE00IEGRN,Greenore,Ireland
+IE00IEKBS,Killybegs,Ireland
+IE00IEKLR,Kilrush,Ireland
+IE00IEKLN,Kinsale,Ireland
+IE00IELMK,Limerick,Ireland
+IE00IENRS,New Ross,Ireland
+IE00IEROS,Rosslare Harbour,Ireland
+IE00IESLI,Sligo,Ireland
+IE00IETRA,Tralee,Ireland
+IE00IEWAT,Waterford,Ireland
+IE00IEWIC,Wicklow,Ireland
+IE00IEYOU,Youghal,Ireland
+EL00GRAEG,Aegina (001),Greece
+EL00GRAEN,Aegio (002),Greece
+EL00GR876,Ag. Nikolaos Fokidas,Greece
+EL00GRAGN,Agathonissi Dodekanissou,Greece
+EL00GR702,Agathonisi Dodekanissou,Greece
+EL00GRAEF,Agia Efimia (003),Greece
+EL00GR701,Agia Galini Rethimnou,Greece
+EL00GRAMR,Agia Marina Aiginas,Greece
+EL00GR868,Agia Marina Aiginas,Greece
+EL00GR883,Agia Marina Attikis,Greece
+EL00GRGMA,Agia Marina Attikis,Greece
+EL00GRAGM,Agia Marina Fthiot.,Greece
+EL00GRAPE,Agia Pelagia (004),Greece
+EL00GRROU,Agia Roumeli Chanion,Greece
+EL00GRAGT,Agii Theodori,Greece
+EL00GRAGK,Agiokampos Larissas,Greece
+EL00GRAGO,Agios Eystratios Lesvou,Greece
+EL00GRAKI,Agios Kirikos (005),Greece
+EL00GRAKO,Agios Konstantinos (006),Greece
+EL00GRANI,Agios Nikolaos Creta,Greece
+EL00GRAGG,Agistri Aiginas,Greece
+EL00GRAGA,Agria Volou (709),Greece
+EL00GRAIG,Aigiali Amorgou,Greece
+EL00GR880,Aktio Vonitsas,Greece
+EL00GRAXD,Alexandroupolis,Greece
+EL00GRLVR,Aliverio,Greece
+EL00GR886,Almyropotamos Evoias,Greece
+EL00GRALM,Almyros Volou (897),Greece
+EL00GRALO,Alonissos,Greece
+EL00GRATS,Altsi (864),Greece
+EL00GRAPL,Amaliapolis Magnissias,Greece
+EL00GRAMF,Amfilochia,Greece
+EL00GRAMI,Amoliani (011),Greece
+EL00GRAMO,Amorgos,Greece
+EL00GRANA,Anafi Kyklades,Greece
+EL00GRAND,Andros,Greece
+EL00GRATK,Antikyra,Greece
+EL00GRANP,Antiparos (014),Greece
+EL00GRANT,Antirio (015),Greece
+EL00GRARX,Araxos,Greece
+EL00GR870,Araxos,Greece
+EL00GREFL,Argostolion,Greece
+EL00GRARD,Arkii Dodekanissou,Greece
+EL00GR717,Arkii Dodekanisou,Greece
+EL00GRARK,Arkitsa Fthiotidas,Greece
+EL00GRAPY,Aspropyrgos,Greece
+EL00GRAST,Astakos,Greece
+EL00GRARS,Astros Arkadias,Greece
+EL00GR719,Astros Arkadias,Greece
+EL00GRJTY,Astypalea,Greece
+EL00GR720,Atalanti Fthiotidas,Greece
+EL00GRVSS,Bassiliki Leykados,Greece
+EL00GR723,Bolissos Chios,Greece
+EL00GRCHQ,Canea,Greece
+EL00GRHAL,Chalki Dodekanissou,Greece
+EL00GRCLK,Chalkida,Greece
+EL00GRJKH,Chios,Greece
+EL00GRCSF,Chora Sfakion (017),Greece
+EL00GRCFU,Corfu,Greece
+EL00GRCRG,Corinth,Greece
+EL00GRDAF,Dafni Agiou Orous,Greece
+EL00GR730,Derveni Korinthias,Greece
+EL00GRDIA,Diafani Karpathou,Greece
+EL00GRDIK,Diakofti Kythiron,Greece
+EL00GRDMB,Dombraina Boiotias,Greece
+EL00GR900,Dombraina Boiotias,Greece
+EL00GRDON,Donousa Kyklades,Greece
+EL00GRDPA,Drapetsona,Greece
+EL00GRDRE,Drepano Riou,Greece
+EL00GREDI,Edipsos (018),Greece
+EL00GRELN,Elafonissos Lakonias,Greece
+EL00GRELT,Eleftheres (020),Greece
+EL00GREEU,Eleusis,Greece
+EL00GR867,Ereikouses,Greece
+EL00GRERE,Eretria Evoias,Greece
+EL00GRERM,Ermioni (021),Greece
+EL00GREYD,Eydilos (022),Greece
+EL00GRFNR,Faneromeni Salaminas,Greece
+EL00GRFIS,Fiskardo Kefallinias,Greece
+EL00GRFOL,Folegandros Kyklades,Greece
+EL00GRFOU,Fourni Samou,Greece
+EL00GRFRI,Frikes Ithakis,Greece
+EL00GRGAL,Galatas Trizinias,Greece
+EL00GRGAV,Gavrion,Greece
+EL00GR849,Gaydow Chania,Greece
+EL00GR857,Gerakas,Greece
+EL00GRGLO,Glossa (026),Greece
+EL00GRGLY,Glyfa Fthiotidas,Greece
+EL00GRGYT,Gythion,Greece
+EL00GRHER,Heraklion,Greece
+EL00GRHYD,Hydra (Idhra),Greece
+EL00GR741,Ierissos Chalikidikis,Greece
+EL00GRIGO,Igoumenitsa,Greece
+EL00GRINO,Inousses (028),Greece
+EL00GRIOS,Ios (029),Greece
+EL00GRHRK,Iraklia Kyklades,Greece
+EL00GRITM,Isthmia,Greece
+EL00GRITA,Itea,Greece
+EL00GRITH,Ithaki,Greece
+EL00GRKLX,Kalamata,Greece
+EL00GRKLD,Kalathos Rodou,Greece
+EL00GRKLI,Kali Limenes,Greece
+EL00GR743,Kalloni Lesvou,Greece
+EL00GRKMI,Kalymnos Island,Greece
+EL00GR745,Kamiro Rodou,Greece
+EL00GRKAP,Kapsalio (032),Greece
+EL00GRKAR,Karlovassi,Greece
+EL00GRAOK,Karpathos,Greece
+EL00GRKST,Karystos,Greece
+EL00GRKSJ,Kassos,Greece
+EL00GRKIS,Kastelli Kissamou (035),Greece
+EL00GRKAK,Katakolo (036),Greece
+EL00GRKVA,Kavala,Greece
+EL00GRKEA,Kea Island,Greece
+EL00GRKEF,Kefalos Kos,Greece
+EL00GRKER,Keramoti,Greece
+EL00GRKTS,Keratsini (865),Greece
+EL00GRKIO,Kiato (042),Greece
+EL00GRKMS,Kimolos,Greece
+EL00GR754,Koilas Ermionidos Argolidos,Greece
+EL00GRKIN,Koilas Ermionidos Argolidos,Greece
+EL00GR755,Korthion Androu,Greece
+EL00GRKGS,Kos,Greece
+EL00GRKEM,Kosta Ermionidos,Greece
+EL00GR881,Kosta Ermionidos,Greece
+EL00GRKOF,Koufonissi Kyklades,Greece
+EL00GRKYL,Kylini,Greece
+EL00GRKYM,Kymassio,Greece
+EL00GRKIM,Kymi,Greece
+EL00GRKYT,Kythnos,Greece
+EL00GR862,Lagos,Greece
+EL00GRLRY,Larymna,Greece
+EL00GRLAV,Lavrion,Greece
+EL00GRLEF,Lefkandi,Greece
+EL00GRLFK,Lefkimi (049),Greece
+EL00GRLND,Leonidion (050),Greece
+EL00GRLRS,Leros Island,Greece
+EL00GRLEV,Levkas,Greece
+EL00GRLIN,Linoperamata Herakliou,Greece
+EL00GRLIP,Lipsi Dodekanissou,Greece
+EL00GRLIX,Lixouri,Greece
+EL00GRLTR,Loutro Chania,Greece
+EL00GRZEA,Marina Zeas,Greece
+EL00GRMRM,Marmari (051),Greece
+EL00GRMGN,Meganissi (052),Greece
+EL00GRMGR,Megara,Greece
+EL00GRKAS,Megisti Kastelorizou,Greece
+EL00GRMEN,Menidion Etoloacarnan,Greece
+EL00GRMEL,Mesolongion,Greece
+EL00GRMES,Messogea (055),Greece
+EL00GRMHI,Mesta Hiou (056),Greece
+EL00GRMET,Methoni,Greece
+EL00GRMLO,Milos Island,Greece
+EL00GRMOL,Molyvos Lesvou,Greece
+EL00GRMON,Monemvassia,Greece
+EL00GRMDR,Moudros (060),Greece
+EL00GRJMK,Mykonos,Greece
+EL00GRMYR,Myrina (061),Greece
+EL00GRMJT,Mytilene,Greece
+EL00GRNAF,Nafplion,Greece
+EL00GRJNX,Naxos,Greece
+EL00GRNKV,Nea Karvali,Greece
+EL00GRNMA,Nea Moudania,Greece
+EL00GR795,nea Psara Chiou,Greece
+EL00GRNST,Nea Styra (064),Greece
+EL00GRNEA,Neapolis,Greece
+EL00GRNID,Nidrion (065),Greece
+EL00GRNIS,Nissyros,Greece
+EL00GR909,North Evoikos,Greece
+EL00GRORE,Orei (067),Greece
+EL00GRORO,Oropos,Greece
+EL00GROTH,Othonoí,Greece
+EL00GROUR,Ouranoupoli Chalkidikis,Greece
+EL00GRPAA,Palaia Psara Chiou,Greece
+EL00GRPEP,Palea Epidavros (069),Greece
+EL00GRPSF,Paleohora Sfakion (070),Greece
+EL00GRPAO,Paloukia Salaminas,Greece
+EL00GRPAR,Parga Prevezas (809),Greece
+EL00GRPAS,Paros,Greece
+EL00GRPMS,Patmos,Greece
+EL00GRGPA,Patras,Greece
+EL00GRPAX,Paxi (097),Greece
+EL00GRPER,Perama,Greece
+EL00GRPGM,Perama Geras Mytilinis,Greece
+EL00GRPSK,Pessada Kefallinias,Greece
+EL00GR887,Pessada Kefallinias,Greece
+EL00GRPET,Petra Lesvou,Greece
+EL00GR813,Petriti Kerkyras,Greece
+EL00GRPIR,Piraeus,Greece
+EL00GRPIS,Pissaetos Ithakis,Greece
+EL00GRPLG,Platygiali Etoloakarnanias,Greece
+EL00GRPLM,Plomari Lesvou,Greece
+EL00GRPLC,Polihnitos Lesvou,Greece
+EL00GRPTK,Politika (074),Greece
+EL00GRPKE,Poros Kefallinias (075),Greece
+EL00GRPTR,Poros Trizinias (076),Greece
+EL00GRPHE,Porto Heli (077),Greece
+EL00GR854,Porto Karra Chalkidikis,Greece
+EL00GRPTL,Porto Lagos,Greece
+EL00GRPOA,Potamos Antikithera,Greece
+EL00GRPVK,Preveza/Lefkas,Greece
+EL00GR822,Prinos Kavalas,Greece
+EL00GRPPI,Prinos Thassou,Greece
+EL00GRPSA,Psachna (863),Greece
+EL00GRPYL,Pylos,Greece
+EL00GRPYT,Pythagorio,Greece
+EL00GRRAF,Rafina,Greece
+EL00GRRET,Rethymnon,Greece
+EL00GRRHO,Rhodes,Greece
+EL00GRRIO,Rio (080),Greece
+EL00GRSMI,Sami,Greece
+EL00GRSAM,Samothraki,Greece
+EL00GRSHC,Schinoussa Kyklades,Greece
+EL00GRSER,Seriphos Island,Greece
+EL00GRSHI,Shinari Zakyntou,Greece
+EL00GR892,Shinari Zakyntou,Greece
+EL00GRSIF,Sifnos,Greece
+EL00GRSGR,Sigri Lesvou,Greece
+EL00GR835,Sikia Porto Rafti,Greece
+EL00GRSII,Sikinow Kyklades,Greece
+EL00GRJSH,Sitia,Greece
+EL00GRSKA,Skaramangas,Greece
+EL00GRJSI,Skiathos,Greece
+EL00GRSKO,Skopelos,Greece
+EL00GRSKU,Skyros Island,Greece
+EL00GR832,Soubala Aiginas,Greece
+EL00GRSUD,Souda Bay,Greece
+EL00GRSOG,Sougia,Greece
+EL00GRSLA,Souvala Aiginas,Greece
+EL00GRSPE,Spetses (085),Greece
+EL00GRSHA,Stavros Halkidikis (086),Greece
+EL00GRSTI,Stratonio,Greece
+EL00GRSYS,Stylida,Greece
+EL00GRSYM,Symi (087),Greece
+EL00GRJSY,Syros (Syra),Greece
+EL00GRTSO,Thasos,Greece
+EL00GRSKG,Thessaloniki,Greece
+EL00GRJTR,Thira,Greece
+EL00GRTRS,Thirassia (099),Greece
+EL00GRTIL,Tilos Dodekanissou,Greece
+EL00GRTIN,Tinos,Greece
+EL00GR839,Tolo Argolidas,Greece
+EL00GR838,Trikeri Magnisias,Greece
+EL00GRTRY,Trypiti Chalkidikis,Greece
+EL00GRVTH,Vathy Samou,Greece
+EL00GRVOL,Volos,Greece
+EL00GRYER,Yerakini,Greece
+EL00GRZTH,Zakynthos,Greece
+EL00GR88P,Greek offshore installations,Greece
+EL00GR88Q,Greek aggregates extraction areas,Greece
+EL00GR888,Greece: other ports,Greece
+ES02ESACA,Alcanar,Greece
+ES02ESALG,Algeciras,Greece
+ES02ESALC,Alicante,Greece
+ES02ESLEI,Almeria,Greece
+ES01ESAVS,Aviles,Greece
+ES02ESBBE,Barbate,Greece
+ES02ESBCN,Barcelona,Greece
+ES01ESBIO,Bilbao,Greece
+ES02ESCAD,Cadiz,Greece
+ES02ESCAR,Cartagena,Greece
+ES02ESCAS,Castellón,Greece
+ES03ESCEU,Ceuta,Greece
+ES01ESFRO,Ferrol,Greece
+ES02ESGAR,Garrucha,Greece
+ES01ESGIJ,Gijon,Greece
+ES02ESHUV,Huelva,Greece
+ES01ESLCG,La Coruña,Greece
+ES02ESLPA,Las Palmas de Gran Canaria,Greece
+ES02ESAGP,Málaga,Greece
+ES01ESMPG,Marín-Pontevedra,Greece
+ES04ESMLN,Melilla,Greece
+ES02ESMOL,Molina de Segura,Greece
+ES02ESMOT,Motril,Greece
+ES02ESPAL,Palamós,Greece
+ES02ESPMI,Palma de Mallorca,Greece
+ES01ESPAS,Pasajes,Greece
+ES02ESSCR,San Carlos de la Rápita,Greece
+ES02ESSCT,Santa Cruz De Tenerife,Greece
+ES01ESSDR,Santander,Greece
+ES02ESSVQ,Sevilla,Greece
+ES02ESTAR,Tarragona,Greece
+ES02ESVLC,Valencia,Greece
+ES01ESVGO,Vigo,Greece
+ES01ESVIL,Villagarcía,Greece
+ES09ES888,Spain: other ports (unspecified maritime coastal area),Greece
+FR02FRAJA,Ajaccio,France
+FR02FRBIA,Bastia,France
+FR01FRBAY,Bayonne,France
+FR02FRBON,Bonifacio,France
+FR01FRBOD,Bordeaux,France
+FR01FRBOL,Boulogne-Sur-Mer,France
+FR01FRBES,Brest,France
+FR01FRCFR,Caen,France
+FR01FRCQF,Calais,France
+FR02FRCLY,Calvi,France
+FR01FRCAM,Camaret,France
+FR02FRCEQ,Cannes,France
+FR01FRCRT,Carteret,France
+FR01FRCER,Cherbourg,France
+FR01FRCOC,Concarneau,France
+FR03GFDDC,Degrad-des Cannes (French Guiana),France
+FR01FRDPE,Dieppe,France
+FR01FRDRZ,Douarnenez,France
+FR01FRDKK,Dunkerque,France
+FR01FRFEC,Fecamp,France
+FR04MQFDF,Fort-de France (Martinique),France
+FR01FRGFR,Granville,France
+FR01FRGRV,Gravelines,France
+FR04GP001,Guadeloupe (Guadeloupe),France
+FR01FRHET,Hennebont,France
+FR01FRHON,Honfleur,France
+FR03GFQKR,Kourou (French Guiana),France
+FR02FRLCT,La Ciotat,France
+FR01FRLRH,La Rochelle,France
+FR01FRLDN,Landerneau,France
+FR01FRLAI,Lannion,France
+FR03GFLVT,Larivot (French Guiana),France
+FR01FRLFR,Le Fret (Crozon),France
+FR01FRLGU,Le Guildo (Crehen),France
+FR01FRLEH,Le Havre,France
+FR01FRLLG,Le Légué,France
+FR01FRSBK,Le Legue (St Brieuc),France
+FR01FRLTR,Le Treport,France
+FR01FRLSO,Les Sables D'Olonne,France
+FR01FRLEZ,Lezardieux,France
+FR02FRILR,L'Ile Rousse,France
+FR01FRLRT,Lorient,France
+FR02FRMRS,Marseille,France
+FR01FRMXN,Morlaix,France
+FR01FRMSG,Mortagne-Sur-Gironde,France
+FR01FRNTE,Nantes Saint-Nazaire,France
+FR02FRNCE,Nice-Villefranche,France
+FR01FRPAI,Paimpol,France
+FR01FRPOX,Pontrieux,France
+FR05REPDG,Port Reunion (ex Pointe-des Galets) (Reunion),France
+FR02FRPOV,Port Vendres,France
+FR01FRPRJ,Port-Joinville (Ile D'Yeu),France
+FR02FRNOU,Port-La-Nouvelle,France
+FR02FRPVO,Porto Vecchio,France
+FR02FRPRP,Propriano,France
+FR01FRUIP,Quimper,France
+FR01FRRDN,Redon,France
+FR01FRRCO,Rochefort,France
+FR01FRROS,Roscoff,France
+FR01FRURO,Rouen,France
+FR01FRRYN,Royan,France
+FR02FRSET,Sete,France
+FR03GFSLM,St Laurent du Maroni (French Guiana),France
+FR01FRSML,St Malo,France
+FR02FRSRL,St Raphael,France
+FR01FRSVS,St Valery-Sur-Somme,France
+FR01FRTON,Tonnay Charente (Rochefort),France
+FR02FRTLN,Toulon,France
+FR01FRTRE,Treguier,France
+FR01FRVNE,Vannes,France
+FR09FR888,France: other ports (unspecified maritime coastal area),France
+IT00ITAHO,Alghero,Italy
+IT00ITALI,Alicudi,Italy
+IT00ITAMA,Amalfi,Italy
+IT00ITAOI,Ancona,Italy
+IT00ITANZ,Anzio,Italy
+IT00ITATX,Arbatax,Italy
+IT00ITAUG,Augusta,Italy
+IT00ITBLN,Bagnoli,Italy
+IT00ITBAI,Baia,Italy
+IT00ITBRI,Bari,Italy
+IT00ITBLT,Barletta,Italy
+IT00ITBDS,Brindisi,Italy
+IT00ITCAG,Cagliari,Italy
+IT00ITCLS,Calasetta,Italy
+IT00ITCPA,Capraia,Italy
+IT00ITPRJ,Capri,Italy
+IT00ITCLF,Carloforte,Italy
+IT00ITCML,Casamicciola,Italy
+IT00ITCTR,Castellammare Del Golfo,Italy
+IT00ITCAS,Castellammare Di Stabia,Italy
+IT00ITCTA,Catania,Italy
+IT00ITCVX,Cavo,Italy
+IT00ITCHI,Chioggia,Italy
+IT00ITCVV,Civitavecchia,Italy
+IT00ITCRV,Crotone,Italy
+IT00ITFAL,Falconara Marittima,Italy
+IT00ITFAV,Favignana,Italy
+IT00ITFPO,Filicudi Porto,Italy
+IT00ITFCO,Fiumicino,Italy
+IT00ITFOM,Formia,Italy
+IT00ITGAE,Gaeta,Italy
+IT00ITGAL,Gallipoli,Italy
+IT00ITGEA,Gela,Italy
+IT00ITGOA,Genova,Italy
+IT00ITGII,Giannutri,Italy
+IT00ITGIA,Giardini di Naxos,Italy
+IT00ITGIT,Gioia Tauro,Italy
+IT00ITGAI,Golfo Aranci,Italy
+IT00ITGOR,Gorgona,Italy
+IT00ITGRD,Grado,Italy
+IT00ITIMP,Imperia,Italy
+IT00ITIDG,Isola Del Giglio,Italy
+IT00ITISS,Isola Santo Stefano,Italy
+IT00ITMDA,La Maddalena,Italy
+IT00ITSPE,La Spezia,Italy
+IT00ITLMP,Lampedusa,Italy
+IT00ITLEV,Levanzo,Italy
+IT00ITLIC,Licata,Italy
+IT00ITLIU,Linosa,Italy
+IT00ITLIP,Lipari,Italy
+IT00ITLIV,Livorno,Italy
+IT00ITMFR,Manfredonia,Italy
+IT00ITMMO,Marettimo,Italy
+IT00ITMDC,Marina Di Carrara,Italy
+IT00ITMRA,Marsala,Italy
+IT00ITMAZ,Mazara Del Vallo,Italy
+IT00ITMSN,Messina,Italy
+IT00ITMLZ,Milazzo,Italy
+IT00ITMOL,Molfetta,Italy
+IT00ITMNF,Monfalcone,Italy
+IT00ITMNP,Monopoli,Italy
+IT00ITNAP,Napoli,Italy
+IT00ITOLB,Olbia,Italy
+IT00ITONE,Oneglia,Italy
+IT00ITQOS,Oristano,Italy
+IT00ITOTN,Ortona,Italy
+IT00ITOTO,Otranto,Italy
+IT00ITPAU,Palau,Italy
+IT00ITPMO,Palermo,Italy
+IT00ITPAN,Panarea,Italy
+IT00ITPNL,Pantelleria,Italy
+IT00ITPES,Pesaro,Italy
+IT00ITPSR,Pescara,Italy
+IT00ITPCH,Peschici,Italy
+IT00ITPIA,Pianosa,Italy
+IT00ITPIO,Piombino,Italy
+IT00ITPFO,Porto Levante,Italy
+IT00ITPNZ,Ponza,Italy
+IT00ITPGL,Portiglioni,Italy
+IT00ITPAZ,Porto Azzurro,Italy
+IT00ITPCE,Porto Cervo,Italy
+IT00ITPDI,Porto D'Ischia,Italy
+IT00ITPEM,Porto Empedocle,Italy
+IT00ITPFX,Porto Foxi,Italy
+IT00ITPGA,Porto Garibaldi,Italy
+IT00ITPLI,Porto Lignano,Italy
+IT00ITPMZ,Porto Maurizio,Italy
+IT00ITPNG,Porto Nogaro,Italy
+IT00ITPSS,Porto Santo Stefano,Italy
+IT00ITPTO,Porto Torres,Italy
+IT00ITPFE,Portoferraio,Italy
+IT00ITPTF,Portofino,Italy
+IT00ITPVE,Portovesme,Italy
+IT00ITPOS,Positano,Italy
+IT00ITPZL,Pozzallo,Italy
+IT00ITPOZ,Pozzuoli,Italy
+IT00ITPRO,Procida,Italy
+IT00ITRAN,Ravenna,Italy
+IT00ITREG,Reggio Di Calabria,Italy
+IT00ITRMI,Rimini,Italy
+IT00ITRMA,Rio Marina,Italy
+IT00ITRPT,Riposto,Italy
+IT00ITRGG,Rodi Garganico,Italy
+IT00ITSDB,S. Benedetto Del Tronto,Italy
+IT00ITSAL,Salerno,Italy
+IT00ITSLA,Salina,Italy
+IT00ITSRE,Sanremo,Italy
+IT00ITSML,Santa Margherita Ligure,Italy
+IT00ITSPA,Santa Panagia,Italy
+IT00ITSTE,Santa Teresa Di Gallura,Italy
+IT00ITSAT,Sant'Antioco,Italy
+IT00ITSVC,Santo Vito Lo Capo,Italy
+IT00ITSVN,Savona,Italy
+IT00ITSIR,Siracusa,Italy
+IT00ITRRO,Sorrento,Italy
+IT00ITSTR,Stromboli,Italy
+IT00ITTAL,Talamone,Italy
+IT00ITTAR,Taranto,Italy
+IT00ITTRI,Termini Imerese,Italy
+IT00ITTMI,Termoli,Italy
+IT00ITTRC,Terracina,Italy
+IT00ITTOA,Torre Annunziata,Italy
+IT00ITTGR,Torregrande,Italy
+IT00ITTVC,Torviscosa,Italy
+IT00ITTNI,Trani,Italy
+IT00ITTPS,Trapani,Italy
+IT00ITTMT,Tremiti,Italy
+IT00ITTRS,Trieste,Italy
+IT00ITUST,Ustica,Italy
+IT00ITVDA,Vada,Italy
+IT00ITVSO,Vasto,Italy
+IT00ITVCE,Venezia,Italy
+IT00ITVTT,Ventotene,Italy
+IT00ITVIA,Viareggio,Italy
+IT00ITVVA,Vibo Valentia,Italy
+IT00ITVIE,Vieste,Italy
+IT00ITVUL,Vulcano Porto,Italy
+IT00IT88P,IT offshore installations,Italy
+IT00IT888,Italy: other ports,Italy
+CY00CYAKT,Akrotiri,Cyprus
+CY00CYDHK,Dekeleia (Dhekelia),Cyprus
+CY00CYLCA,Larnaka (Larnaca),Cyprus
+CY00CY01M,Larnaca (Larnaka) Oil Terminal,Cyprus
+CY00CYLAT,Latsi (Latchi),Cyprus
+CY00CYLMS,Lemesos (Limassol),Cyprus
+CY00CYMOI,Moni,Cyprus
+CY00CYVAS,Vasiliko (Vasilico),Cyprus
+CY00CY888,Cyprus: other ports,Cyprus
+LV00LVLPX,Liepaja,Latvia
+LV00LVMRX,Mersrags,Latvia
+LV00LVRIX,Riga,Latvia
+LV00LVROJ,Roja,Latvia
+LV00LVSAL,Salacgriva,Latvia
+LV00LVSKU,Skulte,Latvia
+LV00LVVNT,Ventspils,Latvia
+LV00LV888,Latvia: other ports,Latvia
+LT00LTBOT,Butinge,Latvia
+LT00LTKLJ,Klaipeda,Latvia
+MT00MTCKW,Cirkewwa,Malta
+MT00MTMLA,Malta (Valletta),Malta
+MT00MTMAR,Marsaxlokk,Malta
+MT00MTMGZ,"Mgarr, Gozo",Malta
+MT00MT888,Malta: other ports,Malta
+NL00NLABL,Alblasserdam,Netherlands
+NL00NLAML,Ameland,Netherlands
+NL00NLAMS,Amsterdam,Netherlands
+NL00NLBGB,Bergambacht,Netherlands
+NL00NLBZM,Bergen Op Zoom,Netherlands
+NL00NLBEV,Beverwijk,Netherlands
+NL00NLBOR,Borsele,Netherlands
+NL00NLBRK,Brakel,Netherlands
+NL00NLBRS,Breskens,Netherlands
+NL00NLCPI,Capelle Aan Den Ijssel,Netherlands
+NL00NLCUY,Cuijk,Netherlands
+NL00NLDZL,Delfzijl/Eemshaven,Netherlands
+NL00NLDHR,Den Helder,Netherlands
+NL00NLDEV,Deventer,Netherlands
+NL00NLDIN,Dinteloord En Prinsenland,Netherlands
+NL00NLDOI,Doetinchem,Netherlands
+NL00NLDOK,Dokkum,Netherlands
+NL00NLDOR,Dordrecht,Netherlands
+NL00NLDRU,Druten,Netherlands
+NL00NLFRK,Franekeradeel,Netherlands
+NL00NLGTB,Geertruindenberg,Netherlands
+NL00NLGNM,Genemuiden,Netherlands
+NL00NLGEN,Gennep,Netherlands
+NL00NLGDR,Goerdereede,Netherlands
+NL00NLGOR,Gorinchem,Netherlands
+NL00NLGRQ,Groningen,Netherlands
+NL00NLHAN,Hansweert,Netherlands
+NL00NLHRX,Hardinxveld-Giessenda,Netherlands
+NL00NLHAR,Harlingen,Netherlands
+NL00NLHAS,Hasselt,Netherlands
+NL00NLHIA,Hendrik-Ido-Ambacht,Netherlands
+NL00NLHGL,Hengelo,Netherlands
+NL00NLHTN,Hontenisse,Netherlands
+NL00NLKAM,Kampen,Netherlands
+NL00NLKRP,Krimpen Aan Den Ijsse,Netherlands
+NL00NLLAN,Lanwersoog,Netherlands
+NL00NLLWR,Leeuwarden,Netherlands
+NL00NLLCH,Lochem,Netherlands
+NL00NLMSS,Maarssen,Netherlands
+NL00NLMSB,Maasbracht,Netherlands
+NL00NLMSL,Maassluis,Netherlands
+NL00NLMST,Maastricht,Netherlands
+NL00NLMEW,Meerlo-Wansum,Netherlands
+NL00NLMEP,Meppel,Netherlands
+NL00NLMID,Middelburg,Netherlands
+NL00NLMIH,Middelharnis,Netherlands
+NL00NLMOE,Moerdijk,Netherlands
+NL00NLNLK,Nieuw-Lekkerland,Netherlands
+NL00NLNIJ,Nijmegen,Netherlands
+NL00NLOOS,Oosterhout,Netherlands
+NL00NLOSS,Oss,Netherlands
+NL00NLOUG,Oud En Nieuw Gastel,Netherlands
+NL00NLOAI,Ouderkerk,Netherlands
+NL00NLPAP,Papendrecht,Netherlands
+NL00NLRAA,Raamsdonk,Netherlands
+NL00NLRAS,Ravenstein,Netherlands
+NL00NLREW,Reimerswaal,Netherlands
+NL00NLRNK,Renkum,Netherlands
+NL00NLRHE,Rhenen,Netherlands
+NL00NLRID,Ridderkerk,Netherlands
+NL00NLOMD,Roermond,Netherlands
+NL00NLROO,Roosendaal,Netherlands
+NL00NLRTM,Rotterdam,Netherlands
+NL00NLROZ,Rozenburg,Netherlands
+NL00NLSVG,Sas Van Gent,Netherlands
+NL00NLSCE,Scheveningen,Netherlands
+NL00NLSCI,Schiedam,Netherlands
+NL00NLGRA,S-Gravendeel,Netherlands
+NL00NLHTB,S-Hertogenbosch,Netherlands
+NL00NLSLD,Sliedrecht,Netherlands
+NL00NLSLU,Sluiskil,Netherlands
+NL00NLSML,Smallingerland,Netherlands
+NL00NLSNK,Sneek,Netherlands
+NL00NLSTE,Steenbergen,Netherlands
+NL00NLTNZ,Terneuzen,Netherlands
+NL00NLTEX,Texel,Netherlands
+NL00NLTIE,Tiel,Netherlands
+NL00NLUTC,Utrecht,Netherlands
+NL00NLVEL,Velsen/Ijmuiden,Netherlands
+NL00NLVEN,Venlo,Netherlands
+NL00NLVIE,Vierlingsbeek,Netherlands
+NL00NLVLA,Vlaardingen,Netherlands
+NL00NLVLI,Vlissingen,Netherlands
+NL00NLWGW,Wageningen,Netherlands
+NL00NLWKD,Werkendam,Netherlands
+NL00NLWTE,West-Terschelling,Netherlands
+NL00NLWCM,Woudrichem,Netherlands
+NL00NLZAA,Zaanstad,Netherlands
+NL00NLZWI,Zwijndrecht,Netherlands
+NL00NLZWO,Zwolle,Netherlands
+NL00NL887,Small inland waterway ports,Netherlands
+NL00NL888,Netherlands: other ports,Netherlands
+PL00PLDAR,Darlowo,Poland
+PL00PLELB,Elblag,Poland
+PL00PL011,Frombork,Poland
+PL00PLFBK,Frombork,Poland
+PL00PLGDN,Gdansk,Poland
+PL00PLGDY,Gdynia,Poland
+PL00PLHEL,Hel,Poland
+PL00PLKOL,Kolobrzeg,Poland
+PL00PLKMR,Krynica Morska,Poland
+PL00PL012,Krynica Morska,Poland
+PL00PLMID,Miedzyzdroje,Poland
+PL00PLNWA,Nowe Warpno,Poland
+PL00PLPLC,Police,Poland
+PL00PLSOP,Sopot,Poland
+PL00PLSPA,Stepnica,Poland
+PL00PLSWI,Swinoujscie,Poland
+PL00PLSZZ,Szczecin,Poland
+PL00PLTBZ,Trzebiez,Poland
+PL00PLUST,Ustka,Poland
+PL00PLWLA,Wladyslawowo,Poland
+PT00PTADH,"Angra do Heroísmo (Ilha da Terceira, Açores)",Poland
+PT00PTAVE,Aveiro,Poland
+PT00PTCDP,"Cais do Pico (Ilha do Pico, Açores)",Poland
+PT00PTCNL,Caniçal,Poland
+PT00PTOPO,Douro (Oporto),Poland
+PT00PTFAO,Faro,Poland
+PT00PTFDF,Figueira da Foz,Poland
+PT00PTFNC,Funchal (Madeira),Poland
+PT00PTHOR,"Horta (Ilha das Faial, Açores)",Poland
+PT00PTLAJ,"Lajes das Flores (Ilha das Flores, Açores)",Poland
+PT00PTLEI,Leixões,Poland
+PT00PTLIS,Lisboa,Poland
+PT00PTMAD,"Madalena (Ilha do Pico, Açores)",Poland
+PT00PTPDL,"Ponta Delgada (Ilha de S. Miguel, Açores)",Poland
+PT00PTPRM,Portimão,Poland
+PT00PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)",Poland
+PT00PTPRG,"Praia da Graciosa (Ilha da Graciosa, Açores)",Poland
+PT00PTPRV,"Praia da Vitória (Ilha Terceira, Açores)",Poland
+PT00PTSET,Setúbal,Poland
+PT00PTSIE,Sines,Poland
+PT00PTVEL,"Velas (Ilha de São Jorge, Açores)",Poland
+PT00PTVDC,Viana do Castelo,Poland
+PT00PTVDP,"Vila do Porto (Ilha de Sta Maria, Açores)",Poland
+PT00PTVNC,"Vila Nova do Corvo (Ilha do Corvo, Açores)",Poland
+RO00ROBAB,Basarabi,Romania
+RO00ROBRA,Braila,Romania
+RO00ROCEV,Cernavoda,Romania
+RO00ROCND,Constanta,Romania
+RO00ROGAL,Galati,Romania
+RO00ROLUM,Luminita,Romania
+RO00ROMAG,Mangalia,Romania
+RO00ROMED,Medgidia,Romania
+RO00ROMID,Midia,Romania
+RO00ROSUL,Sulina,Romania
+RO00ROTCE,Tulcea,Romania
+RO00RO888,Romania: other ports,Romania
+SI00SIIZO,Izola,Slovenia
+SI00SIKOP,Koper,Slovenia
+SI00SIPIR,Piran,Slovenia
+SI00SI888,Slovenia: other ports,Slovenia
+FI00FIBRA,Brando,Finland
+FI00FIDRA,Dragsfjard,Finland
+FI00FIECK,Eckero,Finland
+FI00FIESP,Espoo,Finland
+FI00FIEJO,Eurajoki,Finland
+FI00FIFAR,Farjsund,Finland
+FI00FIFOG,Foglo,Finland
+FI00FIFOR,Forby,Finland
+FI00FIGDB,Godby,Finland
+FI00FIHMN,Hamina,Finland
+FI00FI002,HaminaKotka,Finland
+FI00FIHKO,Hanko,Finland
+FI00FIHEL,Helsinki,Finland
+FI00FIHOU,Houtskar,Finland
+FI00FIINI,Inio,Finland
+FI00FIINK,Inkoo,Finland
+FI00FIISN,Isnas,Finland
+FI00FIKJO,Kalajoki,Finland
+FI00FIKNT,Kantvik,Finland
+FI00FIKAS,Kaskinen,Finland
+FI00FIKEM,Kemi,Finland
+FI00FIKIM,Kemio,Finland
+FI00FIKKR,Kokar,Finland
+FI00FIKOK,Kokkola,Finland
+FI00FIKOR,Korpoo,Finland
+FI00FIKTK,HaminaKotka,Finland
+FI00FIKVH,Koverhar,Finland
+FI00FIKRS,Kristinankaupunki,Finland
+FI00FIKUM,Kumlinge,Finland
+FI00FILAN,Langnas,Finland
+FI00FILAP,Lappohja,Finland
+FI00FILOV,Loviisa,Finland
+FI00FILUV,Luvia,Finland
+FI00FIMHQ,Mariehamn,Finland
+FI00FIMER,Merikarvia,Finland
+FI00FINLI,Naantali,Finland
+FI00FINAU,Nauvo,Finland
+FI00FIOUL,Oulu,Finland
+FI00FIPAR,Parainen,Finland
+FI00FIPER,Pernaja,Finland
+FI00FIPRS,Pietarsaari,Finland
+FI00FIPOH,Pohjankuru,Finland
+FI00FIPOR,Pori,Finland
+FI00FIRAA,Raahe,Finland
+FI00FIRAU,Rauma,Finland
+FI00FIRTR,Rautaruukki,Finland
+FI00FIRUO,Ruotsinpyhtää,Finland
+FI00FIRYM,Rymattyla,Finland
+FI00FISAL,Salo,Finland
+FI00FISIP,Sipoonlahti,Finland
+FI00FISKV,Skoeldvik,Finland
+FI00FISKB,Skogby,Finland
+FI00FIDLS,Taalintehdas,Finland
+FI00FITVS,Taivassalo,Finland
+FI00FITAI,Tammisaari,Finland
+FI00FITEI,Teijo,Finland
+FI00FITOK,Tolkkinen,Finland
+FI00FITOR,Tornio,Finland
+FI00FITKU,Turku,Finland
+FI00FIUKI,Uusikaupunki,Finland
+FI00FIVAA,Vaasa,Finland
+FI00FIVEL,Velkua,Finland
+FI00FI001,Finland Inland Ports,Finland
+FI00FI888,Finland: other ports,Finland
+SE01SEAHU,Ahus,Sweden
+SE01SEALA,Ala,Sweden
+SE02SEALN,Älvenäs,Sweden
+SE02SEAMA,Amal,Sweden
+SE01SEBLV,Ballstaviken,Sweden
+SE01SEBAA,Balsta,Sweden
+SE01SEBEA,Bergkvara,Sweden
+SE01SEBER,Bergs Oljehamn,Sweden
+SE02SEBOH,Bohus,Sweden
+SE01SEBOL,Bollstabruk,Sweden
+SE01SEBVK,Braviken,Sweden
+SE02SEBRO,Brofjorden,Sweden
+SE01SEBYX,Byxelkrok,Sweden
+SE01SEDEG,Degerhamn,Sweden
+SE01SEDOM,Domsjo,Sweden
+SE01SEENK,Enkoping,Sweden
+SE01SEFAK,Fagerviken,Sweden
+SE02SEFAG,Falkenberg,Sweden
+SE02SEFJA,Fjällbacka,Sweden
+SE01SEFLI,Flivik,Sweden
+SE01SEFOR,Forsmark,Sweden
+SE01SEGAM,Gamleby,Sweden
+SE01SEGVX,Gavle,Sweden
+SE02SEGOA,Göta,Sweden
+SE02SEGOT,Goteborg,Sweden
+SE01SEGKV,Grankullavik,Sweden
+SE02SEGRE,Grebbestad,Sweden
+SE01SEGRH,Grisslehamn,Sweden
+SE02SEGRU,Gruvon (ports),Sweden
+SE01SEGUN,Gunnebo,Sweden
+SE01SEGUB,Gustavberg,Sweden
+SE01SEHAK,Hallstavik,Sweden
+SE02SEHAD,Halmstad,Sweden
+SE01SEHAN,Hargshamn,Sweden
+SE01SEHND,Harnosand,Sweden
+SE01SEHEL,Helsingborg,Sweden
+SE02SEHOG,Hoganas,Sweden
+SE02SEHON,Honsatar,Sweden
+SE01SEHUV,Hudiksvall,Sweden
+SE02SEHUN,Hunnebostrand,Sweden
+SE01SEHUS,Husum,Sweden
+SE01SEIGG,Iggesund,Sweden
+SE01SEJAT,Jatterson,Sweden
+SE01SEKGG,Kagghamra,Sweden
+SE01SEKAX,Kalix,Sweden
+SE01SEKLR,Kalmar,Sweden
+SE01SEKAL,Kalmarsand,Sweden
+SE01SEKPH,Kappelshamn,Sweden
+SE01SEKPS,Kappelskar,Sweden
+SE01SEKXV,Karlsborg Axelvik,Sweden
+SE01SEKAN,Karlshamn,Sweden
+SE01SEKAA,Karlskrona,Sweden
+SE02SEKSD,Karlstad,Sweden
+SE01SEKLI,Klintehamn,Sweden
+SE01SEKOG,Koping,Sweden
+SE02SEKHN,Kristinehamn,Sweden
+SE01SEKUB,Kubikenborg,Sweden
+SE02SEKUN,Kungshamn,Sweden
+SE01SEKVA,Kvarnholmen,Sweden
+SE01SELAA,Landskrona,Sweden
+SE02SELDK,Lidkoping,Sweden
+SE02SELED,Lilla Edet,Sweden
+SE01SELOM,Lomma,Sweden
+SE01SELOT,Löten,Sweden
+SE01SELLA,Lulea,Sweden
+SE01SELUG,Lungvik,Sweden
+SE02SELYS,Lysekil,Sweden
+SE01SEMMA,Malmo,Sweden
+SE02SEMAD,Mariestad,Sweden
+SE01SEMOR,Morbylanga,Sweden
+SE02SENOL,Nol (ports),Sweden
+SE01SENOG,Nordmaling,Sweden
+SE01SENRK,Norrkoping,Sweden
+SE01SENOT,Norrsundet,Sweden
+SE01SENOE,Norrtalje,Sweden
+SE01SENYO,Nykoping,Sweden
+SE01SENYN,Nynäshamn (ports),Sweden
+SE01SEOER,Ornskoldsvik,Sweden
+SE01SEOSK,Oskarshamn,Sweden
+SE01SEOST,Ostrand,Sweden
+SE02SEOTT,Otterbacken,Sweden
+SE01SEOXE,Oxelösund (ports),Sweden
+SE01SEPIT,Pitea,Sweden
+SE01SERNH,Romehamn,Sweden
+SE01SERNB,Ronneby,Sweden
+SE01SERUV,Rundvik,Sweden
+SE02SESAF,Saffle,Sweden
+SE01SESIM,Simrishamn,Sweden
+SE02SESKT,Skattkarr,Sweden
+SE01SESFT,Skelleftea,Sweden
+SE02SESKO,Skoghall (ports),Sweden
+SE01SESSR,Skutskar,Sweden
+SE01SESLI,Slite (ports),Sweden
+SE01SESOO,Soderhamn,Sweden
+SE01SESOE,Sodertalje,Sweden
+SE01SESOL,Solvesborg,Sweden
+SE01SESOR,Soraker,Sweden
+SE02SESTE,Stenungsund (Ports),Sweden
+SE01SESTA,Stocka,Sweden
+SE01SESTO,Stockholm,Sweden
+SE01SESTK,Stockvik,Sweden
+SE01SESTV,Stora Vika,Sweden
+SE01SESUS,Storugns,Sweden
+SE01SESTQ,Strangnas,Sweden
+SE02SESMD,Stromstad,Sweden
+SE01SESDL,Sundsvall,Sweden
+SE02SESUR,Surte,Sweden
+SE01SETOE,Tore,Sweden
+SE01SETRG,Trelleborg,Sweden
+SE02SETHN,Trollhattan (Ports),Sweden
+SE01SETUN,Tunadal,Sweden
+SE02SEUDD,Uddevalla,Sweden
+SE01SEUME,Umea,Sweden
+SE01SEUND,Underås,Sweden
+SE01SEUPP,Uppsala,Sweden
+SE01SEUTA,Utansjo,Sweden
+SE01SEVAJ,Vaja,Sweden
+SE01SEVAK,Valdemarsvik,Sweden
+SE01SEVAL,Vallvik,Sweden
+SE02SEVAN,Vanersborg,Sweden
+SE02SEVAG,Varberg,Sweden
+SE02SEVGN,Vargon,Sweden
+SE01SEVST,Vasteras,Sweden
+SE01SEVVK,Vastervik,Sweden
+SE01SEVER,Verkebäck,Sweden
+SE01SEVBY,Visby,Sweden
+SE01SEVIV,Vivstavarv,Sweden
+SE02SEWAL,Wallhamn,Sweden
+SE01SEYST,Ystad,Sweden
+SE09SE88C,Sweden: Eurostat estimate for missing data,Sweden
+SE01SE888,Other - Sweden Baltic,Sweden
+SE02SE888,Other - Sweden North Sea,Sweden
+SE09SE88D,Sweden: Other ports,Sweden
+SE09SE888,Sweden: Other ports (unspecified maritime coastal area),Sweden
+UK01GBABD,Aberdeen,United Kingdom
+UK01GBAPP,Appledore,United Kingdom
+UK01GBASG,Ardrishaig,United Kingdom
+UK01GBAYR,Ayr,United Kingdom
+UK01GBBLR,Ballylumford,United Kingdom
+UK01GBBND,Barnstaple,United Kingdom
+UK01GBCBA,Barra Castlebay,United Kingdom
+UK01GBBIF,Barrow-In-Furness,United Kingdom
+UK01GBBAD,Barry,United Kingdom
+UK01GBBEL,Belfast,United Kingdom
+UK01GBBWK,Berwick-On-Tweed,United Kingdom
+UK01GBBID,Bideford,United Kingdom
+UK01GBBLY,Blyth,United Kingdom
+UK01GBBOS,Boston,United Kingdom
+UK01GBBRW,Bridgwater,United Kingdom
+UK01GBBLS,Brightlingsea,United Kingdom
+UK01GBBRS,Bristol,United Kingdom
+UK01GBBRX,Brixham,United Kingdom
+UK01GBBUC,Buckie,United Kingdom
+UK01GBBUH,Burghead,United Kingdom
+UK01GBBPT,Burry Port,United Kingdom
+UK01GBCYN,Cairnryan,United Kingdom
+UK01GBCBT,Campbeltown,United Kingdom
+UK01GBCDF,Cardiff,United Kingdom
+UK01GBCHF,Charlestown,United Kingdom
+UK01GBCST,Chichester,United Kingdom
+UK01GBCYP,Clydeport,United Kingdom
+UK01GBCOL,Colchester,United Kingdom
+UK01GBCLR,Coleraine,United Kingdom
+UK01GBCOR,Corpach,United Kingdom
+UK01GBCOW,"Cowes, Iow",United Kingdom
+UK01GBCNU,Craignure,United Kingdom
+UK01GBCRN,Cromarty Firt,United Kingdom
+UK01GBDTM,Dartmouth,United Kingdom
+UK01GBDNQ,Dean Quarry,United Kingdom
+UK02IMDGS,"Douglas, Isle of Man",United Kingdom
+UK01GBDVR,Dover,United Kingdom
+UK01GBDUN,Dundee,United Kingdom
+UK01GB230,Dutch River Warf,United Kingdom
+UK01GBEXM,Exmouth,United Kingdom
+UK01GBFAL,Falmouth,United Kingdom
+UK01GBFHM,Fareham,United Kingdom
+UK01GBFXT,Felixstowe,United Kingdom
+UK01GBFIS,Fishguard,United Kingdom
+UK01GBFLE,Fleetwood,United Kingdom
+UK01GBFOL,Folkestone,United Kingdom
+UK01GBFOR,Forth,United Kingdom
+UK01GBFDK,Fosdyke,United Kingdom
+UK01GBFOY,Fowey,United Kingdom
+UK01GBFRB,Fraserburgh,United Kingdom
+UK01GBGTN,Garston,United Kingdom
+UK01GBILL,Gill's Bay,United Kingdom
+UK01GBGIR,Girvan,United Kingdom
+UK01GBGSA,Glensanda,United Kingdom
+UK01GBGOO,Goole,United Kingdom
+UK01GBGTY,Great Yarmouth,United Kingdom
+UK01GBIMM,Grimsby & Immingham,United Kingdom
+UK01GBHRW,Harwich,United Kingdom
+UK01GBHYM,Heysham,United Kingdom
+UK01GBHLY,Holyhead,United Kingdom
+UK01GBHWZ,Hugh Town,United Kingdom
+UK01GBHUL,Hull,United Kingdom
+UK01GBINK,Inverkeithing,United Kingdom
+UK01GBINV,Inverness,United Kingdom
+UK01GBIPS,Ipswich,United Kingdom
+UK01GBKLR,Kilroot,United Kingdom
+UK01GBKPS,Kilroot Power Station Jetty,United Kingdom
+UK01GBKLN,King'S Lynn,United Kingdom
+UK01GBKWL,Kirkwall,United Kingdom
+UK01GBLAN,Lancaster,United Kingdom
+UK01GBLAR,Larne,United Kingdom
+UK01GBLER,Lerwick,United Kingdom
+UK01GBLIT,Littlehampton,United Kingdom
+UK01GBLIV,Liverpool,United Kingdom
+UK01GBLDO,Llandudno,United Kingdom
+UK01GBLLD,Llandulas,United Kingdom
+UK01GB231,Loch Carnan,United Kingdom
+UK01GBLOL,Lochaline,United Kingdom
+UK01GBLON,London,United Kingdom
+UK01GBLDY,Londonderry,United Kingdom
+UK01GBLOW,Lowestoft,United Kingdom
+UK01GBMCD,Macduff,United Kingdom
+UK01GBMGO,Magheramorne,United Kingdom
+UK01GBMAL,Maldon,United Kingdom
+UK01GBMNC,Manchester,United Kingdom
+UK01GBMED,Medway,United Kingdom
+UK01GBMLF,Milford Haven,United Kingdom
+UK01GBMIS,Mistley,United Kingdom
+UK01GBMON,Montrose,United Kingdom
+UK01GBCHE,Mostyn,United Kingdom
+UK01GBNEA,Neath,United Kingdom
+UK01GBNCL,Newcastle-Upon-Tyne,United Kingdom
+UK01GBNHV,Newhaven,United Kingdom
+UK01GBNPO,Newport (Isle of Wight),United Kingdom
+UK01GBNPT,"Newport, Gwent",United Kingdom
+UK01GBOBA,Oban,United Kingdom
+UK01GBPAD,Padstow,United Kingdom
+UK01GBPAR,Par,United Kingdom
+UK01GBPEM,Pembroke,United Kingdom
+UK01GBPEN,Penzance,United Kingdom
+UK01GBPER,Perth,United Kingdom
+UK01GBPHD,Peterhead,United Kingdom
+UK01GBPLY,Plymouth,United Kingdom
+UK01GBPOO,Poole,United Kingdom
+UK01GBPPE,Port Penrhyn,United Kingdom
+UK01GBPSB,Port Sutton Bridge,United Kingdom
+UK01GBPTB,Port Talbot,United Kingdom
+UK01GBPOH,Porthoustock England,United Kingdom
+UK01GBPTR,Portrush,United Kingdom
+UK01GBPME,Portsmouth,United Kingdom
+UK01GBRMG,Ramsgate,United Kingdom
+UK01GB222,River Ouse,United Kingdom
+UK01GB221,Rivers Hull & Humber,United Kingdom
+UK01GBRFD,Rochford,United Kingdom
+UK01GBRYE,Rye,United Kingdom
+UK01GBSCR,Scrabster,United Kingdom
+UK01GBSEA,Seaham,United Kingdom
+UK01GBSSS,Sharpness,United Kingdom
+UK01GBSHO,Shoreham,United Kingdom
+UK01GBSHT,Shotton,United Kingdom
+UK01GBSIL,Silloth,United Kingdom
+UK01GBSOU,Southampton,United Kingdom
+UK01GBSWD,Southwold,United Kingdom
+UK03JESTH,"St Helier, Jersey",United Kingdom
+UK03GGSPT,"St Peter Port, Guernsey",United Kingdom
+UK01GBSTO,Stornoway,United Kingdom
+UK01GBSTR,Stranraer,United Kingdom
+UK01GBSOY,Stronsay,United Kingdom
+UK01GBSUL,Sullom Voe,United Kingdom
+UK01GBSUN,Sunderland,United Kingdom
+UK01GBSWA,Swansea,United Kingdom
+UK01GBMME,Tees & Hartlepool,United Kingdom
+UK01GBTNM,Teignmouth,United Kingdom
+UK01GBTOR,Torquay,United Kingdom
+UK01GB203,Trent River,United Kingdom
+UK01GBTRN,Troon,United Kingdom
+UK01GBTRU,Truro,United Kingdom
+UK01GBTYN,Tyne,United Kingdom
+UK01GBWPT,Warrenpoint,United Kingdom
+UK01GBWEY,Weymouth,United Kingdom
+UK01GBWTB,Whitby,United Kingdom
+UK01GBWHV,Whitehaven,United Kingdom
+UK01GBWTS,Whitstable,United Kingdom
+UK01GBWIC,Wick,United Kingdom
+UK01GBWIS,Wisbech,United Kingdom
+UK01GBWOR,Workington,United Kingdom
+UK01GB888,United Kingdom: other ports,United Kingdom
+UK02IM888,Other - United Kingdom - Isle of Man,United Kingdom
+UK03GG888,Other - United Kingdom - Guernsey,United Kingdom
+UK03JE888,Other - United Kingdom - Jersey,United Kingdom
+HR00HRBAK,Bakar,Croatia
+HR00HRBAS,Baška,Croatia
+HR00HRBNM,Biograd na Moru,Croatia
+HR00HRBOL,Bol,Croatia
+HR00HRBZA,Božava,Croatia
+HR00HRCVT,Cavtat,Croatia
+HR00HRCRS,Cres,Croatia
+HR00HRCRA,Crikvenica,Croatia
+HR00HRDBV,Dubrovnik - Gruž passenger port,Croatia
+HR00HRHVA,Hvar - passenger port,Croatia
+HR00HRIST,Ist,Croatia
+HR00HRJAB,Jablanac,Croatia
+HR00HRJSA,Jelsa,Croatia
+HR00HRKAB,Karlobag,Croatia
+HR00HRKMZ,Komiža,Croatia
+HR00HRKOR,Korcula,Croatia
+HR00HRKRA,Kraljevica,Croatia
+HR00HRKRK,Krk,Croatia
+HR00HRLST,Lastovo,Croatia
+HR00HRMAK,Makarska,Croatia
+HR00HRLSZ,Mali Lošinj - passenger port,Croatia
+HR00HRMAL,Malinska,Croatia
+HR00HRMET,Metkovic - cargo port,Croatia
+HR00HRMIL,Milna,Croatia
+HR00HRMOD,Moscenicka Draga,Croatia
+HR00HRMUR,Murter,Croatia
+HR00HRNVL,Novalja,Croatia
+HR00HRNVD,Novi Vinodolski,Croatia
+HR00HRNVG,Novigrad - passenger port,Croatia
+HR00HROMS,Omiš,Croatia
+HR00HROMI,Omišalj,Croatia
+HR00HROPA,Opatija,Croatia
+HR00HRPAG,Pag - passenger port,Croatia
+HR00HRPLE,Ploce,Croatia
+HR00HRPMN,Pomena,Croatia
+HR00HRPOR,Porec - passenger port,Croatia
+HR00HRPRE,Preko - passenger port,Croatia
+HR00HRPRI,Primošten,Croatia
+HR00HRPUY,Pula,Croatia
+HR00HRPNT,Punat,Croatia
+HR00HRRAB,Rab,Croatia
+HR00HRRBC,Rabac,Croatia
+HR00HRRAS,Raša - Bršica,Croatia
+HR00HRRJK,Rijeka,Croatia
+HR00HRRGC,Rogac,Croatia
+HR00HRRGN,Rogoznica,Croatia
+HR00HRROV,Rovinj - passenger port,Croatia
+HR00HRSAL,Sali,Croatia
+HR00HRSEN,Senj,Croatia
+HR00HRSIB,Šibenik,Croatia
+HR00HRSIL,Silba,Croatia
+HR00HRSLO,Šilo,Croatia
+HR00HRSLA,Slano,Croatia
+HR00HRSBR,Sobra,Croatia
+HR00HRSPU,Split,Croatia
+HR00HRSGD,Stari Grad,Croatia
+HR00HRSGR,Starigrad,Croatia
+HR00HRSTO,Ston,Croatia
+HR00HRSUC,Sucuraj - passenger port,Croatia
+HR00HRSMN,Sumartin,Croatia
+HR00HRSUP,Supetar,Croatia
+HR00HRSSK,Susak,Croatia
+HR00HRTNO,Tisno,Croatia
+HR00HRTRO,Trogir,Croatia
+HR00HRTRJ,Trpanj,Croatia
+HR00HRTRK,Trstenik,Croatia
+HR00HRUBL,Ubli,Croatia
+HR00HRUMG,Umag - passenger port,Croatia
+HR00HRVLK,Vela Luka - passenger port,Croatia
+HR00HRVIS,Vis - passenger port,Croatia
+HR00HRVDC,Vodice,Croatia
+HR00HRZAD,Zadar - passenger port,Croatia
+IS00ISAKR,Akranes,Iceland
+IS00ISAKU,Akureyri,Iceland
+IS00ISASS,Árskógssandur,Iceland
+IS00ISBAK,Bakkafjörður,Iceland
+IS00ISBIL,Bíldudalur,Iceland
+IS00ISBLO,Blonduos,Iceland
+IS00ISBOL,Bolungavirk,Iceland
+IS00ISBGJ,Borgafjörður eystri,Iceland
+IS00ISBRJ,Brjánslækur,Iceland
+IS00ISBRE,Breiðdalsvík,Iceland
+IS00ISDAL,Dalvik,Iceland
+IS00ISDJU,Djupivogur,Iceland
+IS00ISESK,Eskifjordur Hofn,Iceland
+IS00ISFAS,Faskrudsfjordur,Iceland
+IS00ISFLA,Flateyri,Iceland
+IS00ISGRD,Garður,Iceland
+IS00ISGRY,Grímsey,Iceland
+IS00ISGRI,Grindavik,Iceland
+IS00ISGRF,Grundarfjordur,Iceland
+IS00ISGRT,Grundartangi,Iceland
+IS00ISHAF,Hafnarfjordur,Iceland
+IS00ISHNR,Hafnir,Iceland
+IS00ISHFN,"Hofn, Hornafjordur",Iceland
+IS00ISHOF,Hofsós,Iceland
+IS00ISHVK,Holmavik,Iceland
+IS00ISHRI,Hrísey,Iceland
+IS00ISHUS,Husavik,Iceland
+IS00ISHVR,Hvalfjørdur-Litlisandur,Iceland
+IS00ISHVM,Hvammstangi,Iceland
+IS00ISISA,Isafjordur Hofn,Iceland
+IS00ISKEF,Keflavik,Iceland
+IS00ISKOP,Kópasker,Iceland
+IS00ISKOV,Kópavogur,Iceland
+IS00ISNES,Neskaupstadur,Iceland
+IS00ISNOU,Norðurfjörður,Iceland
+IS00ISOLF,Olafsfjordur,Iceland
+IS00ISOLV,Olafsvik,Iceland
+IS00ISPAT,Patreksfjordur Hofn,Iceland
+IS00ISRAU,Raufarhofn,Iceland
+IS00ISRFJ,Reydarfjordur,Iceland
+IS00ISRHA,Reykhólar,Iceland
+IS00ISREY,Reykjavik,Iceland
+IS00ISRIF,Rif,Iceland
+IS00ISSAN,Sandgerði,Iceland
+IS00ISSAU,Saudarkrokur,Iceland
+IS00ISSEY,Seydisfjordur,Iceland
+IS00ISSIG,Siglufjordur,Iceland
+IS00ISSKA,Skagaströnd,Iceland
+IS00ISSTD,Stodhvarfjordur,Iceland
+IS00ISSTR,Straumsvik,Iceland
+IS00ISSTY,Stykkisholmur Hofn,Iceland
+IS00ISSUV,Súðavík,Iceland
+IS00ISSUD,Sudureyri / Sugandafjord,Iceland
+IS00ISTAL,Tálknafjörður,Iceland
+IS00ISTEY,Thingeyri,Iceland
+IS00ISTHH,Thorlakshofn,Iceland
+IS00ISTHO,Thorshofn,Iceland
+IS00ISVES,Vestmannaeyjar,Iceland
+IS00ISVOG,Vogar,Iceland
+IS00ISVPN,Vopnafjordur,Iceland
+IS00IS888,Iceland: other ports,Iceland
+NO00NOAES,Aalesund/Langevaag/Spjelkavik,Norway
+NO00NOALF,Alta,Norway
+NO00NOADY,Andøy,Norway
+NO00NOAAN,Ardal,Norway
+NO00NOARE,Arendal,Norway
+NO00NOASL,Askvoll,Norway
+NO00NOAUL,Aurland,Norway
+NO00NOBJF,Batsfjord,Norway
+NO00NOBGO,Bergen,Norway
+NO00NOBVG,Berlevåg,Norway
+NO00NOBOO,Bodo,Norway
+NO00NOBRG,Borg,Norway
+NO00NOBRR,Borre,Norway
+NO00NOBRE,Bremanger/Svelgen,Norway
+NO00NOBRO,Broennoey,Norway
+NO00NODRM,Drammen,Norway
+NO00NOEGD,Eigersund,Norway
+NO00NOFAN,Farsund,Norway
+NO00NOFKS,Flakstad,Norway
+NO00NOFFD,Flekkefjord,Norway
+NO00NOFRO,Floroe,Norway
+NO00NOFUS,Fusa,Norway
+NO00NOGVL,Grenland/Skien/Porsgrunn/Bamble,Norway
+NO00NOGTD,Grimstad,Norway
+NO00NOGUL,Gulen/Slorvaag,Norway
+NO00NOHAD,Hadsel/Melbu/Stokmarknes,Norway
+NO00NOHAL,Halden,Norway
+NO00NOHFT,Hammerfest,Norway
+NO00NOHRD,Harstad,Norway
+NO00NOHOL,Holmestrand,Norway
+NO00NOHVG,Honningsvåg/Nordkapp,Norway
+NO00NOKAS,Karmsund/Haugesund/Karmøy,Norway
+NO00NOKKN,Kirkenes,Norway
+NO00NOKRA,Kragero,Norway
+NO00NOKRS,Kristiansand,Norway
+NO00NOKSU,Kristiansund,Norway
+NO00NOKVD,Kvinesdal/Oeyestrand,Norway
+NO00NOLAR,Larvik,Norway
+NO00NOLEB,Lebesby,Norway
+NO00NOLIL,Lillesand,Norway
+NO00NOLOD,Lødingen,Norway
+NO00SJLYR,Longyearbyen,Norway
+NO00NOLOP,Loppa/Øksfjord,Norway
+NO00NOLUS,Luster,Norway
+NO00NOMAY,Maloy,Norway
+NO00NOMAN,Mandal,Norway
+NO00NOMSY,Måsøy/Havøysund,Norway
+NO00NOMOD,Modalen,Norway
+NO00NOMOL,Molde,Norway
+NO00NOMJF,Mosjoen,Norway
+NO00NOMSS,Moss,Norway
+NO00NOOSY,Namsos,Norway
+NO00NONVK,Narvik,Norway
+NO00NOODD,Odda,Norway
+NO00NOMYO,Øksnes/Myre,Norway
+NO00NOOLN,Ølen,Norway
+NO00NOORK,Orkanger,Norway
+NO00NOOSL,Oslo,Norway
+NO00NOOST,Osterøy,Norway
+NO00NORNA,Rana,Norway
+NO00NOSAD,Sandefjord,Norway
+NO00NOSAS,Sandnes,Norway
+NO00NOSSJ,Sandnessjoen,Norway
+NO00NOSAU,Sauda,Norway
+NO00NOSAL,Sjøvegan/Salangen,Norway
+NO00NOSKY,Skjervoey,Norway
+NO00NOSOK,"Sokndal/Joessingfjord, Rekefjord",Norway
+NO00NOSLX,Sortland,Norway
+NO00NOSVG,Stavanger,Norway
+NO00NOSTE,Steinkjar,Norway
+NO00NOSRP,Stord/Leirvik,Norway
+NO00NOSTD,Strand/Tau,Norway
+NO00NOSRN,Stranda,Norway
+NO00NOSUL,Suldal/Sand,Norway
+NO00NOSUN,Sunndalsora,Norway
+NO00NO720,Svalbard,Norway
+NO00SJ888,Svalbard and Jan Mayen,Norway
+NO00SJSVE,Sveagruva,Norway
+NO00NOTON,Tonsberg,Norway
+NO00NOTOS,Tromso,Norway
+NO00NOTRD,Trondheim,Norway
+NO00NOVGN,Vaagan/Svolvaer,Norway
+NO00NOVDS,Vadso,Norway
+NO00NOVEY,Værøy,Norway
+NO00NOVAY,Vanylven/Aaheim,Norway
+NO00NOVAO,Vardo,Norway
+NO00NOVER,Verdal,Norway
+NO00NOVVY,Vestvågøy,Norway
+NO00NOVKN,Vikna/Rørvik,Norway
+NO00NO888,Norway: other ports,Norway
+TR01TRAMA,Amasra,Turkey
+TR02TRALA,Alanya,Turkey
+TR02TRALI,Aliaga,Turkey
+TR01TRAMB,Ambarli,Turkey
+TR02TRANA,Anamur,Turkey
+TR02TRAYT,Antalya,Turkey
+TR02TRAYV,Ayvalik,Turkey
+TR02TRBDM,Bandirmar,Turkey
+TR01TRBTN,Bartin,Turkey
+TR02TRBXN,Bodrum,Turkey
+TR02TRBOT,Botas,Turkey
+TR02TRBZC,Bozcaada,Turkey
+TR02TRCKZ,Canakkale,Turkey
+TR02TRCES,Cesme,Turkey
+TR02TRDAT,Datca,Turkey
+TR02TRDIK,"Dikili, Izmir",Turkey
+TR02TREDO,Edremit,Turkey
+TR02TRENE,Enez,Turkey
+TR02TRERK,Erdek,Turkey
+TR01TRERE,Eregli,Turkey
+TR01TRFAS,Fatsa,Turkey
+TR02TRFET,Fethiye,Turkey
+TR02TRFIN,Finike,Turkey
+TR02TRFOC,Foca,Turkey
+TR02TRGEL,Gelibolu,Turkey
+TR02TRGEM,Gemlik,Turkey
+TR01TRGZE,Gerze,Turkey
+TR01TRGIR,Giresun,Turkey
+TR02TRGCK,Gocek,Turkey
+TR02TRGCA,Gokceada,Turkey
+TR01TRGOR,Gorele,Turkey
+TR02TRGUL,Gulluk,Turkey
+TR01TRHOP,Hopa,Turkey
+TR01TRIGN,Igneada,Turkey
+TR01TRINE,Inebolu,Turkey
+TR02TRISK,"Iskenderun, Hatay",Turkey
+TR02TRIST,Istanbul,Turkey
+TR02TRIZM,Izmir,Turkey
+TR02TRIZT,Izmit,Turkey
+TR02TRKRB,Karabiga,Turkey
+TR02TRKAS,Kas,Turkey
+TR01TRKFK,Kefken,Turkey
+TR02TRKMR,Kemer,Turkey
+TR02TRKUS,Kusadasi,Turkey
+TR02TRMRA,"Marmara Adasi, Balikesir",Turkey
+TR02TRMRM,Marmaris,Turkey
+TR02TRMER,Mersin,Turkey
+TR02TRMUD,"Mudanya, Bursa",Turkey
+TR01TRORD,Ordu,Turkey
+TR01TRPZR,Pazar,Turkey
+TR01TRRIZ,Rize,Turkey
+TR01TRSSX,Samsun,Turkey
+TR01TRSLE,Sile,Turkey
+TR02TRSIL,Silivri,Turkey
+TR01TRSIC,Sinop,Turkey
+TR01TRSUR,Surmene,Turkey
+TR02TRTAS,Tasucu,Turkey
+TR02TRTEK,Tekirdag,Turkey
+TR01TRTIR,Tirebolu,Turkey
+TR01TRTZX,Trabzon,Turkey
+TR01TRUNY,Unye,Turkey
+TR01TRVAK,Vakfikebir,Turkey
+TR02TRYAL,Yalova,Turkey
+TR01TRZON,Zonguldak,Turkey
+TR09TR888,Turkey: Other ports,Turkey
+TOP_5,Top 5 ports,TOP_5
+TOP_20,Top 20 ports,TOP_20
+TOT_PORT,Total EU ports,Total_EU_port
+EL00GRKLS,Kaloi Limenes Rethymno,Spain
+ES02ESAGA,Agaete,Spain
+ES01ESBRM,Bermeo,Spain
+ES02ESQFU,Corralejo,Spain
+ES02ESMJB,Morro Jable,Spain
+ES02ESQLY,Playa Blanca,Spain
+ES02ESVCC,Vallcarca,Spain
+ES02ESVLG,Vilanova i la Geltrú,Spain
+FR01FR888,Other - France Atlantic/North Sea,France
+IT00IT88Q,IT - Aggregates extraction areas,Italy
+SE01SEELL,Elleholm,Sweden
+NO00NOAAF,Åfjord,Norway
+NO00NOASV,Austevoll,Norway
+NO00NOBAR,Bærum/Sandvika/Lysaker,Norway
+NO00NOBLL,Ballangen,Norway
+NO00NOBEJ,Beiarn,Norway
+NO00NOBJU,Bjugn/Lysøysund/Botngård,Norway
+NO00NOBOX,Bø,Norway
+NO00NOETN,Etne,Norway
+NO00NOFAU,Fauske,Norway
+NO00NOFSN,Fosnes,Norway
+NO00NOKAF,Gaivuotna - Kåfjord,Norway
+NO00NOGRV,Granvin,Norway
+NO00NOHAA,Hå,Norway
+NO00NOHYR,Høyanger,Norway
+NO00NOJON,Jondal,Norway
+NO00NONTY,Kjøpmannskjær/Nøtterøy,Norway
+NO00NOKVN,Kvænangen,Norway
+NO00NOKVM,Kvam,Norway
+NO00NOLEF,Leirfjord,Norway
+NO00NOLKA,Leka,Norway
+NO00NOLYN,Lyngen,Norway
+NO00NOMEY,Meløy/Glomfjord/Ørnes,Norway
+NO00NOMSK,Moskenes,Norway
+NO00NONSN,Nesna,Norway
+NO00NOEID,Nordfjordeid/Eid,Norway
+NO00NOOLA,Ørland/Brekstad,Norway
+NO00NOOSN,Osen,Norway
+NO00NORIS,Risør,Norway
+NO00NOSDL,Saltdal/Rognan,Norway
+NO00NOSOG,Sogndal,Norway
+NO00NOSNE,Søgne,Norway
+NO00NOSMN,Sømna,Norway
+NO00NOSRA,Sørreisa,Norway
+NO00NOSTG,Steigen,Norway
+NO00NOSTK,Stokke/Melsomvik,Norway
+NO00NOSTF,Storfjord,Norway
+NO00NOSYK,Sykkylven,Norway
+NO00NOTYN,Tysnes,Norway
+NO00NOVEG,Vega,Norway
+EEA31,"European Economic Area (EU28 plus IS, LI, NO)",Europe
+DE_1,Germany: North Sea,Germany
+DE_2,Germany: Baltic Sea,Germany
+DE_3,Germany: Inland,Germany
+DE_9,Germany: unspecified maritime coastal area,Germany
+ES_1,Spain: North Atlantic,Spain
+ES_2,Spain: Mediterranean and South Atlantic,Spain
+ES_3,Spain: Ceuta,Spain
+ES_4,Spain: Melilla,Spain
+ES_9,Spain: unspecified maritime coastal area,Spain
+FR_1,France: Atlantic / North Sea,France
+FR_2,France: Mediterranean,France
+FR_3,France: Guyane,France
+FR_4,France: Guadeloupe and Martinique,France
+FR_5,France: Réunion,France
+FR_9,France: unspecified maritime coastal area,France
+SE_1,Sweden: Baltic Sea,Sweden
+SE_2,Sweden: North Sea,Sweden
+SE_9,Sweden: unspecified maritime coastal area,Sweden
+UK_1,United Kingdom: Great Britain and Northern Ireland,United Kingdom
+UK_2,United Kingdom: Isle of Man,United Kingdom
+UK_3,United Kingdom: Guernsey and Jersey (Channel Islands),United Kingdom
+UK_9,United Kingdom: unspecified maritime coastal area,United Kingdom
+TR_1,Turkey: Black Sea,Turkey
+TR_2,Turkey: Mediterranean,Turkey
+TR_9,Turkey: unspecified maritime coastal area,Turkey
+BE_0BEANR,Antwerpen,Belgium
+BE_0BEBRU,Bruxelles (Brussel),Belgium
+BE_0BEGNE,Gent (Ghent),Belgium
+BE_0BELGG,Liège,Belgium
+BE_0BENIE,Nieuwpoort,Belgium
+BE_0BEOST,Oostende (Ostend),Belgium
+BE_0BEZEE,Zeebrugge,Belgium
+BE_0BE001,Zeekanaal Brussel-Schelde - ports,Belgium
+BE_0BE002,Belgium - other inland ports (other than Zeekanaal Brussel-Schelde ports),Belgium
+BE_0BE888,Belgium - other ports,Belgium
+BG_0BGBOJ,Burgas,Bulgaria
+BG_0BGVAR,Varna,Bulgaria
+BG_0BG888,Bulgaria - other ports,Bulgaria
+DK_0DKAAB,Aabenraa,Denmark
+DK_0DKAAL,Aalborg,Denmark
+DK_0DKROR,Aalborg Portland (Cementfabrikken Rordal),Denmark
+DK_0DKAAR,Århus,Denmark
+DK_0DKARO,Årø,Denmark
+DK_0DKARD,Årøsund,Denmark
+DK_0DKARK,Ærøskøbing,Denmark
+DK_0DKAGO,Agersø,Denmark
+DK_0DKAGH,Agger Havn,Denmark
+DK_0DKASH,Aggersund Havn,Denmark
+DK_0DKANH,Anholt,Denmark
+DK_0DKASK,Askø,Denmark
+DK_0DKASV,Asnæsværkets Havn,Denmark
+DK_0DKASN,Assens,Denmark
+DK_0DKAUB,Augustenborg,Denmark
+DK_0DKAVE,Avedøreværkets Havn,Denmark
+DK_0DKAVK,Avernakø/Lyø,Denmark
+DK_0DKBGO,Bågø,Denmark
+DK_0DKBAG,Bagenkop,Denmark
+DK_0DKBLB,Ballebro,Denmark
+DK_0DKBDX,Bandholm (Maribo),Denmark
+DK_0DKBOG,Bogø,Denmark
+DK_0DKBOS,Bøjden,Denmark
+DK_0DKBRH,Branden Havn,Denmark
+DK_0DKDAN,Cementfabrikken Danias Havn,Denmark
+DK_0DKKON,Cementfabrikken Kongsdal Havn,Denmark
+DK_0DKDAS,Dansk Salts Havn,Denmark
+DK_0DKDRA,Dragør,Denmark
+DK_0DKEBT,Ebeltoft,Denmark
+DK_0DKEGN,Egense,Denmark
+DK_0DKEDL,Endelave,Denmark
+DK_0DKENS,Enstedværkets Havn,Denmark
+DK_0DKEBJ,Esbjerg,Denmark
+DK_0DKFAA,Fåborg Havn,Denmark
+DK_0DKFAK,Fakse Ladeplads Havn,Denmark
+DK_0DKFGS,Feggesund,Denmark
+DK_0DKFEJ,Fejø,Denmark
+DK_0DKFMO,Femø,Denmark
+DK_0DKFRC,Fredericia (Og Shell-Havnen),Denmark
+DK_0DKFDH,Frederikshavn,Denmark
+DK_0DKFDS,Frederikssund Havn,Denmark
+DK_0DKSVV,Frederiskværk Havn (Frederiksværk Stålvalseværk),Denmark
+DK_0DKFUH,Fur,Denmark
+DK_0DKFYH,Fynshav,Denmark
+DK_0DKGED,Gedser,Denmark
+DK_0DKGRA,Gråsten,Denmark
+DK_0DKGRE,Grenå,Denmark
+DK_0DKGFH,Gulfhavnen,Denmark
+DK_0DKHAD,Haderslev,Denmark
+DK_0DKHSU,Hadsund,Denmark
+DK_0DKHAS,Hals,Denmark
+DK_0DKHAN,Hanstholm,Denmark
+DK_0DKHDH,Hardeshøj,Denmark
+DK_0DKHSL,Hasle,Denmark
+DK_0DKHNB,Havneby,Denmark
+DK_0DKHVN,Havnsø,Denmark
+DK_0DKHLS,Helsingør (Elsinore),Denmark
+DK_0DKHIR,Hirtshals,Denmark
+DK_0DKHBO,Hobro,Denmark
+DK_0DKHBK,Holbæk,Denmark
+DK_0DKHOR,Horsens,Denmark
+DK_0DKHOH,Hou Havn,Denmark
+DK_0DKHUN,Hundested,Denmark
+DK_0DKHVA,Hvalpsund,Denmark
+DK_0DKJUE,Juelsminde Havn,Denmark
+DK_0DKKAL,Kalundborg,Denmark
+DK_0DKKTP,Kastrup,Denmark
+DK_0DKKTD,Kerteminde,Denmark
+DK_0DKKLP,Kleppen,Denmark
+DK_0DKCPH,Københavns Havn,Denmark
+DK_0DKKOG,Køge,Denmark
+DK_0DKKOK,Kolby Kås Havn,Denmark
+DK_0DKKOL,Kolding,Denmark
+DK_0DKKRR,Korsør,Denmark
+DK_0DKKRA,Kragenæs,Denmark
+DK_0DKKBY,Kyndbyværkets Havn,Denmark
+DK_0DKLVG,Lemvig,Denmark
+DK_0DKLGR,Løgstør,Denmark
+DK_0DKLOH,Lohals,Denmark
+DK_0DKLYO,Lyngs Odde Havn,Denmark
+DK_0DKMRB,Marbæk Havn,Denmark
+DK_0DKMRS,Marstal,Denmark
+DK_0DKMAS,Masnedøværkets Havn,Denmark
+DK_0DKMNS,Masnedsund,Denmark
+DK_0DKMID,Middelfart,Denmark
+DK_0DKMOM,Mommark,Denmark
+DK_0DKNUD,Næssund,Denmark
+DK_0DKNVD,Næstved,Denmark
+DK_0DKNAK,Nakskov,Denmark
+DK_0DKNEX,Neksø,Denmark
+DK_0DKNDB,"Nordby Havn, Fanø",Denmark
+DK_0DKVSV,Nordjyllandsværkets Havn,Denmark
+DK_0DKNRS,Nørresundby,Denmark
+DK_0DKNBG,Nyborg,Denmark
+DK_0DKNYF,Nykøbing Falster,Denmark
+DK_0DKNYM,Nykøbing Mors,Denmark
+DK_0DKODE,Odense,Denmark
+DK_0DKOMO,Omø,Denmark
+DK_0DKORE,"Orehoved, Falster",Denmark
+DK_0DKORO,Orø,Denmark
+DK_0DKRAN,Randers,Denmark
+DK_0DKROD,Rødby,Denmark
+DK_0DKROF,Rødby (Færgehavn),Denmark
+DK_0DKRNN,Rønne,Denmark
+DK_0DKRRV,Rørvig,Denmark
+DK_0DKRKB,Rudkøbing,Denmark
+DK_0DKSLV,Sælvig Havn,Denmark
+DK_0DKSAX,Sakskøbing,Denmark
+DK_0DKSEO,Sejerø,Denmark
+DK_0DKSJO,Sjællands Odde,Denmark
+DK_0DKSSK,Skælskør,Denmark
+DK_0DKSKB,Skærbækværkets Havn,Denmark
+DK_0DKSKA,Skagen,Denmark
+DK_0DKSDO,Skarø/Drejø,Denmark
+DK_0DKSKV,Skive,Denmark
+DK_0DKSOB,Søby Havn,Denmark
+DK_0DKSGD,Sønderborg,Denmark
+DK_0DKSPB,Spodsbjerg Havn,Denmark
+DK_0DKSTT,Statoil-Havnen,Denmark
+DK_0DKSTN,Stigsnæs,Denmark
+DK_0DKSTG,Stigsnæsværkets Havn,Denmark
+DK_0DKSTR,Struer Havn,Denmark
+DK_0DKSNO,Strynø,Denmark
+DK_0DKSBK,Stubbekøbing Havn,Denmark
+DK_0DKSSV,Studstrupværkets Havn,Denmark
+DK_0DKSUE,Sundsøre,Denmark
+DK_0DKSVE,Svendborg,Denmark
+DK_0DKTRS,Tårs,Denmark
+DK_0DKTED,Thisted,Denmark
+DK_0DKTYB,Thyborøn,Denmark
+DK_0DKTNO,Tunø,Denmark
+DK_0DKUNX,Masnedø Godningshavn (Uno-X Havn),Denmark
+DK_0DKVNG,Vang Havn,Denmark
+DK_0DKVEJ,Vejle,Denmark
+DK_0DKVEN,Venø Havn,Denmark
+DK_0DKVES,"Vesterø Havn, Læsø",Denmark
+DK_0DKVOR,Vordingborg Havn,Denmark
+DK_0DK888,Denmark - other ports,Denmark
+DE_1DEAMR,Amrum,Germany
+DE_3DEAND,Andernach,Germany
+DE_2DEANK,Anklam,Germany
+DE_1DEBMR,Baltrum,Germany
+DE_1DEBEI,Beidenfleth,Germany
+DE_1DEBEN,Bensersiel,Germany
+DE_3DEBER,Berlin,Germany
+DE_2DEBOF,Berndshof,Germany
+DE_1DEBMK,Borkum,Germany
+DE_1DEBKE,Brake,Germany
+DE_3DEBWE,Braunschweig,Germany
+DE_1DEBRE,Bremen,Germany
+DE_1DEBRV,Bremerhaven,Germany
+DE_1DEBRB,Brunsbüttel,Germany
+DE_1DEBUM,Büsum,Germany
+DE_2DEBSK,Burgstaaken/Fehmarn,Germany
+DE_1DEBUZ,Bützfleth,Germany
+DE_1DECAR,Carolinensiel,Germany
+DE_3DECRL,Castrop-Rauxel,Germany
+DE_1DECUX,Cuxhaven,Germany
+DE_1DEDAG,Dagebüll,Germany
+DE_2DEDMN,Demmin,Germany
+DE_3DEDON,Dorsten,Germany
+DE_3DEDTM,Dortmund,Germany
+DE_3DEDUI,Duisburg,Germany
+DE_3DEDUS,Düsseldorf,Germany
+DE_2DEECK,Eckernförde,Germany
+DE_1DEEME,Emden,Germany
+DE_3DEESU,Emmelsum,Germany
+DE_2DEFLF,Flensburg,Germany
+DE_2DE117,Flensburger Förde - other ports,Germany
+DE_1DE017,Föhr,Germany
+DE_1DEFRI,Friedrichstadt,Germany
+DE_3DEGEK,Gelsenkirchen,Germany
+DE_1DE118,Gieselaukanal and Eider - other ports,Germany
+DE_1DEGLU,Glückstadt,Germany
+DE_2DEGRD,Greifswald,Germany
+DE_1DEHAM,Hamburg,Germany
+DE_3DEHAU,Hanau,Germany
+DE_1DEHRN,Haren/Ems,Germany
+DE_2DEHHF,Heiligenhafen,Germany
+DE_1DEHGL,Helgoland,Germany
+DE_1DEHOD,Hochdonn,Germany
+DE_1DEHHS,Hohenhörn,Germany
+DE_1DEHRM,Hörnum/Sylt,Germany
+DE_1DEHUS,Husum,Germany
+DE_1DEITZ,Itzehoe,Germany
+DE_1DEJUI,Juist,Germany
+DE_2DEKAP,Kappeln,Germany
+DE_2DEKEL,Kiel,Germany
+DE_3DECGN,Köln,Germany
+DE_3DEKRE,Krefeld,Germany
+DE_1DELGO,Langeoog,Germany
+DE_2DELAU,Lauterbach,Germany
+DE_1DELEE,Leer,Germany
+DE_1DELIS,List/Sylt,Germany
+DE_1DELOH,Lohesch,Germany
+DE_2DELBC,Lübeck,Germany
+DE_3DELLF,Lülsdorf,Germany
+DE_3DELLS,Lülsdorf,Germany
+DE_3DEMUH,Mülheim an der Ruhr,Germany
+DE_1DENES,Nessmersiel,Germany
+DE_1DENHS,Neuharlingersiel,Germany
+DE_3DENSS,Neuss,Germany
+DE_2DENHO,Neustadt/Holstein,Germany
+DE_1DENOE,Norddeich,Germany
+DE_1DENHA,Nordenham,Germany
+DE_1DENRD,Norderney,Germany
+DE_1DENOR,Nordstrand,Germany
+DE_1DEOLO,Oldenburg,Germany
+DE_3DEORS,Orsoy,Germany
+DE_2DEORT,Orth/Fehmarn,Germany
+DE_1DEPAP,Papenburg,Germany
+DE_3DEPEI,Peine,Germany
+DE_1DEPEL,Pellworm,Germany
+DE_2DEPUT,Puttgarden,Germany
+DE_2DEREN,Rendsburg,Germany
+DE_3DERHB,Rheinberg-Ossenberg,Germany
+DE_2DERSK,Rostock,Germany
+DE_2DE055,Rügen (Östlich Stralsunder Fahrwasser),Germany
+DE_3DESAR,Salzgitter,Germany
+DE_2DESAS,Sassnitz,Germany
+DE_1DEHMO,"Schwarzenhütten, Hemmoor",Germany
+DE_3DESDT,Schwedt,Germany
+DE_3DESNE,Sehnde,Germany
+DE_1DESPI,Spieckeroog,Germany
+DE_3DE061,Spyck,Germany
+DE_3DEPYK,Spyck,Germany
+DE_1DESTA,Stade,Germany
+DE_1DESTS,Stadersand,Germany
+DE_2DESTL,Stralsund,Germany
+DE_2DEUCK,Ueckermünde,Germany
+DE_3DEUEL,Uelzen,Germany
+DE_1DEAGE,Wangerooge,Germany
+DE_1DEWED,Wedel-Schulau,Germany
+DE_3DEWES,Wesel,Germany
+DE_1DEWVN,Wilhelmshaven,Germany
+DE_1DEWIF,Wischhafen,Germany
+DE_2DEWIS,Wismar,Germany
+DE_2DEWOL,Wolgast,Germany
+DE_1DEWYK,Wyk/Föhr,Germany
+DE_2DE115,Germany (Baltic Sea) - other ports,Germany
+DE_1DE116,Germany (Elbe) - other ports,Germany
+DE_3DE888,Germany - other inland ports,Germany
+DE_9DE888,Germany (unknown maritime coastal area) - other ports,Germany
+EE_0EEHLT,Heltermaa,Estonia
+EE_0EEKUI,Kuivastu,Estonia
+EE_0EEKND,Kunda,Estonia
+EE_0EEMDR,Miiduranna,Estonia
+EE_0EEPLN,Paldiski Põhjasadam,Estonia
+EE_0EEPRN,Pärnu,Estonia
+EE_0EEPAR,Patareisadam,Estonia
+EE_0EERHK,Rohuküla,Estonia
+EE_0EESLM,Sillamäe,Estonia
+EE_0EETLL,Tallinn,Estonia
+EE_0EEVEB,Vene-Balti,Estonia
+EE_0EEVIR,Virtsu,Estonia
+EE_0EE888,Estonia - other ports,Estonia
+IE_0IEARK,Arklow,Ireland
+IE_0IEBYT,Bantry Bay,Ireland
+IE_0IECTB,Castletownbere (Castletown Bearhaven),Ireland
+IE_0IEORK,Cork,Ireland
+IE_0IEDRO,Drogheda,Ireland
+IE_0IEDUB,Dublin,Ireland
+IE_0IEDDK,Dundalk,Ireland
+IE_0IEDLG,Dun Laoghaire,Ireland
+IE_0IEFOV,Foynes,Ireland
+IE_0IEGWY,Galway,Ireland
+IE_0IEGRN,Greenore,Ireland
+IE_0IEKBS,Killybegs,Ireland
+IE_0IEKLR,Kilrush,Ireland
+IE_0IEKLN,Kinsale,Ireland
+IE_0IELMK,Limerick,Ireland
+IE_0IENRS,New Ross,Ireland
+IE_0IEROS,Rosslare Harbour,Ireland
+IE_0IESLI,Sligo,Ireland
+IE_0IETRA,Tralee,Ireland
+IE_0IEWAT,Waterford,Ireland
+IE_0IEWIC,Wicklow,Ireland
+IE_0IEYOU,Youghal,Ireland
+EL_0GRMLO,Adamas Milou,Greece
+EL_0GRAGN,Agathonisi Dodekanisou,Greece
+EL_0GR702,Agathonisi Dodekanisou,Greece
+EL_0GRAEF,Agia Efimia,Greece
+EL_0GR701,Agia Galini Rethimnou,Greece
+EL_0GRAMR,Agia Marina Aiginas,Greece
+EL_0GR868,Agia Marina Aiginas,Greece
+EL_0GRGMA,Agia Marina Attikis,Greece
+EL_0GR883,Agia Marina Attikis,Greece
+EL_0GRAGM,Agia Marina Fthiotidas,Greece
+EL_0GRAPE,Agia Pelagia,Greece
+EL_0GRROU,Agia Roumeli Chanion,Greece
+EL_0GRAGT,Agioi Theodoroi,Greece
+EL_0GRAGK,Agiokampos Larisas,Greece
+EL_0GRAGO,Agios Efstratios Lesvou,Greece
+EL_0GRAKI,Agios Kirykos,Greece
+EL_0GRAKO,Agios Konstantinos,Greece
+EL_0GR876,Agios Nikolaos Fokidas,Greece
+EL_0GRANI,Agios Nikolaos Kritis,Greece
+EL_0GRAGG,Agkistri Aiginas,Greece
+EL_0GRAGA,Agria Volou,Greece
+EL_0GREDI,Aidipsos,Greece
+EL_0GRAIG,Aigiali Amorgou,Greece
+EL_0GRAEG,Aigina,Greece
+EL_0GRAEN,Aigio,Greece
+EL_0GR880,Aktio Vonitsas,Greece
+EL_0GRAXD,Alexandroupolis,Greece
+EL_0GRLVR,Aliverio,Greece
+EL_0GR886,Almyropotamos Evvoias,Greece
+EL_0GRALM,Almyros Volou,Greece
+EL_0GRALO,Alonnisos,Greece
+EL_0GRATS,Altsi,Greece
+EL_0GRAPL,Amaliapolis Magnisias,Greece
+EL_0GRAMF,Amfilochia,Greece
+EL_0GRAMI,Ammouliani,Greece
+EL_0GRAMO,Amorgos (Katapola),Greece
+EL_0GRANA,"Anafi, Kyklades",Greece
+EL_0GRAND,Andros,Greece
+EL_0GRATK,Antikyra,Greece
+EL_0GRANP,Antiparos,Greece
+EL_0GRANT,Antirrio,Greece
+EL_0GRARX,Araxos,Greece
+EL_0GR870,Araxos,Greece
+EL_0GREFL,Argostoli,Greece
+EL_0GRARK,Arkitsa Fthiotidas,Greece
+EL_0GRARD,Arkioi Dodekanisou,Greece
+EL_0GR717,Arkioi Dodekanisou,Greece
+EL_0GRAPY,Aspropyrgos,Greece
+EL_0GRAST,Astakos,Greece
+EL_0GRARS,Astros Arkadias,Greece
+EL_0GR719,Astros Arkadias,Greece
+EL_0GRJTY,Astypalaia,Greece
+EL_0GR720,Atalanti Fthiotidas,Greece
+EL_0GRHAL,Chalki Dodekanisou,Greece
+EL_0GRCLK,Chalkida,Greece
+EL_0GRCHQ,Chania,Greece
+EL_0GRJKH,Chios,Greece
+EL_0GRCSF,Chora Sfakion,Greece
+EL_0GRDAF,Dafni Agiou Orous,Greece
+EL_0GR730,Derveni Korinthias,Greece
+EL_0GRDIA,Diafani Karpathou,Greece
+EL_0GRDIK,Diakofti Kythiron,Greece
+EL_0GRDMB,Domvraina Voiotias,Greece
+EL_0GR900,Domvraina Voiotias,Greece
+EL_0GRDON,"Donousa, Kyklades",Greece
+EL_0GRDPA,Drapetsona,Greece
+EL_0GRDRE,Drepano Riou,Greece
+EL_0GRELN,Elafonisos Lakonias,Greece
+EL_0GREEU,Elefsina,Greece
+EL_0GRELT,Eleftheres,Greece
+EL_0GR867,Ereikousa,Greece
+EL_0GRERE,Eretria Evvoias,Greece
+EL_0GRERM,Ermioni,Greece
+EL_0GREYD,Evdilos,Greece
+EL_0GRFNR,Faneromeni Salaminas,Greece
+EL_0GRFIS,Fiskardo Kefallinias,Greece
+EL_0GRFOL,Folegandros Kyklades,Greece
+EL_0GRFOU,Fournoi Samou,Greece
+EL_0GRFRI,Frikes Ithakis,Greece
+EL_0GRGAL,Galatas Troizinias,Greece
+EL_0GR849,Gavdos Chanion,Greece
+EL_0GRGAV,Gavrio,Greece
+EL_0GR857,Gerakas Lakonias,Greece
+EL_0GRYER,Gerakini,Greece
+EL_0GRGLO,Glossa Skopelou,Greece
+EL_0GRGLY,Glyfa Fthiotidas,Greece
+EL_0GRGYT,Gytheio,Greece
+EL_0GR741,Ierissos Chalkidikis,Greece
+EL_0GRIGO,Igoumenitsa,Greece
+EL_0GRIOS,Ios,Greece
+EL_0GRHRK,"Irakleia, Kyklades",Greece
+EL_0GRHER,Irakleio,Greece
+EL_0GRITM,Isthmia,Greece
+EL_0GRITA,Itea,Greece
+EL_0GRITH,Ithaki,Greece
+EL_0GRKLX,Kalamata,Greece
+EL_0GRKLD,Kalathos Rodou,Greece
+EL_0GR743,Kalloni Lesvou,Greece
+EL_0GRKLS,Kaloi Limenes Rethymnou,Greece
+EL_0GRKLI,Kaloi Limenes Rethymnou,Greece
+EL_0GRKMI,Kalymnos,Greece
+EL_0GR745,Kameiros Rodou,Greece
+EL_0GRKAP,Kapsali,Greece
+EL_0GRKAR,Karlovasi,Greece
+EL_0GRAOK,Karpathos,Greece
+EL_0GR854,Karra Chalkidikis,Greece
+EL_0GRKST,Karystos,Greece
+EL_0GRKSJ,Kasos,Greece
+EL_0GRKIS,Kasteli Kissamou,Greece
+EL_0GRKAK,Katakolo,Greece
+EL_0GRKVA,Kavala,Greece
+EL_0GRKEA,Kea,Greece
+EL_0GRKEF,Kefalos Kos,Greece
+EL_0GRKER,Keramoti,Greece
+EL_0GRKTS,Keratsini,Greece
+EL_0GRCFU,Kerkyra,Greece
+EL_0GRKIO,Kiato,Greece
+EL_0GRKMS,Kimolos,Greece
+EL_0GR754,"Koilas Ermionidas, Argolida",Greece
+EL_0GRKIN,"Koilas Ermionidas, Argolida",Greece
+EL_0GRCRG,Korinthos,Greece
+EL_0GR755,Korthio Androu,Greece
+EL_0GRKGS,Kos,Greece
+EL_0GRKEM,Kosta Ermionidas,Greece
+EL_0GR881,Kosta Ermionidas,Greece
+EL_0GRKOF,"Koufonisi, Kyklades",Greece
+EL_0GRKYL,Kylini,Greece
+EL_0GRKYM,Kymasi,Greece
+EL_0GRKIM,Kymi,Greece
+EL_0GRKYT,Kythnos,Greece
+EL_0GR862,Lagos,Greece
+EL_0GRLRS,Lakki Lerou,Greece
+EL_0GRLRY,Larymna,Greece
+EL_0GRLAV,Lavrio,Greece
+EL_0GRLEV,Lefkada,Greece
+EL_0GRLEF,Lefkadi,Greece
+EL_0GRLFK,Lefkimmi,Greece
+EL_0GRLIP,Leipsoi Dodekanisou,Greece
+EL_0GRLND,Leonidio,Greece
+EL_0GRSKU,Linaria Skyrou,Greece
+EL_0GRLIN,Linoperamata Irakleiou,Greece
+EL_0GRLIX,Lixouri,Greece
+EL_0GRLTR,Loutro Chanion,Greece
+EL_0GRZEA,Marina Zeas,Greece
+EL_0GRMRM,Marmari,Greece
+EL_0GRMGN,Meganisi,Greece
+EL_0GRMGR,Megara,Greece
+EL_0GRKAS,Megisti Kastelorizou,Greece
+EL_0GRMEN,Menidi Aitoloakarnanias,Greece
+EL_0GRMES,Messogaia,Greece
+EL_0GRMEL,Messolongi,Greece
+EL_0GRMHI,Mesta Chiou,Greece
+EL_0GRMET,Methana,Greece
+EL_0GRMOL,Molyvos Lesvou,Greece
+EL_0GRMON,Monemvasia,Greece
+EL_0GRMDR,Moudros Limnou,Greece
+EL_0GRJMK,Mykonos,Greece
+EL_0GRMYR,Myrina,Greece
+EL_0GRMJT,Mytilini,Greece
+EL_0GRNAF,Nafplio,Greece
+EL_0GRJNX,Naxos,Greece
+EL_0GRNKV,Nea Karvali Kavalas,Greece
+EL_0GRNMA,Nea Moudania Chalkidikis,Greece
+EL_0GR795,Nea Psara Chiou,Greece
+EL_0GRNST,Nea Styra,Greece
+EL_0GRNEA,Neapoli Lakonias,Greece
+EL_0GRNIS,Nissyros,Greece
+EL_0GRNID,Nydri,Greece
+EL_0GRINO,Oinousses,Greece
+EL_0GRORE,Oreoi,Greece
+EL_0GRORO,Oropos,Greece
+EL_0GROTH,Othonoi,Greece
+EL_0GROUR,Ouranoupoli Chalkidikis,Greece
+EL_0GRPEP,Palaia Epidavros,Greece
+EL_0GRPAA,Palaia Psara Chiou,Greece
+EL_0GRPSF,Palaiochora Sfakion,Greece
+EL_0GRPAO,Paloukia Salaminas,Greece
+EL_0GRPAR,Parga,Greece
+EL_0GRPAS,Paros,Greece
+EL_0GRPMS,Patmos,Greece
+EL_0GRGPA,Patra,Greece
+EL_0GRPAX,Paxoi,Greece
+EL_0GRPIR,Peiraias,Greece
+EL_0GRPER,Perama,Greece
+EL_0GRPGM,Perama Geras Mytilinis,Greece
+EL_0GRPSK,Pessada Kefallinias,Greece
+EL_0GR887,Pessada Kefallinias,Greece
+EL_0GRPET,Petra Lesvou,Greece
+EL_0GR813,Petritis Kerkyras,Greece
+EL_0GRPIS,Pisaetos Ithakis,Greece
+EL_0GRPLG,Platygiali Aitoloakarnanias,Greece
+EL_0GRPLM,Plomari Lesvou,Greece
+EL_0GRPLC,Polichnitos Lesvou,Greece
+EL_0GRPTK,Politika,Greece
+EL_0GRPKE,Poros Kefallinias,Greece
+EL_0GRPTR,Poros Troizinias,Greece
+EL_0GRPHE,Porto Cheli,Greece
+EL_0GRPTL,Porto Lagos,Greece
+EL_0GRPOA,Potamos Antikythiron,Greece
+EL_0GRPVK,Preveza,Greece
+EL_0GR822,Prinos Kavalas,Greece
+EL_0GRPPI,Prinos Thasou,Greece
+EL_0GRPSA,Psachna,Greece
+EL_0GRPYL,Pylos,Greece
+EL_0GRPYT,Pythagorio,Greece
+EL_0GRRAF,Rafina,Greece
+EL_0GRRET,Rethymno,Greece
+EL_0GRRIO,Rio,Greece
+EL_0GRRHO,Rodos,Greece
+EL_0GRSMI,Sami,Greece
+EL_0GRSAM,Samothraki,Greece
+EL_0GRSHI,Schoinari Zakynthou,Greece
+EL_0GR892,Schoinari Zakynthou,Greece
+EL_0GRSHC,"Schoinousa, Kyklades",Greece
+EL_0GRSER,Serifos,Greece
+EL_0GRSIF,Sifnos,Greece
+EL_0GRSGR,Sigri Lesvou,Greece
+EL_0GR835,Sikia Porto Rafti,Greece
+EL_0GRSII,"Sikinos, Kyklades",Greece
+EL_0GRJSH,Siteia,Greece
+EL_0GRSKA,Skaramagkas,Greece
+EL_0GRJSI,Skiathos,Greece
+EL_0GRSKO,Skopelos,Greece
+EL_0GRSUD,Souda Bay,Greece
+EL_0GRSOG,Sougia,Greece
+EL_0GRSLA,Souvala Aiginas,Greece
+EL_0GR832,Souvala Aiginas,Greece
+EL_0GRSPE,Spetses,Greece
+EL_0GRSHA,Stavros Chalkidikis,Greece
+EL_0GRSTI,Stratonio,Greece
+EL_0GRSYS,Stylida,Greece
+EL_0GRSYM,Symi,Greece
+EL_0GRJSY,Syros,Greece
+EL_0GRTSO,Thasos,Greece
+EL_0GRSKG,Thessaloniki,Greece
+EL_0GRJTR,Thira,Greece
+EL_0GRTRS,Thirasia,Greece
+EL_0GRTIL,Tilos Dodekanisou,Greece
+EL_0GRTIN,Tinos,Greece
+EL_0GR839,Tolo Argolidas,Greece
+EL_0GR838,Trikeri Magnisias,Greece
+EL_0GRTRY,Trypiti Chalkidikis,Greece
+EL_0GRVSS,Vasiliki Lefkadas,Greece
+EL_0GRVTH,Vathy Samou,Greece
+EL_0GR723,Volissos Chiou,Greece
+EL_0GRVOL,Volos,Greece
+EL_0GR909,Voreios Evvoikos,Greece
+EL_0GRHYD,Ydra,Greece
+EL_0GRZTH,Zakynthos,Greece
+EL_0GR88P,Greece (offshore installations) - other ports,Greece
+EL_0GR88Q,Greece (aggregates extraction areas) - other ports,Greece
+EL_0GR888,Greece - other ports,Greece
+ES_2ESAGA,Agaete,Spain
+ES_2ESACA,Alcanar,Spain
+ES_2ESALG,Algeciras,Spain
+ES_2ESALC,Alicante,Spain
+ES_2ESLEI,Almería,Spain
+ES_1ESAVS,Avilés,Spain
+ES_2ESBBE,Barbate,Spain
+ES_2ESBCN,Barcelona,Spain
+ES_1ESBRM,Bermeo,Spain
+ES_1ESBIO,Bilbao,Spain
+ES_2ESCAD,Cádiz,Spain
+ES_2ESCAR,Cartagena,Spain
+ES_2ESCAS,Castellón,Spain
+ES_3ESCEU,Ceuta,Spain
+ES_2ESQFU,Corralejo,Spain
+ES_1ESFRO,Ferrol,Spain
+ES_2ESGAR,Garrucha,Spain
+ES_1ESGIJ,Gijón,Spain
+ES_2ESHUV,Huelva,Spain
+ES_1ESLCG,La Coruña,Spain
+ES_2ESLPA,Las Palmas,Spain
+ES_2ESAGP,Málaga,Spain
+ES_1ESMPG,Marín-Pontevedra,Spain
+ES_4ESMLN,Melilla,Spain
+ES_2ESMOL,Molina de Segura,Spain
+ES_2ESMJB,Morro Jable,Spain
+ES_2ESMOT,Motril,Spain
+ES_2ESPAL,Palamós,Spain
+ES_2ESPMI,Palma Mallorca,Spain
+ES_1ESPAS,Pasajes,Spain
+ES_2ESQLY,Playa Blanca,Spain
+ES_2ESSCR,San Carlos de la Rápita,Spain
+ES_2ESSCT,Santa Cruz de Tenerife,Spain
+ES_1ESSDR,Santander,Spain
+ES_2ESSVQ,Sevilla,Spain
+ES_2ESTAR,Tarragona,Spain
+ES_2ESVLC,Valencia,Spain
+ES_2ESVCC,Vallcarca,Spain
+ES_1ESVGO,Vigo,Spain
+ES_1ESVIL,Villagarcía (de Arosa),Spain
+ES_2ESVLG,Vilanova i la Geltrú,Spain
+ES_9ES888,Spain (unknown maritime coastal area) - other ports,Spain
+FR_2FRAJA,Ajaccio,France
+FR_2FRBIA,Bastia,France
+FR_1FRBAY,Bayonne,France
+FR_2FRBON,Bonifacio,France
+FR_1FRBOD,Bordeaux,France
+FR_1FRBOL,Boulogne-sur-Mer,France
+FR_1FRBES,Brest,France
+FR_1FRCFR,Caen,France
+FR_1FRCQF,Calais,France
+FR_2FRCLY,Calvi,France
+FR_1FRCAM,Camaret,France
+FR_2FRCEQ,Cannes,France
+FR_1FRCRT,Carteret,France
+FR_1FRCER,Cherbourg,France
+FR_1FRCOC,Concarneau,France
+FR_3GFDDC,Degrad-des Cannes (Guyane),France
+FR_1FRDPE,Dieppe,France
+FR_1FRDRZ,Douarnenez,France
+FR_1FRDKK,Dunkerque,France
+FR_1FRFEC,Fécamp,France
+FR_4MQFDF,Fort-de France (Martinique),France
+FR_1FRGFR,Granville,France
+FR_1FRGRV,Gravelines,France
+FR_4GP001,Guadeloupe (Guadeloupe),France
+FR_1FRHET,Hennebont,France
+FR_1FRHON,Honfleur,France
+FR_3GFQKR,Kourou (Guyane),France
+FR_2FRLCT,La Ciotat,France
+FR_1FRLRH,La Rochelle,France
+FR_1FRLDN,Landerneau,France
+FR_1FRLAI,Lannion,France
+FR_3GFLVT,Larivot (Guyane),France
+FR_1FRLFR,Le Fret (Crozon),France
+FR_1FRLGU,Le Guildo (Crehen),France
+FR_1FRLEH,Le Havre,France
+FR_1FRLLG,Le Légué,France
+FR_1FRSBK,Le Legue (St Brieuc),France
+FR_1FRLTR,Le Tréport,France
+FR_1FRLSO,Les Sables d'Olonne,France
+FR_1FRLEZ,Lézardrieux,France
+FR_2FRILR,L´Île Rousse,France
+FR_1FRLRT,Lorient,France
+FR_2FRMRS,Marseille,France
+FR_1FRMXN,Morlaix,France
+FR_1FRMSG,Mortagne-sur-Gironde,France
+FR_1FRNTE,Nantes Saint-Nazaire,France
+FR_2FRNCE,Nice,France
+FR_1FRPAI,Paimpol,France
+FR_1FRPOX,Pontrieux,France
+FR_5REPDG,Port Réunion (ex Pointe-des-Galets) (Réunion),France
+FR_2FRPOV,Port Vendres,France
+FR_1FRPRJ,Port-Joinville (Île d´Yeu),France
+FR_2FRNOU,Port-la-Nouvelle,France
+FR_2FRPVO,Porto Vecchio,France
+FR_2FRPRP,Propriano,France
+FR_1FRUIP,Quimper,France
+FR_1FRRDN,Redon,France
+FR_1FRRCO,Rochefort,France
+FR_1FRROS,Roscoff,France
+FR_1FRURO,Rouen,France
+FR_1FRRYN,Royan,France
+FR_2FRSET,Sète,France
+FR_3GFSLM,St Laurent du Maroni (Guyane),France
+FR_1FRSML,St Malo,France
+FR_2FRSRL,St Raphaël,France
+FR_1FRSVS,St Valéry-sur-Somme,France
+FR_1FRTON,Tonnay Charente,France
+FR_2FRTLN,Toulon,France
+FR_1FRTRE,Tréguier,France
+FR_1FRVNE,Vannes,France
+FR_1FR888,France (Atlantic / North Sea) - other ports,France
+FR_9FR888,France (unknown maritime coastal area) - other ports,France
+HR_0HRBAK,Bakar,Croatia
+HR_0HRBAS,Baska,Croatia
+HR_0HRBNM,Biograd na Moru,Croatia
+HR_0HRBOL,Bol,Croatia
+HR_0HRBZA,Bozava,Croatia
+HR_0HRCVT,Cavtat,Croatia
+HR_0HRCRS,Cres,Croatia
+HR_0HRCRA,Crikvenica,Croatia
+HR_0HRDBV,Dubrovnik,Croatia
+HR_0HRHVA,Hvar,Croatia
+HR_0HRIST,Ist,Croatia
+HR_0HRJAB,Jablanac,Croatia
+HR_0HRJSA,Jelsa,Croatia
+HR_0HRKAB,Karlobag,Croatia
+HR_0HRKMZ,Komiza,Croatia
+HR_0HRKOR,Korcula,Croatia
+HR_0HRKRA,Kraljevica,Croatia
+HR_0HRKRK,Krk,Croatia
+HR_0HRLST,Lastovo,Croatia
+HR_0HRMAK,Makarska,Croatia
+HR_0HRLSZ,Mali Losinj,Croatia
+HR_0HRMAL,Malinska,Croatia
+HR_0HRMET,Metkovic,Croatia
+HR_0HRMIL,Milna,Croatia
+HR_0HRMOD,Moscenicka Draga,Croatia
+HR_0HRMUR,Murter,Croatia
+HR_0HRNVL,Novalja,Croatia
+HR_0HRNVD,Novi Vinodolski,Croatia
+HR_0HRNVG,Novigrad,Croatia
+HR_0HROMS,Omis,Croatia
+HR_0HROMI,Omisalj,Croatia
+HR_0HROPA,Opatija,Croatia
+HR_0HRPAG,Pag,Croatia
+HR_0HRPLE,Ploce,Croatia
+HR_0HRPMN,Pomena,Croatia
+HR_0HRPOR,Porec,Croatia
+HR_0HRPRE,Preko,Croatia
+HR_0HRPRI,Primosten,Croatia
+HR_0HRPUY,Pula,Croatia
+HR_0HRPNT,Punat,Croatia
+HR_0HRRAB,Rab,Croatia
+HR_0HRRBC,Rabac,Croatia
+HR_0HRRAS,Rasa,Croatia
+HR_0HRRJK,Rijeka,Croatia
+HR_0HRRGC,Rogac,Croatia
+HR_0HRRGN,Rogoznica,Croatia
+HR_0HRROV,Rovinj,Croatia
+HR_0HRSAL,Sali,Croatia
+HR_0HRSEN,Senj,Croatia
+HR_0HRSIB,Sibenik,Croatia
+HR_0HRSIL,Silba,Croatia
+HR_0HRSLO,Silo,Croatia
+HR_0HRSLA,Slano,Croatia
+HR_0HRSBR,Sobra,Croatia
+HR_0HRSPU,Split,Croatia
+HR_0HRSGD,Stari Grad,Croatia
+HR_0HRSGR,Starigrad,Croatia
+HR_0HRSTO,Ston,Croatia
+HR_0HRSUC,Sucuraj,Croatia
+HR_0HRSMN,Sumartin,Croatia
+HR_0HRSUP,Supetar,Croatia
+HR_0HRSSK,Susak,Croatia
+HR_0HRTNO,Tisno,Croatia
+HR_0HRTRO,Trogir,Croatia
+HR_0HRTRJ,Trpanj,Croatia
+HR_0HRTRK,Trstenik,Croatia
+HR_0HRUBL,Ubli,Croatia
+HR_0HRUMG,Umag,Croatia
+HR_0HRVLK,Vela Luka,Croatia
+HR_0HRVIS,Vis,Croatia
+HR_0HRVDC,Vodice,Croatia
+HR_0HRZAD,Zadar,Croatia
+IT_0ITAHO,Alghero,Italy
+IT_0ITALI,Alicudi,Italy
+IT_0ITAMA,Amalfi,Italy
+IT_0ITAOI,Ancona,Italy
+IT_0ITANZ,Anzio,Italy
+IT_0ITATX,Arbatax,Italy
+IT_0ITAUG,Augusta,Italy
+IT_0ITBLN,Bagnoli,Italy
+IT_0ITBAI,Baia,Italy
+IT_0ITBRI,Bari,Italy
+IT_0ITBLT,Barletta,Italy
+IT_0ITBDS,Brindisi,Italy
+IT_0ITCAG,Cagliari,Italy
+IT_0ITCLS,Calasetta,Italy
+IT_0ITCPA,Capraia,Italy
+IT_0ITPRJ,Capri,Italy
+IT_0ITCLF,Carloforte,Italy
+IT_0ITCML,Casamicciola,Italy
+IT_0ITCTR,Castellammare del Golfo,Italy
+IT_0ITCAS,Castellammare di Stabia,Italy
+IT_0ITCTA,Catania,Italy
+IT_0ITCVX,Cavo,Italy
+IT_0ITCHI,Chioggia,Italy
+IT_0ITCVV,Civitavecchia,Italy
+IT_0ITCRV,Crotone,Italy
+IT_0ITFAL,Falconara Marittima,Italy
+IT_0ITFAV,Favignana,Italy
+IT_0ITFPO,Filicudi Porto,Italy
+IT_0ITFCO,Fiumicino,Italy
+IT_0ITFOM,Formia,Italy
+IT_0ITGAE,Gaeta,Italy
+IT_0ITGAL,Gallipoli,Italy
+IT_0ITGEA,Gela,Italy
+IT_0ITGOA,Genova,Italy
+IT_0ITGII,Giannutri,Italy
+IT_0ITGIA,Giardini di Naxos,Italy
+IT_0ITGIT,Gioia Tauro,Italy
+IT_0ITGAI,Golfo Aranci,Italy
+IT_0ITGOR,Gorgona,Italy
+IT_0ITGRD,Grado,Italy
+IT_0ITIMP,Imperia,Italy
+IT_0ITIDG,Isola del Giglio,Italy
+IT_0ITISS,Isola Santo Stefano,Italy
+IT_0ITMDA,La Maddalena,Italy
+IT_0ITSPE,La Spezia,Italy
+IT_0ITLMP,Lampedusa,Italy
+IT_0ITLEV,Levanzo,Italy
+IT_0ITLIC,Licata,Italy
+IT_0ITLIU,Linosa,Italy
+IT_0ITLIP,Lipari,Italy
+IT_0ITLIV,Livorno,Italy
+IT_0ITMFR,Manfredonia,Italy
+IT_0ITMMO,Marettimo,Italy
+IT_0ITMDC,Marina di Carrara,Italy
+IT_0ITMRA,Marsala,Italy
+IT_0ITMAZ,Mazara del Vallo,Italy
+IT_0ITMSN,Messina,Italy
+IT_0ITMLZ,Milazzo,Italy
+IT_0ITMOL,Molfetta,Italy
+IT_0ITMNF,Monfalcone,Italy
+IT_0ITMNP,Monopoli,Italy
+IT_0ITNAP,Napoli,Italy
+IT_0ITOLB,Olbia,Italy
+IT_0ITONE,Oneglia,Italy
+IT_0ITQOS,Oristano,Italy
+IT_0ITOTN,Ortona,Italy
+IT_0ITOTO,Otranto,Italy
+IT_0ITPAU,Palau,Italy
+IT_0ITPMO,Palermo,Italy
+IT_0ITPAN,Panarea,Italy
+IT_0ITPNL,Pantelleria,Italy
+IT_0ITPES,Pesaro,Italy
+IT_0ITPSR,Pescara,Italy
+IT_0ITPCH,Peschici,Italy
+IT_0ITPIA,Pianosa,Italy
+IT_0ITPIO,Piombino,Italy
+IT_0ITPFO,Porto Levante,Italy
+IT_0ITPNZ,Ponza,Italy
+IT_0ITPGL,Portiglioni,Italy
+IT_0ITPAZ,Porto Azzurro,Italy
+IT_0ITPCE,Porto Cervo,Italy
+IT_0ITPDI,Porto d'Ischia,Italy
+IT_0ITPEM,Porto Empedocle,Italy
+IT_0ITPFX,Porto Foxi,Italy
+IT_0ITPGA,Porto Garibaldi,Italy
+IT_0ITPLI,Porto Lignano,Italy
+IT_0ITPMZ,Porto Maurizio,Italy
+IT_0ITPNG,Porto Nogaro,Italy
+IT_0ITPSS,Porto Santo Stefano,Italy
+IT_0ITPTO,Porto Torres,Italy
+IT_0ITPFE,Portoferraio,Italy
+IT_0ITPTF,Portofino,Italy
+IT_0ITPVE,Portovesme,Italy
+IT_0ITPOS,Positano,Italy
+IT_0ITPZL,Pozzallo,Italy
+IT_0ITPOZ,Pozzuoli,Italy
+IT_0ITPRO,Procida,Italy
+IT_0ITRAN,Ravenna,Italy
+IT_0ITREG,Reggio di Calabria,Italy
+IT_0ITRMI,Rimini,Italy
+IT_0ITRMA,Rio Marina,Italy
+IT_0ITRPT,Riposto,Italy
+IT_0ITRGG,Rodi Garganico,Italy
+IT_0ITSDB,S. Benedetto del Tronto,Italy
+IT_0ITSAL,Salerno,Italy
+IT_0ITSLA,Salina,Italy
+IT_0ITSRE,Sanremo,Italy
+IT_0ITSML,Santa Margherita Ligure,Italy
+IT_0ITSPA,Santa Panagia,Italy
+IT_0ITSTE,Santa Teresa di Gallura,Italy
+IT_0ITSAT,Sant'Antioco,Italy
+IT_0ITSVC,Santo Vito Lo Capo,Italy
+IT_0ITSVN,Savona,Italy
+IT_0ITSIR,Siracusa,Italy
+IT_0ITRRO,Sorrento,Italy
+IT_0ITSTR,Stromboli,Italy
+IT_0ITTAL,Talamone,Italy
+IT_0ITTAR,Taranto,Italy
+IT_0ITTRI,Termini Imerese,Italy
+IT_0ITTMI,Termoli,Italy
+IT_0ITTRC,Terracina,Italy
+IT_0ITTOA,Torre Annunziata,Italy
+IT_0ITTGR,Torregrande,Italy
+IT_0ITTVC,Torviscosa,Italy
+IT_0ITTNI,Trani,Italy
+IT_0ITTPS,Trapani,Italy
+IT_0ITTMT,Tremiti,Italy
+IT_0ITTRS,Trieste,Italy
+IT_0ITUST,Ustica,Italy
+IT_0ITVDA,Vada,Italy
+IT_0ITVSO,Vasto,Italy
+IT_0ITVCE,Venezia,Italy
+IT_0ITVTT,Ventotene,Italy
+IT_0ITVIA,Viareggio,Italy
+IT_0ITVVA,Vibo Valentia,Italy
+IT_0ITVIE,Vieste,Italy
+IT_0ITVUL,Vulcano Porto,Italy
+IT_0IT88P,Italy (offshore installations) - other ports,Italy
+IT_0IT88Q,Italy (aggregates extraction areas) - other ports,Italy
+IT_0IT888,Italy - other ports,Cyprus
+CY_0CYAKT,Akrotiri (oil terminal),Cyprus
+CY_0CYDHK,Dekeleia,Cyprus
+CY_0CYLCA,Larnaka,Cyprus
+CY_0CY01M,Larnaka (oil terminal),Cyprus
+CY_0CYLAT,Latsi,Cyprus
+CY_0CYLMS,Lemesos,Cyprus
+CY_0CYMOI,Moni,Cyprus
+CY_0CYVAS,Vasiliko,Cyprus
+CY_0CY888,Cyprus - other ports,Cyprus
+LV_0LVLPX,Liepaja,Latvia
+LV_0LVMRX,Mersrags,Latvia
+LV_0LVRIX,Riga,Latvia
+LV_0LVROJ,Roja,Latvia
+LV_0LVSAL,Salacgriva,Latvia
+LV_0LVSKU,Skulte,Latvia
+LV_0LVVNT,Ventspils,Latvia
+LV_0LV888,Latvia - other ports,Latvia
+LT_0LTBOT,Butinge,Lithuania
+LT_0LTKLJ,Klaipeda,Lithuania
+MT_0MTCKW,Cirkewwa,Malta
+MT_0MTMLA,Valletta,Malta
+MT_0MTMAR,Marsaxlokk,Malta
+MT_0MTMGZ,"Mgarr, Gozo",Malta
+MT_0MT888,Malta - other ports,Malta
+NL_0NLABL,Alblasserdam,Netherlands
+NL_0NLAML,Ameland,Netherlands
+NL_0NLAMS,Amsterdam,Netherlands
+NL_0NLBGB,Bergambacht,Netherlands
+NL_0NLBZM,Bergen op Zoom,Netherlands
+NL_0NLBEV,Beverwijk,Netherlands
+NL_0NLBOR,Borsele,Netherlands
+NL_0NLBRK,Brakel,Netherlands
+NL_0NLBRS,Breskens,Netherlands
+NL_0NLCPI,Capelle aan den Ijssel,Netherlands
+NL_0NLCUY,Cuijk,Netherlands
+NL_0NLDZL,Delfzijl,Netherlands
+NL_0NLDHR,Den Helder,Netherlands
+NL_0NLDEV,Deventer,Netherlands
+NL_0NLDIN,Dinteloord en Prinsenland,Netherlands
+NL_0NLDOI,Doetinchem,Netherlands
+NL_0NLDOK,Dokkum,Netherlands
+NL_0NLDOR,Dordrecht,Netherlands
+NL_0NLDRU,Druten,Netherlands
+NL_0NLFRK,Franekeradeel,Netherlands
+NL_0NLGTB,Geertruidenberg,Netherlands
+NL_0NLGNM,Genemuiden,Netherlands
+NL_0NLGEN,Gennep,Netherlands
+NL_0NLGDR,Goerdereede,Netherlands
+NL_0NLGOR,Gorinchem,Netherlands
+NL_0NLGRQ,Groningen,Netherlands
+NL_0NLHAN,Hansweert,Netherlands
+NL_0NLHRX,Hardinxveld-Giessendam,Netherlands
+NL_0NLHAR,Harlingen,Netherlands
+NL_0NLHAS,Hasselt,Netherlands
+NL_0NLHIA,Hendrik-Ido-Ambacht,Netherlands
+NL_0NLHGL,Hengelo,Netherlands
+NL_0NLHTN,Hontenisse,Netherlands
+NL_0NLKAM,Kampen,Netherlands
+NL_0NLKRP,Krimpen aan den Ijssel,Netherlands
+NL_0NLLAN,Lanwersoog,Netherlands
+NL_0NLLWR,Leeuwarden,Netherlands
+NL_0NLLCH,Lochem,Netherlands
+NL_0NLMSS,Maarssen,Netherlands
+NL_0NLMSB,Maasbracht,Netherlands
+NL_0NLMSL,Maassluis,Netherlands
+NL_0NLMST,Maastricht,Netherlands
+NL_0NLMEW,Meerlo-Wansum,Netherlands
+NL_0NLMEP,Meppel,Netherlands
+NL_0NLMID,Middelburg,Netherlands
+NL_0NLMIH,Middelharnis,Netherlands
+NL_0NLMOE,Moerdijk,Netherlands
+NL_0NLNLK,Nieuw-Lekkerland,Netherlands
+NL_0NLNIJ,Nijmegen,Netherlands
+NL_0NLOOS,Oosterhout,Netherlands
+NL_0NLOSS,Oss,Netherlands
+NL_0NLOUG,Oud en Nieuw Gastel,Netherlands
+NL_0NLOAI,Ouderkerk,Netherlands
+NL_0NLPAP,Papendrecht,Netherlands
+NL_0NLRAA,Raamsdonk,Netherlands
+NL_0NLRAS,Ravenstein,Netherlands
+NL_0NLREW,Reimerswaal,Netherlands
+NL_0NLRNK,Renkum,Netherlands
+NL_0NLRHE,Rhenen,Netherlands
+NL_0NLRID,Ridderkerk,Netherlands
+NL_0NLOMD,Roermond,Netherlands
+NL_0NLROO,Roosendaal,Netherlands
+NL_0NLRTM,Rotterdam,Netherlands
+NL_0NLROZ,Rozenburg,Netherlands
+NL_0NLSVG,Sas van Gent,Netherlands
+NL_0NLSCE,Scheveningen,Netherlands
+NL_0NLSCI,Schiedam,Netherlands
+NL_0NLGRA,S-Gravendeel,Netherlands
+NL_0NLHTB,S-Hertogenbosch,Netherlands
+NL_0NLSLD,Sliedrecht,Netherlands
+NL_0NLSLU,Sluiskil,Netherlands
+NL_0NLSML,Smallingerland,Netherlands
+NL_0NLSNK,Sneek,Netherlands
+NL_0NLSTE,Steenbergen,Netherlands
+NL_0NLTNZ,Terneuzen,Netherlands
+NL_0NLTEX,Texel,Netherlands
+NL_0NLTIE,Tiel,Netherlands
+NL_0NLUTC,Utrecht,Netherlands
+NL_0NLVEL,Velsen,Netherlands
+NL_0NLVEN,Venlo,Netherlands
+NL_0NLVIE,Vierlingsbeek,Netherlands
+NL_0NLVLA,Vlaardingen,Netherlands
+NL_0NLVLI,Vlissingen,Netherlands
+NL_0NLWGW,Wageningen,Netherlands
+NL_0NLWKD,Werkendam,Netherlands
+NL_0NLWTE,West-Terschelling,Netherlands
+NL_0NLWCM,Woudrichem,Netherlands
+NL_0NLZAA,Zaanstad,Netherlands
+NL_0NLZWI,Zwijndrecht,Netherlands
+NL_0NLZWO,Zwolle,Netherlands
+NL_0NL887,Netherlands (small inland waterways) - other ports,Netherlands
+NL_0NL888,Netherlands - other ports,Netherlands
+PL_0PLDAR,Darlowo,Poland
+PL_0PLELB,Elblag,Poland
+PL_0PL011,Frombork,Poland
+PL_0PLFBK,Frombork,Poland
+PL_0PLGDN,Gdansk,Poland
+PL_0PLGDY,Gdynia,Poland
+PL_0PLHEL,Hel,Poland
+PL_0PLKOL,Kolobrzeg,Poland
+PL_0PLKMR,Krynica Morska,Poland
+PL_0PL012,Krynica Morska,Poland
+PL_0PLMID,Miedzyzdroje,Poland
+PL_0PLNWA,Nowe Warpno,Poland
+PL_0PLPLC,Police,Poland
+PL_0PLSOP,Sopot,Poland
+PL_0PLSPA,Stepnica,Poland
+PL_0PLSWI,Swinoujscie,Poland
+PL_0PLSZZ,Szczecin,Poland
+PL_0PLTBZ,Trzebiez,Poland
+PL_0PLUST,Ustka,Poland
+PL_0PLWLA,Wladyslawowo,Poland
+PT_0PTADH,"Angra do Heroísmo (Ilha Terceira, Açores)",Portugal
+PT_0PTAVE,Aveiro,Portugal
+PT_0PTCDP,"Cais do Pico (Ilha do Pico, Açores)",Portugal
+PT_0PTCNL,Caniçal,Portugal
+PT_0PTOPO,Douro (Oporto),Portugal
+PT_0PTFAO,Faro,Portugal
+PT_0PTFDF,Figueira da Foz,Portugal
+PT_0PTFNC,Funchal (Madeira),Portugal
+PT_0PTHOR,"Horta (Ilha das Faial, Açores)",Portugal
+PT_0PTLAJ,"Lajes das Flores (Ilha das Flores, Açores)",Portugal
+PT_0PTLEI,Leixões,Portugal
+PT_0PTLIS,Lisboa,Portugal
+PT_0PTMAD,"Madalena (Ilha do Pico, Açores)",Portugal
+PT_0PTPDL,"Ponta Delgada (Ilha de S. Miguel, Açores)",Portugal
+PT_0PTPRM,Portimão,Portugal
+PT_0PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)",Portugal
+PT_0PTPRG,"Praia da Graciosa (Ilha da Graciosa, Açores)",Portugal
+PT_0PTPRV,"Praia da Vitória (Ilha Terceira, Açores)",Portugal
+PT_0PTSET,Setúbal,Portugal
+PT_0PTSIE,Sines,Portugal
+PT_0PTVEL,"Velas (Ilha de São Jorge, Açores)",Portugal
+PT_0PTVDC,Viana do Castelo,Portugal
+PT_0PTVDP,"Vila do Porto (Ilha de Sta Maria, Açores)",Portugal
+PT_0PTVNC,"Vila Nova do Corvo (Ilha do Corvo, Açores)",Portugal
+RO_0ROBAB,Basarabi,Romania
+RO_0ROBRA,Braila,Romania
+RO_0ROCEV,Cernavoda,Romania
+RO_0ROCND,Constanta,Romania
+RO_0ROGAL,Galati,Romania
+RO_0ROLUM,Luminita,Romania
+RO_0ROMAG,Mangalia,Romania
+RO_0ROMED,Medgidia,Romania
+RO_0ROMID,Midia,Romania
+RO_0ROSUL,Sulina,Romania
+RO_0ROTCE,Tulcea,Romania
+RO_0RO888,Romania - other ports,Romania
+SI_0SIIZO,Izola,Slovenia
+SI_0SIKOP,Koper,Slovenia
+SI_0SIPIR,Piran,Slovenia
+SI_0SI888,Slovenia - other ports,Slovenia
+FI_0FIBRA,Brändö,Finland
+FI_0FIDRA,Dragsfjärd,Finland
+FI_0FIECK,Eckerö,Finland
+FI_0FIESP,Espoo,Finland
+FI_0FIEJO,Eurajoki,Finland
+FI_0FIFAR,Färjsund,Finland
+FI_0FIFOG,Föglö,Finland
+FI_0FIFOR,Förby,Finland
+FI_0FIGDB,Godby,Finland
+FI_0FIHMN,Hamina,Finland
+FI_0FI002,HaminaKotka,Finland
+FI_0FIHKO,Hanko,Finland
+FI_0FIHEL,Helsinki,Finland
+FI_0FIHOU,Houtskär,Finland
+FI_0FIINI,Iniö,Finland
+FI_0FIINK,Inkoo,Finland
+FI_0FIISN,Isnäs,Finland
+FI_0FIKJO,Kalajoki,Finland
+FI_0FIKNT,Kantvik,Finland
+FI_0FIKAS,Kaskinen,Finland
+FI_0FIKEM,Kemi,Finland
+FI_0FIKIM,Kemiö,Finland
+FI_0FIKKR,Kökar,Finland
+FI_0FIKOK,Kokkola,Finland
+FI_0FIKOR,Korpoo,Finland
+FI_0FIKTK,Kotka,Finland
+FI_0FIKVH,Koverhar,Finland
+FI_0FIKRS,Kristinankaupunki,Finland
+FI_0FIKUM,Kumlinge,Finland
+FI_0FILAN,Langnäs,Finland
+FI_0FILAP,Lappohja,Finland
+FI_0FILOV,Loviisa,Finland
+FI_0FILUV,Luvia,Finland
+FI_0FIMHQ,Mariehamn,Finland
+FI_0FIMER,Merikarvia,Finland
+FI_0FINLI,Naantali,Finland
+FI_0FINAU,Nauvo,Finland
+FI_0FIOUL,Oulu,Finland
+FI_0FIPAR,Parainen,Finland
+FI_0FIPER,Pernaja,Finland
+FI_0FIPRS,Pietarsaari,Finland
+FI_0FIPOH,Pohjankuru,Finland
+FI_0FIPOR,Pori,Finland
+FI_0FIRAA,Raahe,Finland
+FI_0FIRAU,Rauma,Finland
+FI_0FIRTR,Rautaruukki,Finland
+FI_0FIRUO,Ruotsinpyhtää,Finland
+FI_0FIRYM,Rymättylä,Finland
+FI_0FISAL,Salo,Finland
+FI_0FISIP,Sipoonlahti,Finland
+FI_0FISKV,Sköldvik,Finland
+FI_0FISKB,Skogby,Finland
+FI_0FIDLS,Taalintehdas,Finland
+FI_0FITVS,Taivassalo,Finland
+FI_0FITAI,Tammisaari,Finland
+FI_0FITEI,Teijo,Finland
+FI_0FITOK,Tolkkinen,Finland
+FI_0FITOR,Tornio,Finland
+FI_0FITKU,Turku,Finland
+FI_0FIUKI,Uusikaupunki,Finland
+FI_0FIVAA,Vaasa,Finland
+FI_0FIVEL,Velkua,Finland
+FI_0FI001,Finland - other inland ports,Finland
+FI_0FI888,Finland - other ports,Finland
+SE_1SEAHU,Åhus,Sweden
+SE_1SEALA,Ala,Sweden
+SE_2SEALN,Älvenäs,Sweden
+SE_2SEAMA,Åmål,Sweden
+SE_1SEBLV,Bällstaviken,Sweden
+SE_1SEBAA,Bålsta,Sweden
+SE_1SEBEA,Bergkvara,Sweden
+SE_1SEBER,Bergs Oljehamn,Sweden
+SE_2SEBOH,Bohus,Sweden
+SE_1SEBOL,Bollstabruk,Sweden
+SE_1SEBVK,Braviken,Sweden
+SE_2SEBRO,Brofjorden,Sweden
+SE_1SEBYX,Byxelkrok,Sweden
+SE_1SEDEG,Degerhamn,Sweden
+SE_1SEDOM,Domsjö,Sweden
+SE_1SEELL,Elleholm,Sweden
+SE_1SEENK,Enköping,Sweden
+SE_1SEFAK,Fagerviken,Sweden
+SE_2SEFAG,Falkenberg,Sweden
+SE_2SEFJA,Fjällbacka,Sweden
+SE_1SEFLI,Flivik,Sweden
+SE_1SEFOR,Forsmark,Sweden
+SE_1SEGAM,Gamleby,Sweden
+SE_1SEGVX,Gävle,Sweden
+SE_2SEGOA,Göta,Sweden
+SE_2SEGOT,Göteborg,Sweden
+SE_1SEGKV,Grankullavik,Sweden
+SE_2SEGRE,Grebbestad,Sweden
+SE_1SEGRH,Grisslehamn,Sweden
+SE_2SEGRU,Gruvön,Sweden
+SE_1SEGUN,Gunnebo,Sweden
+SE_1SEGUB,Gustavsberg,Sweden
+SE_1SEHAK,Hallstavik,Sweden
+SE_2SEHAD,Halmstad,Sweden
+SE_1SEHAN,Hargshamn,Sweden
+SE_1SEHND,Härnösand,Sweden
+SE_1SEHEL,Helsingborg,Sweden
+SE_2SEHOG,Höganäs,Sweden
+SE_2SEHON,Hönsäter,Sweden
+SE_1SEHUV,Hudiksvall,Sweden
+SE_2SEHUN,Hunnebostrand,Sweden
+SE_1SEHUS,Husum,Sweden
+SE_1SEIGG,Iggesund,Sweden
+SE_1SEJAT,Jätterssön,Sweden
+SE_1SEKGG,Kagghamra,Sweden
+SE_1SEKAX,Kalix,Sweden
+SE_1SEKLR,Kalmar,Sweden
+SE_1SEKAL,Kalmarsand,Sweden
+SE_1SEKPH,Kappelshamn,Sweden
+SE_1SEKPS,Kappelskär,Sweden
+SE_1SEKXV,Karlsborg Axelvik,Sweden
+SE_1SEKAN,Karlshamn,Sweden
+SE_1SEKAA,Karlskrona,Sweden
+SE_2SEKSD,Karlstad,Sweden
+SE_1SEKLI,Klintehamn,Sweden
+SE_1SEKOG,Köping,Sweden
+SE_2SEKHN,Kristinehamn,Sweden
+SE_1SEKUB,Kubikenborg,Sweden
+SE_2SEKUN,Kungshamn,Sweden
+SE_1SEKVA,Kvarnholmen,Sweden
+SE_1SELAA,Landskrona,Sweden
+SE_2SELDK,Lidköping,Sweden
+SE_2SELED,Lilla Edet,Sweden
+SE_1SELOM,Lomma,Sweden
+SE_1SELOT,Löten,Sweden
+SE_1SELLA,Luleå,Sweden
+SE_1SELUG,Lugnvik,Sweden
+SE_2SELYS,Lysekil,Sweden
+SE_1SEMMA,Malmö,Sweden
+SE_2SEMAD,Mariestad,Sweden
+SE_1SEMOR,Mörbylånga,Sweden
+SE_2SENOL,Nol (ports),Sweden
+SE_1SENOG,Nordmaling,Sweden
+SE_1SENRK,Norrköping,Sweden
+SE_1SENOT,Norrsundet,Sweden
+SE_1SENOE,Norrtälje,Sweden
+SE_1SENYO,Nyköping,Sweden
+SE_1SENYN,Nynäshamn (ports),Sweden
+SE_1SEOER,Örnsköldsvik,Sweden
+SE_1SEOSK,Oskarshamn,Sweden
+SE_1SEOST,Östrand,Sweden
+SE_2SEOTT,Otterbäcken,Sweden
+SE_1SEOXE,Oxelösund (ports),Sweden
+SE_1SEPIT,Piteå,Sweden
+SE_1SERNH,Ronehamn,Sweden
+SE_1SERNB,Ronneby,Sweden
+SE_1SERUV,Rundvik,Sweden
+SE_2SESAF,Säffle,Sweden
+SE_1SESIM,Simrishamn,Sweden
+SE_2SESKT,Skattkärr,Sweden
+SE_1SESFT,Skellefteå,Sweden
+SE_2SESKO,Skoghall (ports),Sweden
+SE_1SESSR,Skutskär,Sweden
+SE_1SESLI,Slite (ports),Sweden
+SE_1SESOO,Söderhamn,Sweden
+SE_1SESOE,Södertälje,Sweden
+SE_1SESOL,Sölvesborg,Sweden
+SE_1SESOR,Söråker,Sweden
+SE_2SESTE,Stenungsund (Ports),Sweden
+SE_1SESTA,Stocka,Sweden
+SE_1SESTO,Stockholm,Sweden
+SE_1SESTK,Stockvik,Sweden
+SE_1SESTV,Stora Vika,Sweden
+SE_1SESUS,Storugns,Sweden
+SE_1SESTQ,Strängnäs,Sweden
+SE_2SESMD,Strömstad,Sweden
+SE_1SESDL,Sundsvall,Sweden
+SE_2SESUR,Surte,Sweden
+SE_1SETOE,Töre,Sweden
+SE_1SETRG,Trelleborg,Sweden
+SE_2SETHN,Trollhättan (Ports),Sweden
+SE_1SETUN,Tunadal,Sweden
+SE_2SEUDD,Uddevalla,Sweden
+SE_1SEUME,Umeå,Sweden
+SE_1SEUND,Underås,Sweden
+SE_1SEUPP,Uppsala,Sweden
+SE_1SEUTA,Utansjö,Sweden
+SE_1SEVAJ,Väja,Sweden
+SE_1SEVAK,Valdemarsvik,Sweden
+SE_1SEVAL,Vallvik,Sweden
+SE_2SEVAN,Vänersborg,Sweden
+SE_2SEVAG,Varberg,Sweden
+SE_2SEVGN,Vargön,Sweden
+SE_1SEVST,Västerås,Sweden
+SE_1SEVVK,Västervik,Sweden
+SE_1SEVER,Verkebäck,Sweden
+SE_1SEVBY,Visby,Sweden
+SE_1SEVIV,Vivstavarv,Sweden
+SE_2SEWAL,Wallhamn,Sweden
+SE_1SEYST,Ystad,Sweden
+SE_1SE888,Sweden (Baltic Sea) - other ports,Sweden
+SE_2SE888,Sweden (North Sea) - other ports,Sweden
+SE_9SE88C,Sweden (confidential data aggregated by Eurostat),Sweden
+SE_9SE88D,Sweden - other ports,Sweden
+SE_9SE888,Sweden (unknown maritime coastal area) - other ports,Sweden
+UK_1GBABD,Aberdeen,United Kingdom
+UK_1GBAPP,Appledore,United Kingdom
+UK_1GBASG,Ardrishaig,United Kingdom
+UK_1GBAYR,Ayr,United Kingdom
+UK_1GBBLR,Ballylumford,United Kingdom
+UK_1GBBND,Barnstaple,United Kingdom
+UK_1GBCBA,Barra Castlebay,United Kingdom
+UK_1GBBIF,Barrow-In-Furness,United Kingdom
+UK_1GBBAD,Barry,United Kingdom
+UK_1GBBEL,Belfast,United Kingdom
+UK_1GBBWK,Berwick-On-Tweed,United Kingdom
+UK_1GBBID,Bideford,United Kingdom
+UK_1GBBLY,Blyth,United Kingdom
+UK_1GBBOS,Boston,United Kingdom
+UK_1GBBRW,Bridgwater,United Kingdom
+UK_1GBBLS,Brightlingsea,United Kingdom
+UK_1GBBRS,Bristol,United Kingdom
+UK_1GBBRX,Brixham,United Kingdom
+UK_1GBBUC,Buckie,United Kingdom
+UK_1GBBUH,Burghead,United Kingdom
+UK_1GBBPT,Burry port,United Kingdom
+UK_1GBCYN,Cairnryan,United Kingdom
+UK_1GBCBT,Campbeltown,United Kingdom
+UK_1GBCDF,Cardiff,United Kingdom
+UK_1GBCHF,Charlestown,United Kingdom
+UK_1GBCST,Chichester,United Kingdom
+UK_1GBCYP,Clydeport,United Kingdom
+UK_1GBCOL,Colchester,United Kingdom
+UK_1GBCLR,Coleraine,United Kingdom
+UK_1GBCOR,Corpach,United Kingdom
+UK_1GBCOW,Cowes (Isle of Wight),United Kingdom
+UK_1GBCNU,Craignure,United Kingdom
+UK_1GBCRN,Cromarty Firth,United Kingdom
+UK_1GBDTM,Dartmouth,United Kingdom
+UK_1GBDNQ,Dean Point Quarry,United Kingdom
+UK_2IMDGS,Douglas (Isle of Man),United Kingdom
+UK_1GBDVR,Dover,United Kingdom
+UK_1GBDUN,Dundee,United Kingdom
+UK_1GB230,Dutch River Wharf,United Kingdom
+UK_1GBEXM,Exmouth,United Kingdom
+UK_1GBFAL,Falmouth,United Kingdom
+UK_1GBFHM,Fareham,United Kingdom
+UK_1GBFXT,Felixstowe,United Kingdom
+UK_1GBFIS,Fishguard,United Kingdom
+UK_1GBFLE,Fleetwood,United Kingdom
+UK_1GBFOL,Folkestone,United Kingdom
+UK_1GBFOR,Forth,United Kingdom
+UK_1GBFDK,Fosdyke,United Kingdom
+UK_1GBFOY,Fowey,United Kingdom
+UK_1GBFRB,Fraserburgh,United Kingdom
+UK_1GBGTN,Garston,United Kingdom
+UK_1GBILL,Gill's Bay Scotland,United Kingdom
+UK_1GBGIR,Girvan,United Kingdom
+UK_1GBGSA,Glensanda,United Kingdom
+UK_1GBGOO,Goole,United Kingdom
+UK_1GBGTY,Great Yarmouth,United Kingdom
+UK_1GBIMM,Immingham,United Kingdom
+UK_1GBHRW,Harwich,United Kingdom
+UK_1GBHYM,Heysham,United Kingdom
+UK_1GBHLY,Holyhead,United Kingdom
+UK_1GBHWZ,Hugh Town,United Kingdom
+UK_1GBHUL,Hull,United Kingdom
+UK_1GBINK,Inverkeithing,United Kingdom
+UK_1GBINV,Inverness,United Kingdom
+UK_1GBIPS,Ipswich,United Kingdom
+UK_1GBKLR,Kilroot,United Kingdom
+UK_1GBKPS,Kilroot Power Station Jetty,United Kingdom
+UK_1GBKLN,King's Lynn,United Kingdom
+UK_1GBKWL,Kirkwall,United Kingdom
+UK_1GBLAN,Lancaster,United Kingdom
+UK_1GBLAR,Larne,United Kingdom
+UK_1GBLER,Lerwick (Shetland Islands),United Kingdom
+UK_1GBLIT,Littlehampton,United Kingdom
+UK_1GBLIV,Liverpool,United Kingdom
+UK_1GBLDO,Llandudno,United Kingdom
+UK_1GBLLD,Llandulas,United Kingdom
+UK_1GB231,Loch Carnan,United Kingdom
+UK_1GBLOL,Lochaline,United Kingdom
+UK_1GBLON,London,United Kingdom
+UK_1GBLDY,Londonderry,United Kingdom
+UK_1GBLOW,Lowestoft,United Kingdom
+UK_1GBMCD,Macduff,United Kingdom
+UK_1GBMGO,Magheramorne,United Kingdom
+UK_1GBMAL,Maldon,United Kingdom
+UK_1GBMNC,Manchester,United Kingdom
+UK_1GBMED,Medway,United Kingdom
+UK_1GBMLF,Milford Haven,United Kingdom
+UK_1GBMIS,Mistley,United Kingdom
+UK_1GBMON,Montrose,United Kingdom
+UK_1GBCHE,Mostyn,United Kingdom
+UK_1GBNEA,Neath,United Kingdom
+UK_1GBNCL,Newcastle-Upon-Tyne,United Kingdom
+UK_1GBNHV,Newhaven,United Kingdom
+UK_1GBNPO,Newport (Isle of Wight),United Kingdom
+UK_1GBNPT,"Newport, Gwent",United Kingdom
+UK_1GBOBA,Oban,United Kingdom
+UK_1GBPAD,Padstow,United Kingdom
+UK_1GBPAR,Par,United Kingdom
+UK_1GBPEM,Pembroke,United Kingdom
+UK_1GBPEN,Penzance,United Kingdom
+UK_1GBPER,Perth,United Kingdom
+UK_1GBPHD,Peterhead,United Kingdom
+UK_1GBPLY,Plymouth,United Kingdom
+UK_1GBPOO,Poole,United Kingdom
+UK_1GBPPE,Port Penrhyn,United Kingdom
+UK_1GBPSB,Port Sutton Bridge,United Kingdom
+UK_1GBPTB,Port Talbot,United Kingdom
+UK_1GBPOH,Porthoustock England,United Kingdom
+UK_1GBPTR,Portrush,United Kingdom
+UK_1GBPME,Portsmouth,United Kingdom
+UK_1GBRMG,Ramsgate,United Kingdom
+UK_1GB222,River Ouse,United Kingdom
+UK_1GB221,River Hull & Humber,United Kingdom
+UK_1GBRFD,Rochford,United Kingdom
+UK_1GBRYE,Rye,United Kingdom
+UK_1GBSCR,Scrabster,United Kingdom
+UK_1GBSEA,Seaham,United Kingdom
+UK_1GBSSS,Sharpness,United Kingdom
+UK_1GBSHO,Shoreham,United Kingdom
+UK_1GBSHT,Shotton,United Kingdom
+UK_1GBSIL,Silloth,United Kingdom
+UK_1GBSOU,Southampton,United Kingdom
+UK_1GBSWD,Southwold,United Kingdom
+UK_3JESTH,St Helier (Jersey),United Kingdom
+UK_3GGSPT,St Peter Port (Guernsey),United Kingdom
+UK_1GBSTO,Stornoway,United Kingdom
+UK_1GBSTR,Stranraer,United Kingdom
+UK_1GBSOY,Stronsay,United Kingdom
+UK_1GBSUL,Sullom Voe,United Kingdom
+UK_1GBSUN,Sunderland,United Kingdom
+UK_1GBSWA,Swansea,United Kingdom
+UK_1GBMME,Tees & Hartlepool,United Kingdom
+UK_1GBTNM,Teignmouth,United Kingdom
+UK_1GBTOR,Torquay,United Kingdom
+UK_1GB203,Trent River,United Kingdom
+UK_1GBTRN,Troon,United Kingdom
+UK_1GBTRU,Truro,United Kingdom
+UK_1GBTYN,Tyne,United Kingdom
+UK_1GBWPT,Warrenpoint,United Kingdom
+UK_1GBWEY,Weymouth,United Kingdom
+UK_1GBWTB,Whitby,United Kingdom
+UK_1GBWHV,Whitehaven,United Kingdom
+UK_1GBWTS,Whitstable,United Kingdom
+UK_1GBWIC,Wick,United Kingdom
+UK_1GBWIS,Wisbech,United Kingdom
+UK_1GBWOR,Workington,United Kingdom
+UK_1GB888,United Kingdom - other ports,United Kingdom
+UK_2IM888,United Kingdom (Isle of Man) - other ports,United Kingdom
+UK_3GG888,United Kingdom (Guernsey) - other ports,United Kingdom
+UK_3JE888,United Kingdom (Jersey) - other ports,United Kingdom
+IS_0ISAKR,Akranes,Iceland
+IS_0ISAKU,Akureyri,Iceland
+IS_0ISASS,Árskógssandur,Iceland
+IS_0ISBAK,Bakkafjörður,Iceland
+IS_0ISBIL,Bíldudalur,Iceland
+IS_0ISBLO,Blönduós,Iceland
+IS_0ISBOL,Bolungarvík,Iceland
+IS_0ISBGJ,Borgafjörður eystri,Iceland
+IS_0ISBRJ,Brjánslækur,Iceland
+IS_0ISBRE,Breiðdalsvík,Iceland
+IS_0ISDAL,Dalvík,Iceland
+IS_0ISDJU,Djúpivogur,Iceland
+IS_0ISESK,Eskifjörður,Iceland
+IS_0ISFAS,Fáskrúðsfjörður,Iceland
+IS_0ISFLA,Flateyri,Iceland
+IS_0ISGRD,Garður,Iceland
+IS_0ISGRY,Grímsey,Iceland
+IS_0ISGRI,Grindavík,Iceland
+IS_0ISGRF,Grundarfjörður,Iceland
+IS_0ISGRT,Grundartangi,Iceland
+IS_0ISHAF,Hafnarfjörður,Iceland
+IS_0ISHNR,Hafnir,Iceland
+IS_0ISHFN,Höfn Hornafjörður,Iceland
+IS_0ISHOF,Hofsós,Iceland
+IS_0ISHVK,Hólmavík,Iceland
+IS_0ISHRI,Hrísey,Iceland
+IS_0ISHUS,Húsavík,Iceland
+IS_0ISHVR,Hvalfjørdur-Litlisandur,Iceland
+IS_0ISHVM,Hvammstangi,Iceland
+IS_0ISISA,Ísafjörður,Iceland
+IS_0ISKEF,Keflavík,Iceland
+IS_0ISKOP,Kópasker,Iceland
+IS_0ISKOV,Kópavogur,Iceland
+IS_0ISNES,Neskaupstaður,Iceland
+IS_0ISNOU,Norðurfjörður,Iceland
+IS_0ISOLF,Ólafsfjörður,Iceland
+IS_0ISOLV,Ólafsvík,Iceland
+IS_0ISPAT,Patreksfjörður,Iceland
+IS_0ISRAU,Raufarhöfn,Iceland
+IS_0ISRFJ,Reyðarfjörður,Iceland
+IS_0ISRHA,Reykhólar,Iceland
+IS_0ISREY,Reykjavík,Iceland
+IS_0ISRIF,Rif,Iceland
+IS_0ISSAN,Sandgerði,Iceland
+IS_0ISSAU,Sauðárkrókur,Iceland
+IS_0ISSEY,Seyðisfjörður,Iceland
+IS_0ISSIG,Siglufjörður,Iceland
+IS_0ISSKA,Skagaströnd,Iceland
+IS_0ISSTD,Stöðvarfjörður,Iceland
+IS_0ISSTR,Straumsvík,Iceland
+IS_0ISSTY,Stykkishólmur,Iceland
+IS_0ISSUV,Súðavík,Iceland
+IS_0ISSUD,Suðureyri,Iceland
+IS_0ISTAL,Tálknafjörður,Iceland
+IS_0ISTEY,Þingeyri (Thingeyri),Iceland
+IS_0ISTHH,Þorlákshöfn (Thorlakshofn),Iceland
+IS_0ISTHO,Þórshöfn (Thorshofn),Iceland
+IS_0ISVES,Vestmannaeyjar,Iceland
+IS_0ISVOG,Vogar,Iceland
+IS_0ISVPN,Vopnafjörður,Iceland
+IS_0IS888,Iceland - other ports,Iceland
+NO_0NOAAF,Åfjord,Norway
+NO_0NOAES,Ålesund,Norway
+NO_0NOALF,Alta,Norway
+NO_0NOADY,Andøy,Norway
+NO_0NOAAN,Årdal,Norway
+NO_0NOARE,Arendal,Norway
+NO_0NOASL,Askvoll,Norway
+NO_0NOAUL,Aurland,Norway
+NO_0NOASV,Austevoll,Norway
+NO_0NOBLL,Ballangen,Norway
+NO_0NOBAR,Bærum/Sandvika/Lysaker,Norway
+NO_0NOBJF,Båtsfjord,Norway
+NO_0NOBEJ,Beiarn,Norway
+NO_0NOBGO,Bergen,Norway
+NO_0NOBVG,Berlevåg,Norway
+NO_0NOBJU,Bjugn/Lysøysund/Botngård,Norway
+NO_0NOBOX,Bø,Norway
+NO_0NOBOO,Bodø,Norway
+NO_0NOBRG,Borg,Norway
+NO_0NOBRR,Borre,Norway
+NO_0NOBRE,Bremanger,Norway
+NO_0NOBRO,Brønnøy,Norway
+NO_0NODRM,Drammen,Norway
+NO_0NOEGD,Eigersund,Norway
+NO_0NOETN,Etne,Norway
+NO_0NOFAN,Farsund,Norway
+NO_0NOFAU,Fauske,Norway
+NO_0NOFKS,Flakstad,Norway
+NO_0NOFFD,Flekkefjord,Norway
+NO_0NOFRO,Florø/Flora,Norway
+NO_0NOFSN,Fosnes,Norway
+NO_0NOFUS,Fusa,Norway
+NO_0NOKAF,Gaivuotna - Kåfjord,Norway
+NO_0NOGRV,Granvin,Norway
+NO_0NOGTD,Grimstad,Norway
+NO_0NOGUL,Gulen,Norway
+NO_0NOHAA,Hå,Norway
+NO_0NOHAD,Hadsel,Norway
+NO_0NOHAL,Halden,Norway
+NO_0NOHFT,Hammerfest,Norway
+NO_0NOHRD,Harstad,Norway
+NO_0NOHOL,Holmestrand,Norway
+NO_0NOHVG,Honningsvåg,Norway
+NO_0NOHYR,Høyanger,Norway
+NO_0NOJON,Jondal,Norway
+NO_0NOKAS,Karmsund,Norway
+NO_0NOKKN,Kirkenes,Norway
+NO_0NONTY,Kjøpmannskjær/Nøtterøy,Norway
+NO_0NOKRA,Kragerø,Norway
+NO_0NOKRS,Kristiansand S,Norway
+NO_0NOKSU,Kristiansund N/Grip,Norway
+NO_0NOKVM,Kvam,Norway
+NO_0NOKVN,Kvænangen,Norway
+NO_0NOKVD,Kvinesdal,Norway
+NO_0NOLAR,Larvik,Norway
+NO_0NOLEB,Lebesby,Norway
+NO_0NOLEF,Leirfjord,Norway
+NO_0NOLKA,Leka,Norway
+NO_0NOLIL,Lillesand,Norway
+NO_0NOLOD,Lødingen,Norway
+NO_0SJLYR,Longyearbyen,Norway
+NO_0NOLOP,Loppa,Norway
+NO_0NOLUS,Luster,Norway
+NO_0NOLYN,Lyngen,Norway
+NO_0NOMAY,Måløy,Norway
+NO_0NOMAN,Mandal,Norway
+NO_0NOMSY,Måsøy,Norway
+NO_0NOMEY,Meløy/Glomfjord/Ørnes,Norway
+NO_0NOMOD,Modalen,Norway
+NO_0NOMOL,Molde,Norway
+NO_0NOMJF,Mosjøen,Norway
+NO_0NOMSK,Moskenes,Norway
+NO_0NOMSS,Moss,Norway
+NO_0NOOSY,Namsos,Norway
+NO_0NONVK,Narvik,Norway
+NO_0NONSN,Nesna,Norway
+NO_0NOEID,Nordfjordeid/Eid,Norway
+NO_0NOODD,Odda,Norway
+NO_0NOMYO,Øksnes/Myre,Norway
+NO_0NOOLN,Ølen,Norway
+NO_0NOORK,Orkanger,Norway
+NO_0NOOLA,Ørland/Brekstad,Norway
+NO_0NOOSN,Osen,Norway
+NO_0NOOSL,Oslo,Norway
+NO_0NOOST,Osterøy,Norway
+NO_0NOGVL,"Porsgrunn, Rafnes, Herøya, Brevik, Skien, Langesund, Voldsfjorden",Norway
+NO_0NORNA,Rana,Norway
+NO_0NORIS,Risør,Norway
+NO_0NOSDL,Saltdal/Rognan,Norway
+NO_0NOSAD,Sandefjord,Norway
+NO_0NOSAS,Sandnes,Norway
+NO_0NOSSJ,Sandnessjøen,Norway
+NO_0NOSAU,Sauda,Norway
+NO_0NOSAL,Salangen,Norway
+NO_0NOSKY,Skjervøy,Norway
+NO_0NOSOG,Sogndal,Norway
+NO_0NOSNE,Søgne,Norway
+NO_0NOSOK,Sokndal,Norway
+NO_0NOSMN,Sømna,Norway
+NO_0NOSRA,Sørreisa,Norway
+NO_0NOSLX,Sortland,Norway
+NO_0NOSVG,Stavanger,Norway
+NO_0NOSTG,Steigen,Norway
+NO_0NOSTE,Steinkjer,Norway
+NO_0NOSTK,Stokke/Melsomvik,Norway
+NO_0NOSRP,Stord,Norway
+NO_0NOSTF,Storfjord,Norway
+NO_0NOSTD,Strand,Norway
+NO_0NOSRN,Stranda,Norway
+NO_0NOSUL,Suldal,Norway
+NO_0NOSUN,Sunndal/Sunndalsøra,Norway
+NO_0NO720,Svalbard,Norway
+NO_0SJ888,Svalbard and Jan Mayen,Norway
+NO_0SJSVE,Sveagruva (Svalbard),Norway
+NO_0NOSYK,Sykkylven,Norway
+NO_0NOTON,Tønsberg,Norway
+NO_0NOTOS,Tromsø,Norway
+NO_0NOTRD,Trondheim/Flakk,Norway
+NO_0NOTYN,Tysnes,Norway
+NO_0NOVGN,Vågan/Kabelvåg,Norway
+NO_0NOVDS,Vadsø,Norway
+NO_0NOVEY,Værøy,Norway
+NO_0NOVAY,Vanylven,Norway
+NO_0NOVAO,Vardø,Norway
+NO_0NOVEG,Vega,Norway
+NO_0NOVER,Verdal,Norway
+NO_0NOVVY,Vestvågøy,Norway
+NO_0NOVKN,Vikna,Norway
+NO_0NO888,Norway - other ports,Norway
+TR_1TRAMA,Amasra,Turkey
+TR_2TRALA,Alanya,Turkey
+TR_2TRALI,Aliaga,Turkey
+TR_1TRAMB,Ambarli,Turkey
+TR_2TRANA,Anamur,Turkey
+TR_2TRAYT,Antalya,Turkey
+TR_2TRAYV,Ayvalik,Turkey
+TR_2TRBDM,Bandirma,Turkey
+TR_1TRBTN,Bartin,Turkey
+TR_2TRBXN,Bodrum,Turkey
+TR_2TRBOT,Botas,Turkey
+TR_2TRBZC,Bozcaada,Turkey
+TR_2TRCKZ,Canakkale,Turkey
+TR_2TRCES,Cesme,Turkey
+TR_2TRDAT,Datca,Turkey
+TR_2TRDIK,"Dikili, Izmir",Turkey
+TR_2TREDO,Edremit,Turkey
+TR_2TRENE,Enez,Turkey
+TR_2TRERK,Erdek,Turkey
+TR_1TRERE,Eregli,Turkey
+TR_1TRFAS,Fatsa,Turkey
+TR_2TRFET,Fethiye,Turkey
+TR_2TRFIN,Finike,Turkey
+TR_2TRFOC,Foca,Turkey
+TR_2TRGEL,Gelibolu,Turkey
+TR_2TRGEM,Gemlik,Turkey
+TR_1TRGZE,Gerze,Turkey
+TR_1TRGIR,Giresun,Turkey
+TR_2TRGCK,Gocek,Turkey
+TR_2TRGCA,Gokceada,Turkey
+TR_1TRGOR,Gorele,Turkey
+TR_2TRGUL,Gulluk,Turkey
+TR_1TRHOP,Hopa,Turkey
+TR_1TRIGN,Igneada,Turkey
+TR_1TRINE,Inebolu,Turkey
+TR_2TRISK,"Iskenderun, Hatay",Turkey
+TR_2TRIST,Istanbul,Turkey
+TR_2TRIZM,Izmir,Turkey
+TR_2TRIZT,Izmit,Turkey
+TR_2TRKRB,Karabiga,Turkey
+TR_2TRKAS,Kas,Turkey
+TR_1TRKFK,Kefken,Turkey
+TR_2TRKMR,Kemer,Turkey
+TR_2TRKUS,Kusadasi,Turkey
+TR_2TRMRA,Marmara Adasi,Turkey
+TR_2TRMRM,Marmaris,Turkey
+TR_2TRMER,Mersin,Turkey
+TR_2TRMUD,"Mudanya, Bursa",Turkey
+TR_1TRORD,Ordu,Turkey
+TR_1TRPZR,Pazar,Turkey
+TR_1TRRIZ,Rize,Turkey
+TR_1TRSSX,Samsun,Turkey
+TR_1TRSLE,Sile,Turkey
+TR_2TRSIL,Silivri,Turkey
+TR_1TRSIC,Sinop,Turkey
+TR_1TRSUR,Surmene,Turkey
+TR_2TRTAS,Tasucu,Turkey
+TR_2TRTEK,Tekirdag,Turkey
+TR_1TRTIR,Tirebolu,Turkey
+TR_1TRTZX,Trabzon,Turkey
+TR_1TRUNY,Unye,Turkey
+TR_1TRVAK,Vakfikebir,Turkey
+TR_2TRYAL,Yalova,Turkey
+TR_1TRZON,Zonguldak,Turkey
+TR_9TR888,Turkey (unknown maritime coastal area) - other ports,Turkey
+PORT_EU,EU ports,Europe
+EL_0GRACL,Achladi,Greece
+EL_0GRAKM,Agia Kyriaki (Trikeri) Magnisias,Greece
+EL_0GRAGF,Agios Nikolaos Fokidas,Greece
+EL_0GRAKT,Aktio Vonitsas,Greece
+EL_0GRERK,"Ereikousa, Diapontia nisia",Greece
+EL_0GRSAT,Frikes Ithakis,Greece
+EL_0GRGAD,Gavdos Chanion,Greece
+EL_0GRIER,Ierapetra Lasithiou,Greece
+EL_0GRIES,Ierissos Chalkidikis,Greece
+EL_0GRMTR,"Mathraki, Diapontia nisia",Greece
+EL_0GRPYV,Pevki Evvoias,Greece
+EL_0GRTLA,Tolo Argolidas,Greece
+EL_0GRVLC,Volissos (Limnia) Chiou,Greece
+NO_0NOAFT,Agnefest,Norway
+NO_0NOORS,Ørsta,Norway
+ME,Montenegro,Montenegro
+ME_0MEBAR,Bar,Montenegro
+ME_0MEKOT,Kotor,Montenegro
+FR_4GPPTP,Pointe-à-Pitre (Guadeloupe),France
+DK_0DKAIT,Asnæs Inter Terminal,Denmark
+DK_0DKEIT,Ensted Inter Terminal,Denmark
+DK_0DKSIT,Stigsnaes Inter Terminal,Denmark
+EL_0GRARM,Argostoli,Greece
+EL_0GRASS,Aspropyrgos,Greece
+UK_1GBLRP,Loch Ryan Pt,United Kingdom
+TR_2TRAMB,Ambarli,Turkey
+HR_0HRSVJ,Sveti Juraj,Croatia
+DK_0DKCSO,Christiansø Havn,Denmark
+DK_0DKGDM,Gudhjem,Denmark
+DE_1DESDD,Steenodde,Germany
+NL_0NLZSP,Zeeland Seaports,Netherlands
+EL_0GRKRT,Korinthos,Greece
+EL_0GRKRE,Sifnos,Greece
+FR_3GFCAY,Cayenne,France
+IT_0IT88C,Italy - main ports (confidential data aggregated by Eurostat),Italy
+IT_0IT88D,Italy - all ports (confidential data aggregated by Eurostat),Italy
+DK_0DKHVS,Hvide Sande,Denmark
+DE_1DEIAM,Amrum,Germany
+DE_3DEBDF,Bendorf/Rhein,Germany
+DE_3DEBOT,Bottrop,Germany
+DE_1DE76Y,Esens,Germany
+DE_3DEFRA,Frankfurt am Main,Germany
+DE_3DEIBB,Ibbenbüren,Germany
+DE_3DELUH,Ludwigshafen,Germany
+DE_3DERHO,Reisholz,Germany
+DE_3DEVIW,Vierow,Germany
+DE_3DEWLM,Walsum,Germany
+DE_1DEWMD,Wittmund,Germany
+DE_3DEWOR,Worms,Germany
+DE_3DEGDO,Godorf,Germany
+DE_1DEHOO,Hooksiel,Germany
+DE_3DELIG,Lingen,Germany
+DE_3DELUE,Lünen,Germany
+DE_2DEPUB,Putbus,Germany
+DE_3DEREC,Recklinghausen,Germany
+DE_3DERSA,Riesa,Germany
+UK_1GBPTL,Portland,United Kingdom
+UK_1GBSWY,Scalloway (Shetland Islands),United Kingdom
+UK_1GBWLA,Wallasea,United Kingdom
+NO_0NOBGN,Bergneset,Norway
+NO_0NOHRI,Hareid,Norway
+NO_0NOIBE,Ibestad,Norway
+NO_0NOKAY,Karlsoy,Norway
+NO_0NOKVH,Kvinnherad,Norway
+NO_0NONZC,Larsnes,Norway
+NO_0NORVK,Rorvik,Norway
+NO_0NOSTH,Steinshamn,Norway
+EL_0GR912,Agios Georgios Saronikou,Greece
+EL_0GR913,Panormitis,Greece
+EL_0GRPTI,Plataria Thesprotias,Greece
+SE_1SE88B,Sweden (Baltic Sea) - other ports,Sweden
+UK_1GBULL,Ullapool,United Kingdom
+IS_0IS016,Litlisandur-Hvalfjordur,Iceland
+DE_3DEEMM,Emmerich,Germany
+DE_3DEMEP,Meppen,Germany
+DE_3DEMID,Minden,Germany
+DE_3DE75F,Sachsenhagen,Germany
+DE_3DEVNA,Venhaus,Germany
+HR_0HRMAS,Maslenica,Croatia
+DE_3DEIEN,Biene,Germany
+DE_3DEHNF,Hennigsdorf,Germany
+DE_3DEHIL,Hildesheim,Germany
+DE_3DEKEH,Kehl,Germany
+DE_3DELEV,Leverkusen,Germany
+DE_3DEMAG,Magdeburg,Germany
+DE_3DESTR,Stuttgart,Germany
+DE_3DEWNU,Weissenthurm,Germany
+DE_3DEWTM,Wertheim,Germany
+IT_0ITCGC,Corigliano Calabro,Italy
+NO_0NOFRK,Fredrikstad,Norway
+NO_0NOMQN,Mo i Rana,Norway
+NO_0NOTRF,Sandefjord,Norway
+NO_0NOSVE,Svelgen,Norway
+DK_0DKUDN,Udbyhoj Nord,Denmark
+DK_0DKUDS,Udbyhoj Syd,Denmark
+ES_2ESPPS,Playa Santiago,Spain
+ES_2ESVGR,Valle Gran Rey,Spain
+NO_0NOOYB,Bogoy,Norway
+NO_0NODYL,Dyroyhamn,Norway
+NO_0NOEIL,Eidslandet,Norway
+NO_0NOLON,Lonevag,Norway
+NO_0NOLND,Lyngdal,Norway
+NO_0NOOLL,Olderdalen,Norway
+NO_0NOSUZ,Stamsund,Norway
+NO_0NO88N,Norway - other ports - northern,Norway
+NO_0NO88S,Norway - other ports - southern,Norway
+DE_1DEGXR,Gröde,Germany
+DE_2DELAB,Laboe,Germany
+DE_3DELBE,Lübbecke,Germany
+DE_2DE88O,Germany (Baltic Sea) - other ports,Germany
+DE_1DE88N,Germany (North Sea) - other ports,Germany
+CY_0CYZYY,Zygi,Cyprus
+DK_0DKBAR,Barso,Denmark
+DK_0DKBSL,Barso Landing,Denmark
+DK_0DKSTP,Stevns Pier,Denmark
+NO_0NOBNN,Bronnoysund,Norway
+NO_0NOEGE,Egersund,Norway
+NO_0NOFIS,Fiska,Norway
+NO_0NOHAU,Haugesund,Norway
+NO_0NOHOR,Horten,Norway
+NO_0NOHUS,Husnes,Norway
+NO_0NOOKF,Oksfjord,Norway
+NO_0NOROG,Rognan,Norway
+NO_0NOSAX,Sand,Norway
+NO_0NOSOF,Sorfold,Norway
+NO_0NOSNS,Steinesjoen,Norway
+NO_0NOSVJ,Svolvaer,Norway
+DE_3DEBYN,Bülstringen,Norway
+DE_3DELBM,Lubmin,Norway
+NO_0NORSH,Risøyhamn,Norway
+DE_1DEKEI,Keitum,Germany
+EU27_2020,European Union - 27 countries (from 2020),Europe
+EU27_2007,European Union - 27 countries (2007-2013),Europe
+EEA30_2020,"European Economic Area (EU27 from 2020 and IS, LI, NO)",Europe
