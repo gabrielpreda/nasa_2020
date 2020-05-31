@@ -1,15 +1,27 @@
-<div>
-  <canvas baseChart
-          [datasets]="lineChartData"
-          [options]="lineChartOptions"
-          [chartType]="lineChartType"
-          [colors]="lineChartColors"
-          [labels]="lineChartLabels"
-  >
-  </canvas>
-</div>
+<div class="container" id="container">
+	<div class="row">
+		<h1 class="col-11">{{data.properties.name}}</h1>
+		<mat-icon class="clickable" (click)="close()">clear</mat-icon>
+	</div>
+	<div class="row">
+		<div class="col-8 col-xs-12">
 
-<div *ngFor="let industry of industriesService.industries; let i = index" class="card card-1" [ngStyle]="{'background-color': getColor(i)}" >
-  <h5>{{industry.name}}</h5>
+			<canvas baseChart
+					[datasets]="lineChartData"
+					[options]="lineChartOptions"
+					[chartType]="lineChartType"
+					[colors]="lineChartColors"
+					[labels]="lineChartLabels"
+			>
+			</canvas>
+		</div>
+
+		<div class="col-4 col-xs-12 industry-list">
+			<div *ngFor="let industry of industriesService.industries; let i = index" class="card card-1 clickable" [ngStyle]="{'background-color': getColor(i)}">
+				<h5>{{industry.name}}</h5>
+			</div>
+		</div>
+	</div>
+
 </div>
 

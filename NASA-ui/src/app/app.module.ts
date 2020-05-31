@@ -8,9 +8,11 @@ import { ContentComponent } from './content/content.component';
 import { IndustriesComponent } from './industries/industries.component';
 import { MapComponent } from './map/map.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatDialogModule } from '@angular/material/dialog';
 import { BrowserModule } from '@angular/platform-browser';
 import { ChartsModule } from 'ng2-charts';
+import { MatIconModule } from '@angular/material/icon';
+// @ts-ignore
+import { MatDialogModule } from '@angular/material/dialog';
 
 @NgModule({
   declarations: [
@@ -26,7 +28,8 @@ import { ChartsModule } from 'ng2-charts';
     AppRoutingModule,
     BrowserAnimationsModule,
     MatDialogModule,
-    ChartsModule
+    ChartsModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]

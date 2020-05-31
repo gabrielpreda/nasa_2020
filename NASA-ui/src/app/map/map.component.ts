@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as $ from 'jquery';
 import { IndustriesComponent } from '../industries/industries.component';
+// @ts-ignore
 import { MatDialog } from '@angular/material/dialog';
 
 declare var d3: any;
@@ -120,8 +121,8 @@ export class MapComponent implements OnInit {
 
 	click(d) {
 		const dialogRef = this.dialog.open(IndustriesComponent, {
-			width: '70%',
-			height: '70%',
+			width: '80%',
+			height: '80%',
 			data: d
 		});
 

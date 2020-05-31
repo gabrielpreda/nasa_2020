@@ -40,6 +40,7 @@ export class IndustriesComponent implements OnInit {
 	}
 
 	ngOnInit() {
+		console.log(this.data);
 	}
 
 	close(): void {
