@@ -1,1 +1,14 @@
-<app-map *ngIf="mapSeries!= null && mapSeries.length>0" [series]="mapSeries"></app-map>
+<div class="row container">
+	<div class="col-4" style="padding-top: 10rem; padding-left: 3rem">
+		<mat-checkbox value="covidCheck" (change)="checkCovid(covidCheck)" [(ngModel)]="covidCheck" disabled="{{covidSeries.length===0}}">Covid19 impact</mat-checkbox>
+		<mat-checkbox value="covidDCheck" (change)="checkDCovid(covidDCheck)" [(ngModel)]="covidDCheck" disabled="{{covidDailySeries.length===0}}">Covid19 Daily impact</mat-checkbox>
+		<mat-checkbox value="covidMCheck" (change)="checkMCovid(covidMCheck)" [(ngModel)]="covidMCheck" disabled="{{covidMonthlySeries.length===0}}">Covid19 Monthly impact</mat-checkbox>
+	</div>
+	<div class="col-6">
+		<app-map [series]="mapSeries"></app-map>
+		<mat-slider
+				(input)="onInputChange($event)"
+				*ngIf="sliderVisible"
+		></mat-slider>
+	</div>
+</div>
