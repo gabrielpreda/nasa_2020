@@ -1,9 +1,17 @@
 :host{
   nav{
-    background-color: #6CA6C1;
+    background-color: #2F3061;
+    min-height: 5rem;
+
     #logo{
       color: #FFE66D;
-      font-size: 2rem;
+      font-size: 5rem;
+    }
+    #logo:focus{
+      outline: none;
+    }
+    .mat-icon{
+      height: inherit;
     }
   }
 }
