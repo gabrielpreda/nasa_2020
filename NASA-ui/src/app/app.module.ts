@@ -14,6 +14,9 @@ import { MatIconModule } from '@angular/material/icon';
 // @ts-ignore
 import { MatDialogModule } from '@angular/material/dialog';
 import { HttpClientModule } from '@angular/common/http';
+import { MatSliderModule } from '@angular/material/slider';
+import { MatCheckboxModule } from '@angular/material/checkbox';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
 	declarations: [
@@ -31,7 +34,10 @@ import { HttpClientModule } from '@angular/common/http';
 		MatDialogModule,
 		ChartsModule,
 		MatIconModule,
-		HttpClientModule
+		HttpClientModule,
+		MatSliderModule,
+		MatCheckboxModule,
+		FormsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
