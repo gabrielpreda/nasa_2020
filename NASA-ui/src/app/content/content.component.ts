@@ -97,6 +97,8 @@ export class ContentComponent implements OnInit {
 
 				return 0;
 			});
+			this.mapSeries = this.covidSeries;
+			this.loadingService.reload();
 			console.log(this.mapSeries);
 		});
 	}

@@ -18,6 +18,9 @@ import { MatSliderModule } from '@angular/material/slider';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { FormsModule } from '@angular/forms';
 import { MatTabsModule } from '@angular/material/tabs';
+import { MatRadioModule } from '@angular/material/radio';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 
 @NgModule({
 	declarations: [
@@ -39,7 +42,9 @@ import { MatTabsModule } from '@angular/material/tabs';
 		MatSliderModule,
 		MatCheckboxModule,
 		FormsModule,
-		MatTabsModule
+		MatTabsModule,
+		MatRadioModule,
+		MatFormFieldModule,MatInputModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
