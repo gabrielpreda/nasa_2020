@@ -63,7 +63,7 @@ TR09,Turkey: unspecified maritime coastal area
 BE00BEANR,Antwerpen
 BE00BEBRU,Bruxelles (Brussel)
 BE00BEGNE,Gent (Ghent)
-BE00BELGG,LiËge
+BE00BELGG,Li√®ge
 BE00BENIE,Nieuwpoort
 BE00BEOST,Oostende (Ostend)
 BE00BEZEE,Zeebrugge
@@ -114,7 +114,7 @@ DK00DKFMO,Femo
 DK00DKFRC,Fredericia (Og Shell-Havnen)
 DK00DKFDH,Frederikshavn
 DK00DKFDS,Frederikssund Havn
-DK00DKSVV,FrederiskvÊrk Havn (FrederiksvÊrk StÂlvalsevÊrk)
+DK00DKSVV,Frederiskv√¶rk Havn (Frederiksv√¶rk St√•lvalsev√¶rk)
 DK00DKFUH,Fur
 DK00DKFYH,Fynshav
 DK00DKGED,Gedser
@@ -153,7 +153,7 @@ DK00DKLVG,Lemvig
 DK00DKLGR,Logstor
 DK00DKLOH,Lohals
 DK00DKLYO,Lyngs Odde Havn
-DK00DKMRB,MarbÊk Havn
+DK00DKMRB,Marb√¶k Havn
 DK00DKMRS,Marstal
 DK00DKMAS,Masnedovaerkets Havn
 DK00DKMNS,Masnedsund
@@ -165,7 +165,7 @@ DK00DKNAK,Nakskov
 DK00DKNEX,Nekso
 DK00DKNDB,"Nordby Havn, Fano"
 DK00DKVSV,Nordjyllandsvaerkets Havn
-DK00DKNRS,N¯rresundby
+DK00DKNRS,N√∏rresundby
 DK00DKNBG,Nyborg
 DK00DKNYF,Nykobing Falster
 DK00DKNYM,Nykobing Mors
@@ -180,7 +180,7 @@ DK00DKRNN,Ronne
 DK00DKRRV,Rorvig
 DK00DKRKB,Rudkobing
 DK00DKSLV,Saelvig Havn
-DK00DKSAX,Saksk¯bing
+DK00DKSAX,Saksk√∏bing
 DK00DKSEO,Sejero
 DK00DKSJO,Sjaellands Odde
 DK00DKSSK,Skaelskor
@@ -242,7 +242,7 @@ DE01DEEME,Emden
 DE03DEESU,Emmelsum
 DE02DEFLF,Flensburg
 DE02DE117,Flensburger Foerde (Uebrige Haefen)
-DE01DE017,Fˆhr I.
+DE01DE017,F√∂hr I.
 DE01DEFRI,Friedrichstadt
 DE03DEGEK,Gelsenkirchen
 DE01DE118,Gieselau canal and Eider (Other ports)
@@ -290,10 +290,10 @@ DE02DEPUT,Puttgarden
 DE02DEREN,Rendsburg
 DE03DERHB,Rheinberg-Ossenberg
 DE02DERSK,Rostock
-DE02DE055,R¸gen (Eastern Stralsund line)
+DE02DE055,R√ºgen (Eastern Stralsund line)
 DE03DESAR,Salzgitter
 DE02DESAS,Sassnitz
-DE01DEHMO,"Schwarzenh¸tten, Hemmoor"
+DE01DEHMO,"Schwarzenh√ºtten, Hemmoor"
 DE03DESDT,Schwedt
 DE03DESNE,Sehnde
 DE01DESPI,Spieckeroog I.
@@ -302,7 +302,7 @@ DE03DEPYK,Spyck
 DE01DESTA,Stade
 DE01DESTS,Stadersand
 DE02DESTL,Stralsund
-DE02DEUCK,‹ckerm¸nde
+DE02DEUCK,√úckerm√ºnde
 DE03DEUEL,Uelzen
 DE01DEAGE,Wangerooge I.
 DE01DEWED,Wedel-Schulau
@@ -320,11 +320,11 @@ EE00EEHLT,Heltermaa
 EE00EEKUI,Kuivastu
 EE00EEKND,Kunda
 EE00EEMDR,Miiduranna
-EE00EEPLN,Paldiski Pıhjasadam
-EE00EEPRN,P‰rnu
+EE00EEPLN,Paldiski P√µhjasadam
+EE00EEPRN,P√§rnu
 EE00EEPAR,Patareisadam
-EE00EERHK,Rohuk¸la
-EE00EESLM,Sillam‰e
+EE00EERHK,Rohuk√ºla
+EE00EESLM,Sillam√§e
 EE00EETLL,Tallinn
 EE00EEVEB,Vene-Balti
 EE00EEVIR,Virtsu
@@ -489,7 +489,7 @@ EL00GRLFK,Lefkimi (049)
 EL00GRLND,Leonidion (050)
 EL00GRLRS,Leros Island
 EL00GRLEV,Levkas
-EL00GRLIN,Linoperamata†Herakliou
+EL00GRLIN,Linoperamata¬†Herakliou
 EL00GRLIP,Lipsi Dodekanissou
 EL00GRLIX,Lixouri
 EL00GRLTR,Loutro Chania
@@ -522,7 +522,7 @@ EL00GRNIS,Nissyros
 EL00GR909,North Evoikos
 EL00GRORE,Orei (067)
 EL00GRORO,Oropos
-EL00GROTH,OthonoÌ
+EL00GROTH,Othono√≠
 EL00GROUR,Ouranoupoli Chalkidikis
 EL00GRPAA,Palaia Psara Chiou
 EL00GRPEP,Palea Epidavros (069)
@@ -612,30 +612,30 @@ ES02ESBCN,Barcelona
 ES01ESBIO,Bilbao
 ES02ESCAD,Cadiz
 ES02ESCAR,Cartagena
-ES02ESCAS,CastellÛn
+ES02ESCAS,Castell√≥n
 ES03ESCEU,Ceuta
 ES01ESFRO,Ferrol
 ES02ESGAR,Garrucha
 ES01ESGIJ,Gijon
 ES02ESHUV,Huelva
-ES01ESLCG,La CoruÒa
+ES01ESLCG,La Coru√±a
 ES02ESLPA,Las Palmas de Gran Canaria
-ES02ESAGP,M·laga
-ES01ESMPG,MarÌn-Pontevedra
+ES02ESAGP,M√°laga
+ES01ESMPG,Mar√≠n-Pontevedra
 ES04ESMLN,Melilla
 ES02ESMOL,Molina de Segura
 ES02ESMOT,Motril
-ES02ESPAL,PalamÛs
+ES02ESPAL,Palam√≥s
 ES02ESPMI,Palma de Mallorca
 ES01ESPAS,Pasajes
-ES02ESSCR,San Carlos de la R·pita
+ES02ESSCR,San Carlos de la R√°pita
 ES02ESSCT,Santa Cruz De Tenerife
 ES01ESSDR,Santander
 ES02ESSVQ,Sevilla
 ES02ESTAR,Tarragona
 ES02ESVLC,Valencia
 ES01ESVGO,Vigo
-ES01ESVIL,VillagarcÌa
+ES01ESVIL,Villagarc√≠a
 ES09ES888,Spain: other ports (unspecified maritime coastal area)
 FR02FRAJA,Ajaccio
 FR02FRBIA,Bastia
@@ -672,7 +672,7 @@ FR03GFLVT,Larivot (French Guiana)
 FR01FRLFR,Le Fret (Crozon)
 FR01FRLGU,Le Guildo (Crehen)
 FR01FRLEH,Le Havre
-FR01FRLLG,Le LÈguÈ
+FR01FRLLG,Le L√©gu√©
 FR01FRSBK,Le Legue (St Brieuc)
 FR01FRLTR,Le Treport
 FR01FRLSO,Les Sables D'Olonne
@@ -983,30 +983,30 @@ PL00PLSZZ,Szczecin
 PL00PLTBZ,Trzebiez
 PL00PLUST,Ustka
 PL00PLWLA,Wladyslawowo
-PT00PTADH,"Angra do HeroÌsmo (Ilha da Terceira, AÁores)"
+PT00PTADH,"Angra do Hero√≠smo (Ilha da Terceira, A√ßores)"
 PT00PTAVE,Aveiro
-PT00PTCDP,"Cais do Pico (Ilha do Pico, AÁores)"
-PT00PTCNL,CaniÁal
+PT00PTCDP,"Cais do Pico (Ilha do Pico, A√ßores)"
+PT00PTCNL,Cani√ßal
 PT00PTOPO,Douro (Oporto)
 PT00PTFAO,Faro
 PT00PTFDF,Figueira da Foz
 PT00PTFNC,Funchal (Madeira)
-PT00PTHOR,"Horta (Ilha das Faial, AÁores)"
-PT00PTLAJ,"Lajes das Flores (Ilha das Flores, AÁores)"
-PT00PTLEI,Leixıes
+PT00PTHOR,"Horta (Ilha das Faial, A√ßores)"
+PT00PTLAJ,"Lajes das Flores (Ilha das Flores, A√ßores)"
+PT00PTLEI,Leix√µes
 PT00PTLIS,Lisboa
-PT00PTMAD,"Madalena (Ilha do Pico, AÁores)"
-PT00PTPDL,"Ponta Delgada (Ilha de S. Miguel, AÁores)"
-PT00PTPRM,Portim„o
+PT00PTMAD,"Madalena (Ilha do Pico, A√ßores)"
+PT00PTPDL,"Ponta Delgada (Ilha de S. Miguel, A√ßores)"
+PT00PTPRM,Portim√£o
 PT00PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)"
-PT00PTPRG,"Praia da Graciosa (Ilha da Graciosa, AÁores)"
-PT00PTPRV,"Praia da VitÛria (Ilha Terceira, AÁores)"
-PT00PTSET,Set˙bal
+PT00PTPRG,"Praia da Graciosa (Ilha da Graciosa, A√ßores)"
+PT00PTPRV,"Praia da Vit√≥ria (Ilha Terceira, A√ßores)"
+PT00PTSET,Set√∫bal
 PT00PTSIE,Sines
-PT00PTVEL,"Velas (Ilha de S„o Jorge, AÁores)"
+PT00PTVEL,"Velas (Ilha de S√£o Jorge, A√ßores)"
 PT00PTVDC,Viana do Castelo
-PT00PTVDP,"Vila do Porto (Ilha de Sta Maria, AÁores)"
-PT00PTVNC,"Vila Nova do Corvo (Ilha do Corvo, AÁores)"
+PT00PTVDP,"Vila do Porto (Ilha de Sta Maria, A√ßores)"
+PT00PTVNC,"Vila Nova do Corvo (Ilha do Corvo, A√ßores)"
 RO00ROBAB,Basarabi
 RO00ROBRA,Braila
 RO00ROCEV,Cernavoda
@@ -1069,7 +1069,7 @@ FI00FIPOR,Pori
 FI00FIRAA,Raahe
 FI00FIRAU,Rauma
 FI00FIRTR,Rautaruukki
-FI00FIRUO,Ruotsinpyht‰‰
+FI00FIRUO,Ruotsinpyht√§√§
 FI00FIRYM,Rymattyla
 FI00FISAL,Salo
 FI00FISIP,Sipoonlahti
@@ -1089,7 +1089,7 @@ FI00FI001,Finland Inland Ports
 FI00FI888,Finland: other ports
 SE01SEAHU,Ahus
 SE01SEALA,Ala
-SE02SEALN,ƒlven‰s
+SE02SEALN,√Ñlven√§s
 SE02SEAMA,Amal
 SE01SEBLV,Ballstaviken
 SE01SEBAA,Balsta
@@ -1105,12 +1105,12 @@ SE01SEDOM,Domsjo
 SE01SEENK,Enkoping
 SE01SEFAK,Fagerviken
 SE02SEFAG,Falkenberg
-SE02SEFJA,Fj‰llbacka
+SE02SEFJA,Fj√§llbacka
 SE01SEFLI,Flivik
 SE01SEFOR,Forsmark
 SE01SEGAM,Gamleby
 SE01SEGVX,Gavle
-SE02SEGOA,Gˆta
+SE02SEGOA,G√∂ta
 SE02SEGOT,Goteborg
 SE01SEGKV,Grankullavik
 SE02SEGRE,Grebbestad
@@ -1150,7 +1150,7 @@ SE01SELAA,Landskrona
 SE02SELDK,Lidkoping
 SE02SELED,Lilla Edet
 SE01SELOM,Lomma
-SE01SELOT,Lˆten
+SE01SELOT,L√∂ten
 SE01SELLA,Lulea
 SE01SELUG,Lungvik
 SE02SELYS,Lysekil
@@ -1163,12 +1163,12 @@ SE01SENRK,Norrkoping
 SE01SENOT,Norrsundet
 SE01SENOE,Norrtalje
 SE01SENYO,Nykoping
-SE01SENYN,Nyn‰shamn (ports)
+SE01SENYN,Nyn√§shamn (ports)
 SE01SEOER,Ornskoldsvik
 SE01SEOSK,Oskarshamn
 SE01SEOST,Ostrand
 SE02SEOTT,Otterbacken
-SE01SEOXE,Oxelˆsund (ports)
+SE01SEOXE,Oxel√∂sund (ports)
 SE01SEPIT,Pitea
 SE01SERNH,Romehamn
 SE01SERNB,Ronneby
@@ -1200,7 +1200,7 @@ SE02SETHN,Trollhattan (Ports)
 SE01SETUN,Tunadal
 SE02SEUDD,Uddevalla
 SE01SEUME,Umea
-SE01SEUND,UnderÂs
+SE01SEUND,Under√•s
 SE01SEUPP,Uppsala
 SE01SEUTA,Utansjo
 SE01SEVAJ,Vaja
@@ -1211,7 +1211,7 @@ SE02SEVAG,Varberg
 SE02SEVGN,Vargon
 SE01SEVST,Vasteras
 SE01SEVVK,Vastervik
-SE01SEVER,Verkeb‰ck
+SE01SEVER,Verkeb√§ck
 SE01SEVBY,Visby
 SE01SEVIV,Vivstavarv
 SE02SEWAL,Wallhamn
@@ -1372,26 +1372,26 @@ UK02IM888,Other - United Kingdom - Isle of Man
 UK03GG888,Other - United Kingdom - Guernsey
 UK03JE888,Other - United Kingdom - Jersey
 HR00HRBAK,Bakar
-HR00HRBAS,Baöka
+HR00HRBAS,Ba¬öka
 HR00HRBNM,Biograd na Moru
 HR00HRBOL,Bol
-HR00HRBZA,Boûava
+HR00HRBZA,Bo¬ûava
 HR00HRCVT,Cavtat
 HR00HRCRS,Cres
 HR00HRCRA,Crikvenica
-HR00HRDBV,Dubrovnik - Gruû passenger port
+HR00HRDBV,Dubrovnik - Gru¬û passenger port
 HR00HRHVA,Hvar - passenger port
 HR00HRIST,Ist
 HR00HRJAB,Jablanac
 HR00HRJSA,Jelsa
 HR00HRKAB,Karlobag
-HR00HRKMZ,Komiûa
+HR00HRKMZ,Komi¬ûa
 HR00HRKOR,Korcula
 HR00HRKRA,Kraljevica
 HR00HRKRK,Krk
 HR00HRLST,Lastovo
 HR00HRMAK,Makarska
-HR00HRLSZ,Mali Loöinj - passenger port
+HR00HRLSZ,Mali Lo¬öinj - passenger port
 HR00HRMAL,Malinska
 HR00HRMET,Metkovic - cargo port
 HR00HRMIL,Milna
@@ -1400,29 +1400,29 @@ HR00HRMUR,Murter
 HR00HRNVL,Novalja
 HR00HRNVD,Novi Vinodolski
 HR00HRNVG,Novigrad - passenger port
-HR00HROMS,Omiö
-HR00HROMI,Omiöalj
+HR00HROMS,Omi¬ö
+HR00HROMI,Omi¬öalj
 HR00HROPA,Opatija
 HR00HRPAG,Pag - passenger port
 HR00HRPLE,Ploce
 HR00HRPMN,Pomena
 HR00HRPOR,Porec - passenger port
 HR00HRPRE,Preko - passenger port
-HR00HRPRI,Primoöten
+HR00HRPRI,Primo¬öten
 HR00HRPUY,Pula
 HR00HRPNT,Punat
 HR00HRRAB,Rab
 HR00HRRBC,Rabac
-HR00HRRAS,Raöa - Bröica
+HR00HRRAS,Ra¬öa - Br¬öica
 HR00HRRJK,Rijeka
 HR00HRRGC,Rogac
 HR00HRRGN,Rogoznica
 HR00HRROV,Rovinj - passenger port
 HR00HRSAL,Sali
 HR00HRSEN,Senj
-HR00HRSIB,äibenik
+HR00HRSIB,¬äibenik
 HR00HRSIL,Silba
-HR00HRSLO,äilo
+HR00HRSLO,¬äilo
 HR00HRSLA,Slano
 HR00HRSBR,Sobra
 HR00HRSPU,Split
@@ -1445,58 +1445,58 @@ HR00HRVDC,Vodice
 HR00HRZAD,Zadar - passenger port
 IS00ISAKR,Akranes
 IS00ISAKU,Akureyri
-IS00ISASS,¡rskÛgssandur
-IS00ISBAK,Bakkafjˆrur
-IS00ISBIL,BÌldudalur
+IS00ISASS,√Årsk√≥gssandur
+IS00ISBAK,Bakkafj√∂r√∞ur
+IS00ISBIL,B√≠ldudalur
 IS00ISBLO,Blonduos
 IS00ISBOL,Bolungavirk
-IS00ISBGJ,Borgafjˆrur eystri
-IS00ISBRJ,Brj·nslÊkur
-IS00ISBRE,BreidalsvÌk
+IS00ISBGJ,Borgafj√∂r√∞ur eystri
+IS00ISBRJ,Brj√°nsl√¶kur
+IS00ISBRE,Brei√∞dalsv√≠k
 IS00ISDAL,Dalvik
 IS00ISDJU,Djupivogur
 IS00ISESK,Eskifjordur Hofn
 IS00ISFAS,Faskrudsfjordur
 IS00ISFLA,Flateyri
-IS00ISGRD,Garur
-IS00ISGRY,GrÌmsey
+IS00ISGRD,Gar√∞ur
+IS00ISGRY,Gr√≠msey
 IS00ISGRI,Grindavik
 IS00ISGRF,Grundarfjordur
 IS00ISGRT,Grundartangi
 IS00ISHAF,Hafnarfjordur
 IS00ISHNR,Hafnir
 IS00ISHFN,"Hofn, Hornafjordur"
-IS00ISHOF,HofsÛs
+IS00ISHOF,Hofs√≥s
 IS00ISHVK,Holmavik
-IS00ISHRI,HrÌsey
+IS00ISHRI,Hr√≠sey
 IS00ISHUS,Husavik
-IS00ISHVR,Hvalfj¯rdur-Litlisandur
+IS00ISHVR,Hvalfj√∏rdur-Litlisandur
 IS00ISHVM,Hvammstangi
 IS00ISISA,Isafjordur Hofn
 IS00ISKEF,Keflavik
-IS00ISKOP,KÛpasker
-IS00ISKOV,KÛpavogur
+IS00ISKOP,K√≥pasker
+IS00ISKOV,K√≥pavogur
 IS00ISNES,Neskaupstadur
-IS00ISNOU,Norurfjˆrur
+IS00ISNOU,Nor√∞urfj√∂r√∞ur
 IS00ISOLF,Olafsfjordur
 IS00ISOLV,Olafsvik
 IS00ISPAT,Patreksfjordur Hofn
 IS00ISRAU,Raufarhofn
 IS00ISRFJ,Reydarfjordur
-IS00ISRHA,ReykhÛlar
+IS00ISRHA,Reykh√≥lar
 IS00ISREY,Reykjavik
 IS00ISRIF,Rif
-IS00ISSAN,Sandgeri
+IS00ISSAN,Sandger√∞i
 IS00ISSAU,Saudarkrokur
 IS00ISSEY,Seydisfjordur
 IS00ISSIG,Siglufjordur
-IS00ISSKA,Skagastrˆnd
+IS00ISSKA,Skagastr√∂nd
 IS00ISSTD,Stodhvarfjordur
 IS00ISSTR,Straumsvik
 IS00ISSTY,Stykkisholmur Hofn
-IS00ISSUV,S˙avÌk
+IS00ISSUV,S√∫√∞av√≠k
 IS00ISSUD,Sudureyri / Sugandafjord
-IS00ISTAL,T·lknafjˆrur
+IS00ISTAL,T√°lknafj√∂r√∞ur
 IS00ISTEY,Thingeyri
 IS00ISTHH,Thorlakshofn
 IS00ISTHO,Thorshofn
@@ -1506,14 +1506,14 @@ IS00ISVPN,Vopnafjordur
 IS00IS888,Iceland: other ports
 NO00NOAES,Aalesund/Langevaag/Spjelkavik
 NO00NOALF,Alta
-NO00NOADY,And¯y
+NO00NOADY,And√∏y
 NO00NOAAN,Ardal
 NO00NOARE,Arendal
 NO00NOASL,Askvoll
 NO00NOAUL,Aurland
 NO00NOBJF,Batsfjord
 NO00NOBGO,Bergen
-NO00NOBVG,BerlevÂg
+NO00NOBVG,Berlev√•g
 NO00NOBOO,Bodo
 NO00NOBRG,Borg
 NO00NOBRR,Borre
@@ -1534,8 +1534,8 @@ NO00NOHAL,Halden
 NO00NOHFT,Hammerfest
 NO00NOHRD,Harstad
 NO00NOHOL,Holmestrand
-NO00NOHVG,HonningsvÂg/Nordkapp
-NO00NOKAS,Karmsund/Haugesund/Karm¯y
+NO00NOHVG,Honningsv√•g/Nordkapp
+NO00NOKAS,Karmsund/Haugesund/Karm√∏y
 NO00NOKKN,Kirkenes
 NO00NOKRA,Kragero
 NO00NOKRS,Kristiansand
@@ -1544,13 +1544,13 @@ NO00NOKVD,Kvinesdal/Oeyestrand
 NO00NOLAR,Larvik
 NO00NOLEB,Lebesby
 NO00NOLIL,Lillesand
-NO00NOLOD,L¯dingen
+NO00NOLOD,L√∏dingen
 NO00SJLYR,Longyearbyen
-NO00NOLOP,Loppa/ÿksfjord
+NO00NOLOP,Loppa/√òksfjord
 NO00NOLUS,Luster
 NO00NOMAY,Maloy
 NO00NOMAN,Mandal
-NO00NOMSY,MÂs¯y/Hav¯ysund
+NO00NOMSY,M√•s√∏y/Hav√∏ysund
 NO00NOMOD,Modalen
 NO00NOMOL,Molde
 NO00NOMJF,Mosjoen
@@ -1558,17 +1558,17 @@ NO00NOMSS,Moss
 NO00NOOSY,Namsos
 NO00NONVK,Narvik
 NO00NOODD,Odda
-NO00NOMYO,ÿksnes/Myre
-NO00NOOLN,ÿlen
+NO00NOMYO,√òksnes/Myre
+NO00NOOLN,√òlen
 NO00NOORK,Orkanger
 NO00NOOSL,Oslo
-NO00NOOST,Oster¯y
+NO00NOOST,Oster√∏y
 NO00NORNA,Rana
 NO00NOSAD,Sandefjord
 NO00NOSAS,Sandnes
 NO00NOSSJ,Sandnessjoen
 NO00NOSAU,Sauda
-NO00NOSAL,Sj¯vegan/Salangen
+NO00NOSAL,Sj√∏vegan/Salangen
 NO00NOSKY,Skjervoey
 NO00NOSOK,"Sokndal/Joessingfjord, Rekefjord"
 NO00NOSLX,Sortland
@@ -1587,12 +1587,12 @@ NO00NOTOS,Tromso
 NO00NOTRD,Trondheim
 NO00NOVGN,Vaagan/Svolvaer
 NO00NOVDS,Vadso
-NO00NOVEY,VÊr¯y
+NO00NOVEY,V√¶r√∏y
 NO00NOVAY,Vanylven/Aaheim
 NO00NOVAO,Vardo
 NO00NOVER,Verdal
-NO00NOVVY,VestvÂg¯y
-NO00NOVKN,Vikna/R¯rvik
+NO00NOVVY,Vestv√•g√∏y
+NO00NOVKN,Vikna/R√∏rvik
 NO00NO888,Norway: other ports
 TR01TRAMA,Amasra
 TR02TRALA,Alanya
@@ -1669,43 +1669,43 @@ ES02ESQFU,Corralejo
 ES02ESMJB,Morro Jable
 ES02ESQLY,Playa Blanca
 ES02ESVCC,Vallcarca
-ES02ESVLG,Vilanova i la Geltr˙
+ES02ESVLG,Vilanova i la Geltr√∫
 FR01FR888,Other - France Atlantic/North Sea
 IT00IT88Q,IT - Aggregates extraction areas
 SE01SEELL,Elleholm
-NO00NOAAF,≈fjord
+NO00NOAAF,√Öfjord
 NO00NOASV,Austevoll
-NO00NOBAR,BÊrum/Sandvika/Lysaker
+NO00NOBAR,B√¶rum/Sandvika/Lysaker
 NO00NOBLL,Ballangen
 NO00NOBEJ,Beiarn
-NO00NOBJU,Bjugn/Lys¯ysund/BotngÂrd
-NO00NOBOX,B¯
+NO00NOBJU,Bjugn/Lys√∏ysund/Botng√•rd
+NO00NOBOX,B√∏
 NO00NOETN,Etne
 NO00NOFAU,Fauske
 NO00NOFSN,Fosnes
-NO00NOKAF,Gaivuotna - KÂfjord
+NO00NOKAF,Gaivuotna - K√•fjord
 NO00NOGRV,Granvin
-NO00NOHAA,HÂ
-NO00NOHYR,H¯yanger
+NO00NOHAA,H√•
+NO00NOHYR,H√∏yanger
 NO00NOJON,Jondal
-NO00NONTY,Kj¯pmannskjÊr/N¯tter¯y
-NO00NOKVN,KvÊnangen
+NO00NONTY,Kj√∏pmannskj√¶r/N√∏tter√∏y
+NO00NOKVN,Kv√¶nangen
 NO00NOKVM,Kvam
 NO00NOLEF,Leirfjord
 NO00NOLKA,Leka
 NO00NOLYN,Lyngen
-NO00NOMEY,Mel¯y/Glomfjord/ÿrnes
+NO00NOMEY,Mel√∏y/Glomfjord/√òrnes
 NO00NOMSK,Moskenes
 NO00NONSN,Nesna
 NO00NOEID,Nordfjordeid/Eid
-NO00NOOLA,ÿrland/Brekstad
+NO00NOOLA,√òrland/Brekstad
 NO00NOOSN,Osen
-NO00NORIS,Ris¯r
+NO00NORIS,Ris√∏r
 NO00NOSDL,Saltdal/Rognan
 NO00NOSOG,Sogndal
-NO00NOSNE,S¯gne
-NO00NOSMN,S¯mna
-NO00NOSRA,S¯rreisa
+NO00NOSNE,S√∏gne
+NO00NOSMN,S√∏mna
+NO00NOSRA,S√∏rreisa
 NO00NOSTG,Steigen
 NO00NOSTK,Stokke/Melsomvik
 NO00NOSTF,Storfjord
@@ -1726,7 +1726,7 @@ FR_1,France: Atlantic / North Sea
 FR_2,France: Mediterranean
 FR_3,France: Guyane
 FR_4,France: Guadeloupe and Martinique
-FR_5,France: RÈunion
+FR_5,France: R√©union
 FR_9,France: unspecified maritime coastal area
 SE_1,Sweden: Baltic Sea
 SE_2,Sweden: North Sea
@@ -1741,7 +1741,7 @@ TR_9,Turkey: unspecified maritime coastal area
 BE_0BEANR,Antwerpen
 BE_0BEBRU,Bruxelles (Brussel)
 BE_0BEGNE,Gent (Ghent)
-BE_0BELGG,LiËge
+BE_0BELGG,Li√®ge
 BE_0BENIE,Nieuwpoort
 BE_0BEOST,Oostende (Ostend)
 BE_0BEZEE,Zeebrugge
@@ -1754,63 +1754,63 @@ BG_0BG888,Bulgaria - other ports
 DK_0DKAAB,Aabenraa
 DK_0DKAAL,Aalborg
 DK_0DKROR,Aalborg Portland (Cementfabrikken Rordal)
-DK_0DKAAR,≈rhus
-DK_0DKARO,≈r¯
-DK_0DKARD,≈r¯sund
-DK_0DKARK,∆r¯sk¯bing
-DK_0DKAGO,Agers¯
+DK_0DKAAR,√Örhus
+DK_0DKARO,√Ör√∏
+DK_0DKARD,√Ör√∏sund
+DK_0DKARK,√Ür√∏sk√∏bing
+DK_0DKAGO,Agers√∏
 DK_0DKAGH,Agger Havn
 DK_0DKASH,Aggersund Havn
 DK_0DKANH,Anholt
-DK_0DKASK,Ask¯
-DK_0DKASV,AsnÊsvÊrkets Havn
+DK_0DKASK,Ask√∏
+DK_0DKASV,Asn√¶sv√¶rkets Havn
 DK_0DKASN,Assens
 DK_0DKAUB,Augustenborg
-DK_0DKAVE,Aved¯revÊrkets Havn
-DK_0DKAVK,Avernak¯/Ly¯
-DK_0DKBGO,BÂg¯
+DK_0DKAVE,Aved√∏rev√¶rkets Havn
+DK_0DKAVK,Avernak√∏/Ly√∏
+DK_0DKBGO,B√•g√∏
 DK_0DKBAG,Bagenkop
 DK_0DKBLB,Ballebro
 DK_0DKBDX,Bandholm (Maribo)
-DK_0DKBOG,Bog¯
-DK_0DKBOS,B¯jden
+DK_0DKBOG,Bog√∏
+DK_0DKBOS,B√∏jden
 DK_0DKBRH,Branden Havn
 DK_0DKDAN,Cementfabrikken Danias Havn
 DK_0DKKON,Cementfabrikken Kongsdal Havn
 DK_0DKDAS,Dansk Salts Havn
-DK_0DKDRA,Drag¯r
+DK_0DKDRA,Drag√∏r
 DK_0DKEBT,Ebeltoft
 DK_0DKEGN,Egense
 DK_0DKEDL,Endelave
-DK_0DKENS,EnstedvÊrkets Havn
+DK_0DKENS,Enstedv√¶rkets Havn
 DK_0DKEBJ,Esbjerg
-DK_0DKFAA,FÂborg Havn
+DK_0DKFAA,F√•borg Havn
 DK_0DKFAK,Fakse Ladeplads Havn
 DK_0DKFGS,Feggesund
-DK_0DKFEJ,Fej¯
-DK_0DKFMO,Fem¯
+DK_0DKFEJ,Fej√∏
+DK_0DKFMO,Fem√∏
 DK_0DKFRC,Fredericia (Og Shell-Havnen)
 DK_0DKFDH,Frederikshavn
 DK_0DKFDS,Frederikssund Havn
-DK_0DKSVV,FrederiskvÊrk Havn (FrederiksvÊrk StÂlvalsevÊrk)
+DK_0DKSVV,Frederiskv√¶rk Havn (Frederiksv√¶rk St√•lvalsev√¶rk)
 DK_0DKFUH,Fur
 DK_0DKFYH,Fynshav
 DK_0DKGED,Gedser
-DK_0DKGRA,GrÂsten
-DK_0DKGRE,GrenÂ
+DK_0DKGRA,Gr√•sten
+DK_0DKGRE,Gren√•
 DK_0DKGFH,Gulfhavnen
 DK_0DKHAD,Haderslev
 DK_0DKHSU,Hadsund
 DK_0DKHAS,Hals
 DK_0DKHAN,Hanstholm
-DK_0DKHDH,Hardesh¯j
+DK_0DKHDH,Hardesh√∏j
 DK_0DKHSL,Hasle
 DK_0DKHNB,Havneby
-DK_0DKHVN,Havns¯
-DK_0DKHLS,Helsing¯r (Elsinore)
+DK_0DKHVN,Havns√∏
+DK_0DKHLS,Helsing√∏r (Elsinore)
 DK_0DKHIR,Hirtshals
 DK_0DKHBO,Hobro
-DK_0DKHBK,HolbÊk
+DK_0DKHBK,Holb√¶k
 DK_0DKHOR,Horsens
 DK_0DKHOH,Hou Havn
 DK_0DKHUN,Hundested
@@ -1820,73 +1820,73 @@ DK_0DKKAL,Kalundborg
 DK_0DKKTP,Kastrup
 DK_0DKKTD,Kerteminde
 DK_0DKKLP,Kleppen
-DK_0DKCPH,K¯benhavns Havn
-DK_0DKKOG,K¯ge
-DK_0DKKOK,Kolby KÂs Havn
+DK_0DKCPH,K√∏benhavns Havn
+DK_0DKKOG,K√∏ge
+DK_0DKKOK,Kolby K√•s Havn
 DK_0DKKOL,Kolding
-DK_0DKKRR,Kors¯r
-DK_0DKKRA,KragenÊs
-DK_0DKKBY,KyndbyvÊrkets Havn
+DK_0DKKRR,Kors√∏r
+DK_0DKKRA,Kragen√¶s
+DK_0DKKBY,Kyndbyv√¶rkets Havn
 DK_0DKLVG,Lemvig
-DK_0DKLGR,L¯gst¯r
+DK_0DKLGR,L√∏gst√∏r
 DK_0DKLOH,Lohals
 DK_0DKLYO,Lyngs Odde Havn
-DK_0DKMRB,MarbÊk Havn
+DK_0DKMRB,Marb√¶k Havn
 DK_0DKMRS,Marstal
-DK_0DKMAS,Masned¯vÊrkets Havn
+DK_0DKMAS,Masned√∏v√¶rkets Havn
 DK_0DKMNS,Masnedsund
 DK_0DKMID,Middelfart
 DK_0DKMOM,Mommark
-DK_0DKNUD,NÊssund
-DK_0DKNVD,NÊstved
+DK_0DKNUD,N√¶ssund
+DK_0DKNVD,N√¶stved
 DK_0DKNAK,Nakskov
-DK_0DKNEX,Neks¯
-DK_0DKNDB,"Nordby Havn, Fan¯"
-DK_0DKVSV,NordjyllandsvÊrkets Havn
-DK_0DKNRS,N¯rresundby
+DK_0DKNEX,Neks√∏
+DK_0DKNDB,"Nordby Havn, Fan√∏"
+DK_0DKVSV,Nordjyllandsv√¶rkets Havn
+DK_0DKNRS,N√∏rresundby
 DK_0DKNBG,Nyborg
-DK_0DKNYF,Nyk¯bing Falster
-DK_0DKNYM,Nyk¯bing Mors
+DK_0DKNYF,Nyk√∏bing Falster
+DK_0DKNYM,Nyk√∏bing Mors
 DK_0DKODE,Odense
-DK_0DKOMO,Om¯
+DK_0DKOMO,Om√∏
 DK_0DKORE,"Orehoved, Falster"
-DK_0DKORO,Or¯
+DK_0DKORO,Or√∏
 DK_0DKRAN,Randers
-DK_0DKROD,R¯dby
-DK_0DKROF,R¯dby (FÊrgehavn)
-DK_0DKRNN,R¯nne
-DK_0DKRRV,R¯rvig
-DK_0DKRKB,Rudk¯bing
-DK_0DKSLV,SÊlvig Havn
-DK_0DKSAX,Saksk¯bing
-DK_0DKSEO,Sejer¯
-DK_0DKSJO,SjÊllands Odde
-DK_0DKSSK,SkÊlsk¯r
-DK_0DKSKB,SkÊrbÊkvÊrkets Havn
+DK_0DKROD,R√∏dby
+DK_0DKROF,R√∏dby (F√¶rgehavn)
+DK_0DKRNN,R√∏nne
+DK_0DKRRV,R√∏rvig
+DK_0DKRKB,Rudk√∏bing
+DK_0DKSLV,S√¶lvig Havn
+DK_0DKSAX,Saksk√∏bing
+DK_0DKSEO,Sejer√∏
+DK_0DKSJO,Sj√¶llands Odde
+DK_0DKSSK,Sk√¶lsk√∏r
+DK_0DKSKB,Sk√¶rb√¶kv√¶rkets Havn
 DK_0DKSKA,Skagen
-DK_0DKSDO,Skar¯/Drej¯
+DK_0DKSDO,Skar√∏/Drej√∏
 DK_0DKSKV,Skive
-DK_0DKSOB,S¯by Havn
-DK_0DKSGD,S¯nderborg
+DK_0DKSOB,S√∏by Havn
+DK_0DKSGD,S√∏nderborg
 DK_0DKSPB,Spodsbjerg Havn
 DK_0DKSTT,Statoil-Havnen
-DK_0DKSTN,StigsnÊs
-DK_0DKSTG,StigsnÊsvÊrkets Havn
+DK_0DKSTN,Stigsn√¶s
+DK_0DKSTG,Stigsn√¶sv√¶rkets Havn
 DK_0DKSTR,Struer Havn
-DK_0DKSNO,Stryn¯
-DK_0DKSBK,Stubbek¯bing Havn
-DK_0DKSSV,StudstrupvÊrkets Havn
-DK_0DKSUE,Sunds¯re
+DK_0DKSNO,Stryn√∏
+DK_0DKSBK,Stubbek√∏bing Havn
+DK_0DKSSV,Studstrupv√¶rkets Havn
+DK_0DKSUE,Sunds√∏re
 DK_0DKSVE,Svendborg
-DK_0DKTRS,TÂrs
+DK_0DKTRS,T√•rs
 DK_0DKTED,Thisted
-DK_0DKTYB,Thybor¯n
-DK_0DKTNO,Tun¯
-DK_0DKUNX,Masned¯ Godningshavn (Uno-X Havn)
+DK_0DKTYB,Thybor√∏n
+DK_0DKTNO,Tun√∏
+DK_0DKUNX,Masned√∏ Godningshavn (Uno-X Havn)
 DK_0DKVNG,Vang Havn
 DK_0DKVEJ,Vejle
-DK_0DKVEN,Ven¯ Havn
-DK_0DKVES,"Vester¯ Havn, LÊs¯"
+DK_0DKVEN,Ven√∏ Havn
+DK_0DKVES,"Vester√∏ Havn, L√¶s√∏"
 DK_0DKVOR,Vordingborg Havn
 DK_0DK888,Denmark - other ports
 DE_1DEAMR,Amrum
@@ -1902,29 +1902,29 @@ DE_1DEBKE,Brake
 DE_3DEBWE,Braunschweig
 DE_1DEBRE,Bremen
 DE_1DEBRV,Bremerhaven
-DE_1DEBRB,Brunsb¸ttel
-DE_1DEBUM,B¸sum
+DE_1DEBRB,Brunsb√ºttel
+DE_1DEBUM,B√ºsum
 DE_2DEBSK,Burgstaaken/Fehmarn
-DE_1DEBUZ,B¸tzfleth
+DE_1DEBUZ,B√ºtzfleth
 DE_1DECAR,Carolinensiel
 DE_3DECRL,Castrop-Rauxel
 DE_1DECUX,Cuxhaven
-DE_1DEDAG,Dageb¸ll
+DE_1DEDAG,Dageb√ºll
 DE_2DEDMN,Demmin
 DE_3DEDON,Dorsten
 DE_3DEDTM,Dortmund
 DE_3DEDUI,Duisburg
-DE_3DEDUS,D¸sseldorf
-DE_2DEECK,Eckernfˆrde
+DE_3DEDUS,D√ºsseldorf
+DE_2DEECK,Eckernf√∂rde
 DE_1DEEME,Emden
 DE_3DEESU,Emmelsum
 DE_2DEFLF,Flensburg
-DE_2DE117,Flensburger Fˆrde - other ports
-DE_1DE017,Fˆhr
+DE_2DE117,Flensburger F√∂rde - other ports
+DE_1DE017,F√∂hr
 DE_1DEFRI,Friedrichstadt
 DE_3DEGEK,Gelsenkirchen
 DE_1DE118,Gieselaukanal and Eider - other ports
-DE_1DEGLU,Gl¸ckstadt
+DE_1DEGLU,Gl√ºckstadt
 DE_2DEGRD,Greifswald
 DE_1DEHAM,Hamburg
 DE_3DEHAU,Hanau
@@ -1932,24 +1932,24 @@ DE_1DEHRN,Haren/Ems
 DE_2DEHHF,Heiligenhafen
 DE_1DEHGL,Helgoland
 DE_1DEHOD,Hochdonn
-DE_1DEHHS,Hohenhˆrn
-DE_1DEHRM,Hˆrnum/Sylt
+DE_1DEHHS,Hohenh√∂rn
+DE_1DEHRM,H√∂rnum/Sylt
 DE_1DEHUS,Husum
 DE_1DEITZ,Itzehoe
 DE_1DEJUI,Juist
 DE_2DEKAP,Kappeln
 DE_2DEKEL,Kiel
-DE_3DECGN,Kˆln
+DE_3DECGN,K√∂ln
 DE_3DEKRE,Krefeld
 DE_1DELGO,Langeoog
 DE_2DELAU,Lauterbach
 DE_1DELEE,Leer
 DE_1DELIS,List/Sylt
 DE_1DELOH,Lohesch
-DE_2DELBC,L¸beck
-DE_3DELLF,L¸lsdorf
-DE_3DELLS,L¸lsdorf
-DE_3DEMUH,M¸lheim an der Ruhr
+DE_2DELBC,L√ºbeck
+DE_3DELLF,L√ºlsdorf
+DE_3DELLS,L√ºlsdorf
+DE_3DEMUH,M√ºlheim an der Ruhr
 DE_1DENES,Nessmersiel
 DE_1DENHS,Neuharlingersiel
 DE_3DENSS,Neuss
@@ -1968,10 +1968,10 @@ DE_2DEPUT,Puttgarden
 DE_2DEREN,Rendsburg
 DE_3DERHB,Rheinberg-Ossenberg
 DE_2DERSK,Rostock
-DE_2DE055,R¸gen (÷stlich Stralsunder Fahrwasser)
+DE_2DE055,R√ºgen (√ñstlich Stralsunder Fahrwasser)
 DE_3DESAR,Salzgitter
 DE_2DESAS,Sassnitz
-DE_1DEHMO,"Schwarzenh¸tten, Hemmoor"
+DE_1DEHMO,"Schwarzenh√ºtten, Hemmoor"
 DE_3DESDT,Schwedt
 DE_3DESNE,Sehnde
 DE_1DESPI,Spieckeroog
@@ -1980,7 +1980,7 @@ DE_3DEPYK,Spyck
 DE_1DESTA,Stade
 DE_1DESTS,Stadersand
 DE_2DESTL,Stralsund
-DE_2DEUCK,Ueckerm¸nde
+DE_2DEUCK,Ueckerm√ºnde
 DE_3DEUEL,Uelzen
 DE_1DEAGE,Wangerooge
 DE_1DEWED,Wedel-Schulau
@@ -1989,7 +1989,7 @@ DE_1DEWVN,Wilhelmshaven
 DE_1DEWIF,Wischhafen
 DE_2DEWIS,Wismar
 DE_2DEWOL,Wolgast
-DE_1DEWYK,Wyk/Fˆhr
+DE_1DEWYK,Wyk/F√∂hr
 DE_2DE115,Germany (Baltic Sea) - other ports
 DE_1DE116,Germany (Elbe) - other ports
 DE_3DE888,Germany - other inland ports
@@ -1998,11 +1998,11 @@ EE_0EEHLT,Heltermaa
 EE_0EEKUI,Kuivastu
 EE_0EEKND,Kunda
 EE_0EEMDR,Miiduranna
-EE_0EEPLN,Paldiski Pıhjasadam
-EE_0EEPRN,P‰rnu
+EE_0EEPLN,Paldiski P√µhjasadam
+EE_0EEPRN,P√§rnu
 EE_0EEPAR,Patareisadam
-EE_0EERHK,Rohuk¸la
-EE_0EESLM,Sillam‰e
+EE_0EERHK,Rohuk√ºla
+EE_0EESLM,Sillam√§e
 EE_0EETLL,Tallinn
 EE_0EEVEB,Vene-Balti
 EE_0EEVIR,Virtsu
@@ -2169,7 +2169,7 @@ EL_0GRLFK,Lefkimmi
 EL_0GRLIP,Leipsoi Dodekanisou
 EL_0GRLND,Leonidio
 EL_0GRSKU,Linaria Skyrou
-EL_0GRLIN,Linoperamata†Irakleiou
+EL_0GRLIN,Linoperamata¬†Irakleiou
 EL_0GRLIX,Lixouri
 EL_0GRLTR,Loutro Chanion
 EL_0GRZEA,Marina Zeas
@@ -2285,34 +2285,34 @@ ES_2ESAGA,Agaete
 ES_2ESACA,Alcanar
 ES_2ESALG,Algeciras
 ES_2ESALC,Alicante
-ES_2ESLEI,AlmerÌa
-ES_1ESAVS,AvilÈs
+ES_2ESLEI,Almer√≠a
+ES_1ESAVS,Avil√©s
 ES_2ESBBE,Barbate
 ES_2ESBCN,Barcelona
 ES_1ESBRM,Bermeo
 ES_1ESBIO,Bilbao
-ES_2ESCAD,C·diz
+ES_2ESCAD,C√°diz
 ES_2ESCAR,Cartagena
-ES_2ESCAS,CastellÛn
+ES_2ESCAS,Castell√≥n
 ES_3ESCEU,Ceuta
 ES_2ESQFU,Corralejo
 ES_1ESFRO,Ferrol
 ES_2ESGAR,Garrucha
-ES_1ESGIJ,GijÛn
+ES_1ESGIJ,Gij√≥n
 ES_2ESHUV,Huelva
-ES_1ESLCG,La CoruÒa
+ES_1ESLCG,La Coru√±a
 ES_2ESLPA,Las Palmas
-ES_2ESAGP,M·laga
-ES_1ESMPG,MarÌn-Pontevedra
+ES_2ESAGP,M√°laga
+ES_1ESMPG,Mar√≠n-Pontevedra
 ES_4ESMLN,Melilla
 ES_2ESMOL,Molina de Segura
 ES_2ESMJB,Morro Jable
 ES_2ESMOT,Motril
-ES_2ESPAL,PalamÛs
+ES_2ESPAL,Palam√≥s
 ES_2ESPMI,Palma Mallorca
 ES_1ESPAS,Pasajes
 ES_2ESQLY,Playa Blanca
-ES_2ESSCR,San Carlos de la R·pita
+ES_2ESSCR,San Carlos de la R√°pita
 ES_2ESSCT,Santa Cruz de Tenerife
 ES_1ESSDR,Santander
 ES_2ESSVQ,Sevilla
@@ -2320,8 +2320,8 @@ ES_2ESTAR,Tarragona
 ES_2ESVLC,Valencia
 ES_2ESVCC,Vallcarca
 ES_1ESVGO,Vigo
-ES_1ESVIL,VillagarcÌa (de Arosa)
-ES_2ESVLG,Vilanova i la Geltr˙
+ES_1ESVIL,Villagarc√≠a (de Arosa)
+ES_2ESVLG,Vilanova i la Geltr√∫
 ES_9ES888,Spain (unknown maritime coastal area) - other ports
 FR_2FRAJA,Ajaccio
 FR_2FRBIA,Bastia
@@ -2342,7 +2342,7 @@ FR_3GFDDC,Degrad-des Cannes (Guyane)
 FR_1FRDPE,Dieppe
 FR_1FRDRZ,Douarnenez
 FR_1FRDKK,Dunkerque
-FR_1FRFEC,FÈcamp
+FR_1FRFEC,F√©camp
 FR_4MQFDF,Fort-de France (Martinique)
 FR_1FRGFR,Granville
 FR_1FRGRV,Gravelines
@@ -2358,12 +2358,12 @@ FR_3GFLVT,Larivot (Guyane)
 FR_1FRLFR,Le Fret (Crozon)
 FR_1FRLGU,Le Guildo (Crehen)
 FR_1FRLEH,Le Havre
-FR_1FRLLG,Le LÈguÈ
+FR_1FRLLG,Le L√©gu√©
 FR_1FRSBK,Le Legue (St Brieuc)
-FR_1FRLTR,Le TrÈport
+FR_1FRLTR,Le Tr√©port
 FR_1FRLSO,Les Sables d'Olonne
-FR_1FRLEZ,LÈzardrieux
-FR_2FRILR,L¥Œle Rousse
+FR_1FRLEZ,L√©zardrieux
+FR_2FRILR,L¬¥√éle Rousse
 FR_1FRLRT,Lorient
 FR_2FRMRS,Marseille
 FR_1FRMXN,Morlaix
@@ -2372,9 +2372,9 @@ FR_1FRNTE,Nantes Saint-Nazaire
 FR_2FRNCE,Nice
 FR_1FRPAI,Paimpol
 FR_1FRPOX,Pontrieux
-FR_5REPDG,Port RÈunion (ex Pointe-des-Galets) (RÈunion)
+FR_5REPDG,Port R√©union (ex Pointe-des-Galets) (R√©union)
 FR_2FRPOV,Port Vendres
-FR_1FRPRJ,Port-Joinville (Œle d¥Yeu)
+FR_1FRPRJ,Port-Joinville (√éle d¬¥Yeu)
 FR_2FRNOU,Port-la-Nouvelle
 FR_2FRPVO,Porto Vecchio
 FR_2FRPRP,Propriano
@@ -2384,14 +2384,14 @@ FR_1FRRCO,Rochefort
 FR_1FRROS,Roscoff
 FR_1FRURO,Rouen
 FR_1FRRYN,Royan
-FR_2FRSET,SËte
+FR_2FRSET,S√®te
 FR_3GFSLM,St Laurent du Maroni (Guyane)
 FR_1FRSML,St Malo
-FR_2FRSRL,St RaphaÎl
-FR_1FRSVS,St ValÈry-sur-Somme
+FR_2FRSRL,St Rapha√´l
+FR_1FRSVS,St Val√©ry-sur-Somme
 FR_1FRTON,Tonnay Charente
 FR_2FRTLN,Toulon
-FR_1FRTRE,TrÈguier
+FR_1FRTRE,Tr√©guier
 FR_1FRVNE,Vannes
 FR_1FR888,France (Atlantic / North Sea) - other ports
 FR_9FR888,France (unknown maritime coastal area) - other ports
@@ -2743,30 +2743,30 @@ PL_0PLSZZ,Szczecin
 PL_0PLTBZ,Trzebiez
 PL_0PLUST,Ustka
 PL_0PLWLA,Wladyslawowo
-PT_0PTADH,"Angra do HeroÌsmo (Ilha Terceira, AÁores)"
+PT_0PTADH,"Angra do Hero√≠smo (Ilha Terceira, A√ßores)"
 PT_0PTAVE,Aveiro
-PT_0PTCDP,"Cais do Pico (Ilha do Pico, AÁores)"
-PT_0PTCNL,CaniÁal
+PT_0PTCDP,"Cais do Pico (Ilha do Pico, A√ßores)"
+PT_0PTCNL,Cani√ßal
 PT_0PTOPO,Douro (Oporto)
 PT_0PTFAO,Faro
 PT_0PTFDF,Figueira da Foz
 PT_0PTFNC,Funchal (Madeira)
-PT_0PTHOR,"Horta (Ilha das Faial, AÁores)"
-PT_0PTLAJ,"Lajes das Flores (Ilha das Flores, AÁores)"
-PT_0PTLEI,Leixıes
+PT_0PTHOR,"Horta (Ilha das Faial, A√ßores)"
+PT_0PTLAJ,"Lajes das Flores (Ilha das Flores, A√ßores)"
+PT_0PTLEI,Leix√µes
 PT_0PTLIS,Lisboa
-PT_0PTMAD,"Madalena (Ilha do Pico, AÁores)"
-PT_0PTPDL,"Ponta Delgada (Ilha de S. Miguel, AÁores)"
-PT_0PTPRM,Portim„o
+PT_0PTMAD,"Madalena (Ilha do Pico, A√ßores)"
+PT_0PTPDL,"Ponta Delgada (Ilha de S. Miguel, A√ßores)"
+PT_0PTPRM,Portim√£o
 PT_0PTPXO,"Porto Santo (Ilha de Porto Santo, Madeira)"
-PT_0PTPRG,"Praia da Graciosa (Ilha da Graciosa, AÁores)"
-PT_0PTPRV,"Praia da VitÛria (Ilha Terceira, AÁores)"
-PT_0PTSET,Set˙bal
+PT_0PTPRG,"Praia da Graciosa (Ilha da Graciosa, A√ßores)"
+PT_0PTPRV,"Praia da Vit√≥ria (Ilha Terceira, A√ßores)"
+PT_0PTSET,Set√∫bal
 PT_0PTSIE,Sines
-PT_0PTVEL,"Velas (Ilha de S„o Jorge, AÁores)"
+PT_0PTVEL,"Velas (Ilha de S√£o Jorge, A√ßores)"
 PT_0PTVDC,Viana do Castelo
-PT_0PTVDP,"Vila do Porto (Ilha de Sta Maria, AÁores)"
-PT_0PTVNC,"Vila Nova do Corvo (Ilha do Corvo, AÁores)"
+PT_0PTVDP,"Vila do Porto (Ilha de Sta Maria, A√ßores)"
+PT_0PTVNC,"Vila Nova do Corvo (Ilha do Corvo, A√ßores)"
 RO_0ROBAB,Basarabi
 RO_0ROBRA,Braila
 RO_0ROCEV,Cernavoda
@@ -2783,36 +2783,36 @@ SI_0SIIZO,Izola
 SI_0SIKOP,Koper
 SI_0SIPIR,Piran
 SI_0SI888,Slovenia - other ports
-FI_0FIBRA,Br‰ndˆ
-FI_0FIDRA,Dragsfj‰rd
-FI_0FIECK,Eckerˆ
+FI_0FIBRA,Br√§nd√∂
+FI_0FIDRA,Dragsfj√§rd
+FI_0FIECK,Ecker√∂
 FI_0FIESP,Espoo
 FI_0FIEJO,Eurajoki
-FI_0FIFAR,F‰rjsund
-FI_0FIFOG,Fˆglˆ
-FI_0FIFOR,Fˆrby
+FI_0FIFAR,F√§rjsund
+FI_0FIFOG,F√∂gl√∂
+FI_0FIFOR,F√∂rby
 FI_0FIGDB,Godby
 FI_0FIHMN,Hamina
 FI_0FI002,HaminaKotka
 FI_0FIHKO,Hanko
 FI_0FIHEL,Helsinki
-FI_0FIHOU,Houtsk‰r
-FI_0FIINI,Iniˆ
+FI_0FIHOU,Houtsk√§r
+FI_0FIINI,Ini√∂
 FI_0FIINK,Inkoo
-FI_0FIISN,Isn‰s
+FI_0FIISN,Isn√§s
 FI_0FIKJO,Kalajoki
 FI_0FIKNT,Kantvik
 FI_0FIKAS,Kaskinen
 FI_0FIKEM,Kemi
-FI_0FIKIM,Kemiˆ
-FI_0FIKKR,Kˆkar
+FI_0FIKIM,Kemi√∂
+FI_0FIKKR,K√∂kar
 FI_0FIKOK,Kokkola
 FI_0FIKOR,Korpoo
 FI_0FIKTK,Kotka
 FI_0FIKVH,Koverhar
 FI_0FIKRS,Kristinankaupunki
 FI_0FIKUM,Kumlinge
-FI_0FILAN,Langn‰s
+FI_0FILAN,Langn√§s
 FI_0FILAP,Lappohja
 FI_0FILOV,Loviisa
 FI_0FILUV,Luvia
@@ -2829,11 +2829,11 @@ FI_0FIPOR,Pori
 FI_0FIRAA,Raahe
 FI_0FIRAU,Rauma
 FI_0FIRTR,Rautaruukki
-FI_0FIRUO,Ruotsinpyht‰‰
-FI_0FIRYM,Rym‰ttyl‰
+FI_0FIRUO,Ruotsinpyht√§√§
+FI_0FIRYM,Rym√§ttyl√§
 FI_0FISAL,Salo
 FI_0FISIP,Sipoonlahti
-FI_0FISKV,Skˆldvik
+FI_0FISKV,Sk√∂ldvik
 FI_0FISKB,Skogby
 FI_0FIDLS,Taalintehdas
 FI_0FITVS,Taivassalo
@@ -2847,12 +2847,12 @@ FI_0FIVAA,Vaasa
 FI_0FIVEL,Velkua
 FI_0FI001,Finland - other inland ports
 FI_0FI888,Finland - other ports
-SE_1SEAHU,≈hus
+SE_1SEAHU,√Öhus
 SE_1SEALA,Ala
-SE_2SEALN,ƒlven‰s
-SE_2SEAMA,≈mÂl
-SE_1SEBLV,B‰llstaviken
-SE_1SEBAA,BÂlsta
+SE_2SEALN,√Ñlven√§s
+SE_2SEAMA,√Öm√•l
+SE_1SEBLV,B√§llstaviken
+SE_1SEBAA,B√•lsta
 SE_1SEBEA,Bergkvara
 SE_1SEBER,Bergs Oljehamn
 SE_2SEBOH,Bohus
@@ -2861,118 +2861,118 @@ SE_1SEBVK,Braviken
 SE_2SEBRO,Brofjorden
 SE_1SEBYX,Byxelkrok
 SE_1SEDEG,Degerhamn
-SE_1SEDOM,Domsjˆ
+SE_1SEDOM,Domsj√∂
 SE_1SEELL,Elleholm
-SE_1SEENK,Enkˆping
+SE_1SEENK,Enk√∂ping
 SE_1SEFAK,Fagerviken
 SE_2SEFAG,Falkenberg
-SE_2SEFJA,Fj‰llbacka
+SE_2SEFJA,Fj√§llbacka
 SE_1SEFLI,Flivik
 SE_1SEFOR,Forsmark
 SE_1SEGAM,Gamleby
-SE_1SEGVX,G‰vle
-SE_2SEGOA,Gˆta
-SE_2SEGOT,Gˆteborg
+SE_1SEGVX,G√§vle
+SE_2SEGOA,G√∂ta
+SE_2SEGOT,G√∂teborg
 SE_1SEGKV,Grankullavik
 SE_2SEGRE,Grebbestad
 SE_1SEGRH,Grisslehamn
-SE_2SEGRU,Gruvˆn
+SE_2SEGRU,Gruv√∂n
 SE_1SEGUN,Gunnebo
 SE_1SEGUB,Gustavsberg
 SE_1SEHAK,Hallstavik
 SE_2SEHAD,Halmstad
 SE_1SEHAN,Hargshamn
-SE_1SEHND,H‰rnˆsand
+SE_1SEHND,H√§rn√∂sand
 SE_1SEHEL,Helsingborg
-SE_2SEHOG,Hˆgan‰s
-SE_2SEHON,Hˆns‰ter
+SE_2SEHOG,H√∂gan√§s
+SE_2SEHON,H√∂ns√§ter
 SE_1SEHUV,Hudiksvall
 SE_2SEHUN,Hunnebostrand
 SE_1SEHUS,Husum
 SE_1SEIGG,Iggesund
-SE_1SEJAT,J‰tterssˆn
+SE_1SEJAT,J√§tterss√∂n
 SE_1SEKGG,Kagghamra
 SE_1SEKAX,Kalix
 SE_1SEKLR,Kalmar
 SE_1SEKAL,Kalmarsand
 SE_1SEKPH,Kappelshamn
-SE_1SEKPS,Kappelsk‰r
+SE_1SEKPS,Kappelsk√§r
 SE_1SEKXV,Karlsborg Axelvik
 SE_1SEKAN,Karlshamn
 SE_1SEKAA,Karlskrona
 SE_2SEKSD,Karlstad
 SE_1SEKLI,Klintehamn
-SE_1SEKOG,Kˆping
+SE_1SEKOG,K√∂ping
 SE_2SEKHN,Kristinehamn
 SE_1SEKUB,Kubikenborg
 SE_2SEKUN,Kungshamn
 SE_1SEKVA,Kvarnholmen
 SE_1SELAA,Landskrona
-SE_2SELDK,Lidkˆping
+SE_2SELDK,Lidk√∂ping
 SE_2SELED,Lilla Edet
 SE_1SELOM,Lomma
-SE_1SELOT,Lˆten
-SE_1SELLA,LuleÂ
+SE_1SELOT,L√∂ten
+SE_1SELLA,Lule√•
 SE_1SELUG,Lugnvik
 SE_2SELYS,Lysekil
-SE_1SEMMA,Malmˆ
+SE_1SEMMA,Malm√∂
 SE_2SEMAD,Mariestad
-SE_1SEMOR,MˆrbylÂnga
+SE_1SEMOR,M√∂rbyl√•nga
 SE_2SENOL,Nol (ports)
 SE_1SENOG,Nordmaling
-SE_1SENRK,Norrkˆping
+SE_1SENRK,Norrk√∂ping
 SE_1SENOT,Norrsundet
-SE_1SENOE,Norrt‰lje
-SE_1SENYO,Nykˆping
-SE_1SENYN,Nyn‰shamn (ports)
-SE_1SEOER,÷rnskˆldsvik
+SE_1SENOE,Norrt√§lje
+SE_1SENYO,Nyk√∂ping
+SE_1SENYN,Nyn√§shamn (ports)
+SE_1SEOER,√ñrnsk√∂ldsvik
 SE_1SEOSK,Oskarshamn
-SE_1SEOST,÷strand
-SE_2SEOTT,Otterb‰cken
-SE_1SEOXE,Oxelˆsund (ports)
-SE_1SEPIT,PiteÂ
+SE_1SEOST,√ñstrand
+SE_2SEOTT,Otterb√§cken
+SE_1SEOXE,Oxel√∂sund (ports)
+SE_1SEPIT,Pite√•
 SE_1SERNH,Ronehamn
 SE_1SERNB,Ronneby
 SE_1SERUV,Rundvik
-SE_2SESAF,S‰ffle
+SE_2SESAF,S√§ffle
 SE_1SESIM,Simrishamn
-SE_2SESKT,Skattk‰rr
-SE_1SESFT,SkellefteÂ
+SE_2SESKT,Skattk√§rr
+SE_1SESFT,Skellefte√•
 SE_2SESKO,Skoghall (ports)
-SE_1SESSR,Skutsk‰r
+SE_1SESSR,Skutsk√§r
 SE_1SESLI,Slite (ports)
-SE_1SESOO,Sˆderhamn
-SE_1SESOE,Sˆdert‰lje
-SE_1SESOL,Sˆlvesborg
-SE_1SESOR,SˆrÂker
+SE_1SESOO,S√∂derhamn
+SE_1SESOE,S√∂dert√§lje
+SE_1SESOL,S√∂lvesborg
+SE_1SESOR,S√∂r√•ker
 SE_2SESTE,Stenungsund (Ports)
 SE_1SESTA,Stocka
 SE_1SESTO,Stockholm
 SE_1SESTK,Stockvik
 SE_1SESTV,Stora Vika
 SE_1SESUS,Storugns
-SE_1SESTQ,Str‰ngn‰s
-SE_2SESMD,Strˆmstad
+SE_1SESTQ,Str√§ngn√§s
+SE_2SESMD,Str√∂mstad
 SE_1SESDL,Sundsvall
 SE_2SESUR,Surte
-SE_1SETOE,Tˆre
+SE_1SETOE,T√∂re
 SE_1SETRG,Trelleborg
-SE_2SETHN,Trollh‰ttan (Ports)
+SE_2SETHN,Trollh√§ttan (Ports)
 SE_1SETUN,Tunadal
 SE_2SEUDD,Uddevalla
-SE_1SEUME,UmeÂ
-SE_1SEUND,UnderÂs
+SE_1SEUME,Ume√•
+SE_1SEUND,Under√•s
 SE_1SEUPP,Uppsala
-SE_1SEUTA,Utansjˆ
-SE_1SEVAJ,V‰ja
+SE_1SEUTA,Utansj√∂
+SE_1SEVAJ,V√§ja
 SE_1SEVAK,Valdemarsvik
 SE_1SEVAL,Vallvik
-SE_2SEVAN,V‰nersborg
+SE_2SEVAN,V√§nersborg
 SE_2SEVAG,Varberg
-SE_2SEVGN,Vargˆn
-SE_1SEVST,V‰sterÂs
-SE_1SEVVK,V‰stervik
-SE_1SEVER,Verkeb‰ck
+SE_2SEVGN,Varg√∂n
+SE_1SEVST,V√§ster√•s
+SE_1SEVVK,V√§stervik
+SE_1SEVER,Verkeb√§ck
 SE_1SEVBY,Visby
 SE_1SEVIV,Vivstavarv
 SE_2SEWAL,Wallhamn
@@ -3134,87 +3134,87 @@ UK_3GG888,United Kingdom (Guernsey) - other ports
 UK_3JE888,United Kingdom (Jersey) - other ports
 IS_0ISAKR,Akranes
 IS_0ISAKU,Akureyri
-IS_0ISASS,¡rskÛgssandur
-IS_0ISBAK,Bakkafjˆrur
-IS_0ISBIL,BÌldudalur
-IS_0ISBLO,BlˆnduÛs
-IS_0ISBOL,BolungarvÌk
-IS_0ISBGJ,Borgafjˆrur eystri
-IS_0ISBRJ,Brj·nslÊkur
-IS_0ISBRE,BreidalsvÌk
-IS_0ISDAL,DalvÌk
-IS_0ISDJU,Dj˙pivogur
-IS_0ISESK,Eskifjˆrur
-IS_0ISFAS,F·skr˙sfjˆrur
+IS_0ISASS,√Årsk√≥gssandur
+IS_0ISBAK,Bakkafj√∂r√∞ur
+IS_0ISBIL,B√≠ldudalur
+IS_0ISBLO,Bl√∂ndu√≥s
+IS_0ISBOL,Bolungarv√≠k
+IS_0ISBGJ,Borgafj√∂r√∞ur eystri
+IS_0ISBRJ,Brj√°nsl√¶kur
+IS_0ISBRE,Brei√∞dalsv√≠k
+IS_0ISDAL,Dalv√≠k
+IS_0ISDJU,Dj√∫pivogur
+IS_0ISESK,Eskifj√∂r√∞ur
+IS_0ISFAS,F√°skr√∫√∞sfj√∂r√∞ur
 IS_0ISFLA,Flateyri
-IS_0ISGRD,Garur
-IS_0ISGRY,GrÌmsey
-IS_0ISGRI,GrindavÌk
-IS_0ISGRF,Grundarfjˆrur
+IS_0ISGRD,Gar√∞ur
+IS_0ISGRY,Gr√≠msey
+IS_0ISGRI,Grindav√≠k
+IS_0ISGRF,Grundarfj√∂r√∞ur
 IS_0ISGRT,Grundartangi
-IS_0ISHAF,Hafnarfjˆrur
+IS_0ISHAF,Hafnarfj√∂r√∞ur
 IS_0ISHNR,Hafnir
-IS_0ISHFN,Hˆfn Hornafjˆrur
-IS_0ISHOF,HofsÛs
-IS_0ISHVK,HÛlmavÌk
-IS_0ISHRI,HrÌsey
-IS_0ISHUS,H˙savÌk
-IS_0ISHVR,Hvalfj¯rdur-Litlisandur
+IS_0ISHFN,H√∂fn Hornafj√∂r√∞ur
+IS_0ISHOF,Hofs√≥s
+IS_0ISHVK,H√≥lmav√≠k
+IS_0ISHRI,Hr√≠sey
+IS_0ISHUS,H√∫sav√≠k
+IS_0ISHVR,Hvalfj√∏rdur-Litlisandur
 IS_0ISHVM,Hvammstangi
-IS_0ISISA,Õsafjˆrur
-IS_0ISKEF,KeflavÌk
-IS_0ISKOP,KÛpasker
-IS_0ISKOV,KÛpavogur
-IS_0ISNES,Neskaupstaur
-IS_0ISNOU,Norurfjˆrur
-IS_0ISOLF,”lafsfjˆrur
-IS_0ISOLV,”lafsvÌk
-IS_0ISPAT,Patreksfjˆrur
-IS_0ISRAU,Raufarhˆfn
-IS_0ISRFJ,Reyarfjˆrur
-IS_0ISRHA,ReykhÛlar
-IS_0ISREY,ReykjavÌk
+IS_0ISISA,√çsafj√∂r√∞ur
+IS_0ISKEF,Keflav√≠k
+IS_0ISKOP,K√≥pasker
+IS_0ISKOV,K√≥pavogur
+IS_0ISNES,Neskaupsta√∞ur
+IS_0ISNOU,Nor√∞urfj√∂r√∞ur
+IS_0ISOLF,√ìlafsfj√∂r√∞ur
+IS_0ISOLV,√ìlafsv√≠k
+IS_0ISPAT,Patreksfj√∂r√∞ur
+IS_0ISRAU,Raufarh√∂fn
+IS_0ISRFJ,Rey√∞arfj√∂r√∞ur
+IS_0ISRHA,Reykh√≥lar
+IS_0ISREY,Reykjav√≠k
 IS_0ISRIF,Rif
-IS_0ISSAN,Sandgeri
-IS_0ISSAU,Sau·rkrÛkur
-IS_0ISSEY,Seyisfjˆrur
-IS_0ISSIG,Siglufjˆrur
-IS_0ISSKA,Skagastrˆnd
-IS_0ISSTD,Stˆvarfjˆrur
-IS_0ISSTR,StraumsvÌk
-IS_0ISSTY,StykkishÛlmur
-IS_0ISSUV,S˙avÌk
-IS_0ISSUD,Suureyri
-IS_0ISTAL,T·lknafjˆrur
-IS_0ISTEY,ﬁingeyri (Thingeyri)
-IS_0ISTHH,ﬁorl·kshˆfn (Thorlakshofn)
-IS_0ISTHO,ﬁÛrshˆfn (Thorshofn)
+IS_0ISSAN,Sandger√∞i
+IS_0ISSAU,Sau√∞√°rkr√≥kur
+IS_0ISSEY,Sey√∞isfj√∂r√∞ur
+IS_0ISSIG,Siglufj√∂r√∞ur
+IS_0ISSKA,Skagastr√∂nd
+IS_0ISSTD,St√∂√∞varfj√∂r√∞ur
+IS_0ISSTR,Straumsv√≠k
+IS_0ISSTY,Stykkish√≥lmur
+IS_0ISSUV,S√∫√∞av√≠k
+IS_0ISSUD,Su√∞ureyri
+IS_0ISTAL,T√°lknafj√∂r√∞ur
+IS_0ISTEY,√ûingeyri (Thingeyri)
+IS_0ISTHH,√ûorl√°ksh√∂fn (Thorlakshofn)
+IS_0ISTHO,√û√≥rsh√∂fn (Thorshofn)
 IS_0ISVES,Vestmannaeyjar
 IS_0ISVOG,Vogar
-IS_0ISVPN,Vopnafjˆrur
+IS_0ISVPN,Vopnafj√∂r√∞ur
 IS_0IS888,Iceland - other ports
-NO_0NOAAF,≈fjord
-NO_0NOAES,≈lesund
+NO_0NOAAF,√Öfjord
+NO_0NOAES,√Ölesund
 NO_0NOALF,Alta
-NO_0NOADY,And¯y
-NO_0NOAAN,≈rdal
+NO_0NOADY,And√∏y
+NO_0NOAAN,√Ördal
 NO_0NOARE,Arendal
 NO_0NOASL,Askvoll
 NO_0NOAUL,Aurland
 NO_0NOASV,Austevoll
 NO_0NOBLL,Ballangen
-NO_0NOBAR,BÊrum/Sandvika/Lysaker
-NO_0NOBJF,BÂtsfjord
+NO_0NOBAR,B√¶rum/Sandvika/Lysaker
+NO_0NOBJF,B√•tsfjord
 NO_0NOBEJ,Beiarn
 NO_0NOBGO,Bergen
-NO_0NOBVG,BerlevÂg
-NO_0NOBJU,Bjugn/Lys¯ysund/BotngÂrd
-NO_0NOBOX,B¯
-NO_0NOBOO,Bod¯
+NO_0NOBVG,Berlev√•g
+NO_0NOBJU,Bjugn/Lys√∏ysund/Botng√•rd
+NO_0NOBOX,B√∏
+NO_0NOBOO,Bod√∏
 NO_0NOBRG,Borg
 NO_0NOBRR,Borre
 NO_0NOBRE,Bremanger
-NO_0NOBRO,Br¯nn¯y
+NO_0NOBRO,Br√∏nn√∏y
 NO_0NODRM,Drammen
 NO_0NOEGD,Eigersund
 NO_0NOETN,Etne
@@ -3222,48 +3222,48 @@ NO_0NOFAN,Farsund
 NO_0NOFAU,Fauske
 NO_0NOFKS,Flakstad
 NO_0NOFFD,Flekkefjord
-NO_0NOFRO,Flor¯/Flora
+NO_0NOFRO,Flor√∏/Flora
 NO_0NOFSN,Fosnes
 NO_0NOFUS,Fusa
-NO_0NOKAF,Gaivuotna - KÂfjord
+NO_0NOKAF,Gaivuotna - K√•fjord
 NO_0NOGRV,Granvin
 NO_0NOGTD,Grimstad
 NO_0NOGUL,Gulen
-NO_0NOHAA,HÂ
+NO_0NOHAA,H√•
 NO_0NOHAD,Hadsel
 NO_0NOHAL,Halden
 NO_0NOHFT,Hammerfest
 NO_0NOHRD,Harstad
 NO_0NOHOL,Holmestrand
-NO_0NOHVG,HonningsvÂg
-NO_0NOHYR,H¯yanger
+NO_0NOHVG,Honningsv√•g
+NO_0NOHYR,H√∏yanger
 NO_0NOJON,Jondal
 NO_0NOKAS,Karmsund
 NO_0NOKKN,Kirkenes
-NO_0NONTY,Kj¯pmannskjÊr/N¯tter¯y
-NO_0NOKRA,Krager¯
+NO_0NONTY,Kj√∏pmannskj√¶r/N√∏tter√∏y
+NO_0NOKRA,Krager√∏
 NO_0NOKRS,Kristiansand S
 NO_0NOKSU,Kristiansund N/Grip
 NO_0NOKVM,Kvam
-NO_0NOKVN,KvÊnangen
+NO_0NOKVN,Kv√¶nangen
 NO_0NOKVD,Kvinesdal
 NO_0NOLAR,Larvik
 NO_0NOLEB,Lebesby
 NO_0NOLEF,Leirfjord
 NO_0NOLKA,Leka
 NO_0NOLIL,Lillesand
-NO_0NOLOD,L¯dingen
+NO_0NOLOD,L√∏dingen
 NO_0SJLYR,Longyearbyen
 NO_0NOLOP,Loppa
 NO_0NOLUS,Luster
 NO_0NOLYN,Lyngen
-NO_0NOMAY,MÂl¯y
+NO_0NOMAY,M√•l√∏y
 NO_0NOMAN,Mandal
-NO_0NOMSY,MÂs¯y
-NO_0NOMEY,Mel¯y/Glomfjord/ÿrnes
+NO_0NOMSY,M√•s√∏y
+NO_0NOMEY,Mel√∏y/Glomfjord/√òrnes
 NO_0NOMOD,Modalen
 NO_0NOMOL,Molde
-NO_0NOMJF,Mosj¯en
+NO_0NOMJF,Mosj√∏en
 NO_0NOMSK,Moskenes
 NO_0NOMSS,Moss
 NO_0NOOSY,Namsos
@@ -3271,28 +3271,28 @@ NO_0NONVK,Narvik
 NO_0NONSN,Nesna
 NO_0NOEID,Nordfjordeid/Eid
 NO_0NOODD,Odda
-NO_0NOMYO,ÿksnes/Myre
-NO_0NOOLN,ÿlen
+NO_0NOMYO,√òksnes/Myre
+NO_0NOOLN,√òlen
 NO_0NOORK,Orkanger
-NO_0NOOLA,ÿrland/Brekstad
+NO_0NOOLA,√òrland/Brekstad
 NO_0NOOSN,Osen
 NO_0NOOSL,Oslo
-NO_0NOOST,Oster¯y
-NO_0NOGVL,"Porsgrunn, Rafnes, Her¯ya, Brevik, Skien, Langesund, Voldsfjorden"
+NO_0NOOST,Oster√∏y
+NO_0NOGVL,"Porsgrunn, Rafnes, Her√∏ya, Brevik, Skien, Langesund, Voldsfjorden"
 NO_0NORNA,Rana
-NO_0NORIS,Ris¯r
+NO_0NORIS,Ris√∏r
 NO_0NOSDL,Saltdal/Rognan
 NO_0NOSAD,Sandefjord
 NO_0NOSAS,Sandnes
-NO_0NOSSJ,Sandnessj¯en
+NO_0NOSSJ,Sandnessj√∏en
 NO_0NOSAU,Sauda
 NO_0NOSAL,Salangen
-NO_0NOSKY,Skjerv¯y
+NO_0NOSKY,Skjerv√∏y
 NO_0NOSOG,Sogndal
-NO_0NOSNE,S¯gne
+NO_0NOSNE,S√∏gne
 NO_0NOSOK,Sokndal
-NO_0NOSMN,S¯mna
-NO_0NOSRA,S¯rreisa
+NO_0NOSMN,S√∏mna
+NO_0NOSRA,S√∏rreisa
 NO_0NOSLX,Sortland
 NO_0NOSVG,Stavanger
 NO_0NOSTG,Steigen
@@ -3303,23 +3303,23 @@ NO_0NOSTF,Storfjord
 NO_0NOSTD,Strand
 NO_0NOSRN,Stranda
 NO_0NOSUL,Suldal
-NO_0NOSUN,Sunndal/Sunndals¯ra
+NO_0NOSUN,Sunndal/Sunndals√∏ra
 NO_0NO720,Svalbard
 NO_0SJ888,Svalbard and Jan Mayen
 NO_0SJSVE,Sveagruva (Svalbard)
 NO_0NOSYK,Sykkylven
-NO_0NOTON,T¯nsberg
-NO_0NOTOS,Troms¯
+NO_0NOTON,T√∏nsberg
+NO_0NOTOS,Troms√∏
 NO_0NOTRD,Trondheim/Flakk
 NO_0NOTYN,Tysnes
-NO_0NOVGN,VÂgan/KabelvÂg
-NO_0NOVDS,Vads¯
-NO_0NOVEY,VÊr¯y
+NO_0NOVGN,V√•gan/Kabelv√•g
+NO_0NOVDS,Vads√∏
+NO_0NOVEY,V√¶r√∏y
 NO_0NOVAY,Vanylven
-NO_0NOVAO,Vard¯
+NO_0NOVAO,Vard√∏
 NO_0NOVEG,Vega
 NO_0NOVER,Verdal
-NO_0NOVVY,VestvÂg¯y
+NO_0NOVVY,Vestv√•g√∏y
 NO_0NOVKN,Vikna
 NO_0NO888,Norway - other ports
 TR_1TRAMA,Amasra
@@ -3402,12 +3402,12 @@ EL_0GRPYV,Pevki Evvoias
 EL_0GRTLA,Tolo Argolidas
 EL_0GRVLC,Volissos (Limnia) Chiou
 NO_0NOAFT,Agnefest
-NO_0NOORS,ÿrsta
+NO_0NOORS,√òrsta
 ME,Montenegro
 ME_0MEBAR,Bar
 ME_0MEKOT,Kotor
-FR_4GPPTP,Pointe-‡-Pitre (Guadeloupe)
-DK_0DKAIT,AsnÊs Inter Terminal
+FR_4GPPTP,Pointe-√†-Pitre (Guadeloupe)
+DK_0DKAIT,Asn√¶s Inter Terminal
 DK_0DKEIT,Ensted Inter Terminal
 DK_0DKSIT,Stigsnaes Inter Terminal
 EL_0GRARM,Argostoli
@@ -3415,7 +3415,7 @@ EL_0GRASS,Aspropyrgos
 UK_1GBLRP,Loch Ryan Pt
 TR_2TRAMB,Ambarli
 HR_0HRSVJ,Sveti Juraj
-DK_0DKCSO,Christians¯ Havn
+DK_0DKCSO,Christians√∏ Havn
 DK_0DKGDM,Gudhjem
 DE_1DESDD,Steenodde
 NL_0NLZSP,Zeeland Seaports
@@ -3430,7 +3430,7 @@ DE_3DEBDF,Bendorf/Rhein
 DE_3DEBOT,Bottrop
 DE_1DE76Y,Esens
 DE_3DEFRA,Frankfurt am Main
-DE_3DEIBB,Ibbenb¸ren
+DE_3DEIBB,Ibbenb√ºren
 DE_3DELUH,Ludwigshafen
 DE_3DERHO,Reisholz
 DE_3DEVIW,Vierow
@@ -3440,7 +3440,7 @@ DE_3DEWOR,Worms
 DE_3DEGDO,Godorf
 DE_1DEHOO,Hooksiel
 DE_3DELIG,Lingen
-DE_3DELUE,L¸nen
+DE_3DELUE,L√ºnen
 DE_2DEPUB,Putbus
 DE_3DEREC,Recklinghausen
 DE_3DERSA,Riesa
@@ -3494,9 +3494,9 @@ NO_0NOOLL,Olderdalen
 NO_0NOSUZ,Stamsund
 NO_0NO88N,Norway - other ports - northern
 NO_0NO88S,Norway - other ports - southern
-DE_1DEGXR,Grˆde
+DE_1DEGXR,Gr√∂de
 DE_2DELAB,Laboe
-DE_3DELBE,L¸bbecke
+DE_3DELBE,L√ºbbecke
 DE_2DE88O,Germany (Baltic Sea) - other ports
 DE_1DE88N,Germany (North Sea) - other ports
 CY_0CYZYY,Zygi
@@ -3515,9 +3515,9 @@ NO_0NOSAX,Sand
 NO_0NOSOF,Sorfold
 NO_0NOSNS,Steinesjoen
 NO_0NOSVJ,Svolvaer
-DE_3DEBYN,B¸lstringen
+DE_3DEBYN,B√ºlstringen
 DE_3DELBM,Lubmin
-NO_0NORSH,Ris¯yhamn
+NO_0NORSH,Ris√∏yhamn
 DE_1DEKEI,Keitum
 EU27_2020,European Union - 27 countries (from 2020)
 EU27_2007,European Union - 27 countries (2007-2013)
