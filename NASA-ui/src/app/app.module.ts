@@ -17,6 +17,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { MatSliderModule } from '@angular/material/slider';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { FormsModule } from '@angular/forms';
+import { MatTabsModule } from '@angular/material/tabs';
 
 @NgModule({
 	declarations: [
@@ -37,7 +38,8 @@ import { FormsModule } from '@angular/forms';
 		HttpClientModule,
 		MatSliderModule,
 		MatCheckboxModule,
-		FormsModule
+		FormsModule,
+		MatTabsModule
 	],
 	providers: [],
 	bootstrap: [AppComponent]
