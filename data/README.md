@@ -33,3 +33,9 @@ Original source: https://www.kaggle.com/sudalairajkumar/undata-country-profiles
 
 Energy consumption, sustainable energy. Recently updated data.
 Original source: https://www.kaggle.com/natashalondon/sustainable-energy-for-all
+
+
+### Air quality
+
+Data about NO2,O3,PM10,PM2.5 levels in 50 european cities
+Original source: https://github.com/CopernicusAtmosphere/air-quality-covid19-response
