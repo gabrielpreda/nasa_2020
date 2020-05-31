@@ -11,3 +11,193 @@ body {
   background-size: 100%;
 }
 $breakpoint-phone: 640px;
+
+
+
+h1{
+  font-family:helvetica,arial,sans-serif;
+  font-size:22;
+  font-style:bold;
+  color:#34495e;
+}
+
+h2{
+  font-family:helvetica,arial,sans-serif;
+  font-size:16;
+  font-style:bold;
+  color:#00A6AA;
+}
+
+h3{
+  font-family:arial;
+  font-size:13;
+  font-style:bold;
+  color:#004855;
+}
+
+h4{
+  font-family:arial;
+  font-size:11;
+  font-style:bold;
+  color:#00A6AA;
+}
+
+p{
+  font-family:arial;
+  font-size:22;
+  font-style:none;
+  color:#000000;
+}
+
+.county {
+  fill: #6a96c3;
+  stroke:#ddd;
+  stroke-width:1px;
+}
+
+#container{
+  text-align:center;
+  width: 100%;
+}
+
+#header{
+  text-align:center;
+  width: 1366px;
+  min-height:100px;
+  height:auto;
+  padding-top:20px;
+  margin:0 auto;
+}
+
+#headerBand{
+  background-color:#1abc9c;
+  min-height:60px;
+  height:auto;
+}
+
+
+#bubbleContainer{
+  width: 960x;
+  height: 850px;
+  border: 1px solid #BFD1D4;
+  border-radius: 10px;
+  margin: 2px;
+  text-align: center;
+}
+
+#bubbleChart{
+
+}
+
+
+#providerSection{
+  text-align:center;
+  width: 960px;
+}
+
+
+circle {
+  fill:#3498DB;
+  stroke: black;
+  stroke-width:2px;
+  opacity: .3;
+}
+
+circle:hover {
+  stroke:#22A7F0;
+}
+
+
+.label {
+  fill: black;
+  font-size: 16px;
+}
+
+.ratingCategory1{
+  fill:#88DB54;
+}
+
+.ratingCategory2{
+  fill: url(#lowModGrad);
+}
+
+.ratingCategory3{
+  fill:#FE9A2E;
+}
+
+.ratingCategory4{
+  fill: url(#lowHighGrad);
+}
+
+.ratingCategory5{
+  fill: url(#modHighGrad);
+}
+.ratingCategory6{
+  fill:#FF0000;
+}
+
+.Low{
+  fill:#88DB54;
+}
+
+.Moderate{
+  fill:#FE9A2E;
+}
+
+.High{
+  fill:#FF0000;
+}
+
+.Suspended{
+  fill:#A4A4A4;
+}
+.All-Objects{
+  fill:#3498db;
+}
+
+
+.selected {
+  fill:#3498DB;
+  stroke: black;
+  stroke-width: 2px;
+}
+
+
+.yAxis path,
+.yAxis line {
+  fill: none;
+  stroke: none;
+}
+
+.xAxis path,
+.xAxis line {
+  fill: none;
+  stroke: #7f8c8d;
+}
+
+
+.yAxis text {
+  font-family: sans-serif;
+  font-size: 15px;
+  color: #ecf0f1;
+
+}
+
+.xAxis text {
+  font-family: arial;
+  font-size: 11px;
+  font-size: 11px;
+  color: #ecf0f1;
+
+}
+
+.notes {
+  text-align:left;
+  padding-top: 10px;
+}
+
+.imageContainer {
+  text-align: center;
+  padding-top: 10px;
+}
+

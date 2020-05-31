@@ -51,7 +51,10 @@
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "node_modules/bootstrap/dist/js/bootstrap.min.js",
+              "src/assets/d3.v3.min.js",
+              "src/assets/d3-queue.v3.min.js",
+              "src/assets/topojson.v1.min.js"
             ]
           },
           "configurations": {

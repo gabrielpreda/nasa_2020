@@ -7,6 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { ContentComponent } from './content/content.component';
 import { IndustriesComponent } from './industries/industries.component';
+import { MapComponent } from './map/map.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { IndustriesComponent } from './industries/industries.component';
     FooterComponent,
     HeaderComponent,
     ContentComponent,
-    IndustriesComponent
+    IndustriesComponent,
+    MapComponent
   ],
   imports: [
     BrowserModule,
