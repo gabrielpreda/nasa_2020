@@ -13,25 +13,28 @@ import { ChartsModule } from 'ng2-charts';
 import { MatIconModule } from '@angular/material/icon';
 // @ts-ignore
 import { MatDialogModule } from '@angular/material/dialog';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    FooterComponent,
-    HeaderComponent,
-    ContentComponent,
-    IndustriesComponent,
-    MapComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    BrowserAnimationsModule,
-    MatDialogModule,
-    ChartsModule,
-    MatIconModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+	declarations: [
+		AppComponent,
+		FooterComponent,
+		HeaderComponent,
+		ContentComponent,
+		IndustriesComponent,
+		MapComponent
+	],
+	imports: [
+		BrowserModule,
+		AppRoutingModule,
+		BrowserAnimationsModule,
+		MatDialogModule,
+		ChartsModule,
+		MatIconModule,
+		HttpClientModule
+	],
+	providers: [],
+	bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {
+}
