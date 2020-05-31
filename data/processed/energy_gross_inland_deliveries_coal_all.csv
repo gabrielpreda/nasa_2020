@@ -7,12 +7,12 @@ Estonia,26.36,19-Jan,1931.714,thousand tones
 Ireland,245.8,19-Jan,,thousand tones
 Greece,246.4,19-Jan,3574.887,thousand tones
 Spain,1400.0,19-Jan,1848.0,thousand tones
-France,2902.0,19-Jan,983.614,thousand tones
+France,2902.0,19-Jan,983.6139999999999,thousand tones
 Croatia,57.18,19-Jan,61.0,thousand tones
 Italy,2129.0,19-Jan,1248.0,thousand tones
 Cyprus,21.34,19-Jan,1.061,thousand tones
 Latvia,32.82,19-Jan,6.892,thousand tones
-Lithuania,48.72,19-Jan,31.321,thousand tones
+Lithuania,48.72,19-Jan,31.320999999999998,thousand tones
 Luxembourg,63.93,19-Jan,5.001,thousand tones
 Hungary,129.7,19-Jan,795.168,thousand tones
 Malta,10.57,19-Jan,,thousand tones
@@ -28,7 +28,7 @@ Sweden,559.1,19-Jan,285.0,thousand tones
 United Kingdom,2848.0,19-Jan,1493.739,thousand tones
 Norway,511.6,19-Jan,67.172,thousand tones
 Montenegro,4.66,19-Jan,146.02,thousand tones
-Serbia,42.65,19-Jan,3384.557,thousand tones
+Serbia,42.65,19-Jan,3384.5570000000002,thousand tones
 Bosnia and Herzegovina,19.55,19-Jan,1253.327,thousand tones
 Ukraine,134.9,19-Jan,4618.4,thousand tones
 Moldova,7.74,19-Jan,15.1,thousand tones
@@ -50,7 +50,7 @@ Luxembourg,63.93,19-Feb,15.817,thousand tones
 Hungary,129.7,19-Feb,706.822,thousand tones
 Malta,10.57,19-Feb,,thousand tones
 Netherlands,880.4,19-Feb,1267.0,thousand tones
-Austria,436.1,19-Feb,341.7530000000001,thousand tones
+Austria,436.1,19-Feb,341.75300000000004,thousand tones
 Poland,552.2,19-Feb,10429.252,thousand tones
 Portugal,228.2,19-Feb,252.47,thousand tones
 Romania,199.0,19-Feb,1865.0,thousand tones
@@ -71,7 +71,7 @@ Denmark,347.2,19-Mar,214.463,thousand tones
 Germany,3820.0,19-Mar,14784.518999999998,thousand tones
 Estonia,26.36,19-Mar,1499.15,thousand tones
 Ireland,245.8,19-Mar,,thousand tones
-Greece,246.4,19-Mar,2465.2870000000007,thousand tones
+Greece,246.4,19-Mar,2465.2870000000003,thousand tones
 Spain,1400.0,19-Mar,610.0,thousand tones
 France,2902.0,19-Mar,856.732,thousand tones
 Croatia,57.18,19-Mar,57.0,thousand tones
@@ -79,15 +79,15 @@ Italy,2129.0,19-Mar,870.0,thousand tones
 Cyprus,21.34,19-Mar,1.7280000000000002,thousand tones
 Latvia,32.82,19-Mar,4.9030000000000005,thousand tones
 Lithuania,48.72,19-Mar,24.881,thousand tones
-Luxembourg,63.93,19-Mar,5.7879999999999985,thousand tones
+Luxembourg,63.93,19-Mar,5.787999999999999,thousand tones
 Hungary,129.7,19-Mar,811.482,thousand tones
 Malta,10.57,19-Mar,,thousand tones
 Netherlands,880.4,19-Mar,964.0,thousand tones
-Austria,436.1,19-Mar,321.4770000000001,thousand tones
+Austria,436.1,19-Mar,321.47700000000003,thousand tones
 Poland,552.2,19-Mar,10090.5,thousand tones
-Portugal,228.2,19-Mar,241.996,thousand tones
+Portugal,228.2,19-Mar,241.99599999999998,thousand tones
 Romania,199.0,19-Mar,2025.0,thousand tones
-Slovenia,49.93,19-Mar,241.379,thousand tones
+Slovenia,49.93,19-Mar,241.37900000000002,thousand tones
 Slovakia,99.75,19-Mar,523.0,thousand tones
 Finland,276.3,19-Mar,920.0,thousand tones
 Sweden,559.1,19-Mar,286.0,thousand tones
@@ -95,14 +95,14 @@ United Kingdom,2848.0,19-Mar,614.788,thousand tones
 Norway,511.6,19-Mar,67.172,thousand tones
 Montenegro,4.66,19-Mar,129.19,thousand tones
 Serbia,42.65,19-Mar,3646.015,thousand tones
-Bosnia and Herzegovina,19.55,19-Mar,1316.3970000000004,thousand tones
+Bosnia and Herzegovina,19.55,19-Mar,1316.3970000000002,thousand tones
 Ukraine,134.9,19-Mar,4007.6,thousand tones
 Moldova,7.74,19-Mar,3.07,thousand tones
 Belgium,527.8,19-Apr,289.8,thousand tones
-Bulgaria,55.08,19-Apr,1893.062,thousand tones
+Bulgaria,55.08,19-Apr,1893.0620000000001,thousand tones
 Denmark,347.2,19-Apr,152.496,thousand tones
-Germany,3820.0,19-Apr,14476.672,thousand tones
-Estonia,26.36,19-Apr,1978.097,thousand tones
+Germany,3820.0,19-Apr,14476.671999999999,thousand tones
+Estonia,26.36,19-Apr,1978.0970000000002,thousand tones
 Ireland,245.8,19-Apr,,thousand tones
 Greece,246.4,19-Apr,2302.042,thousand tones
 Spain,1400.0,19-Apr,552.0,thousand tones
@@ -118,7 +118,7 @@ Malta,10.57,19-Apr,,thousand tones
 Netherlands,880.4,19-Apr,854.0,thousand tones
 Austria,436.1,19-Apr,383.414,thousand tones
 Poland,552.2,19-Apr,9301.062,thousand tones
-Portugal,228.2,19-Apr,220.784,thousand tones
+Portugal,228.2,19-Apr,220.78400000000002,thousand tones
 Romania,199.0,19-Apr,1984.0,thousand tones
 Slovenia,49.93,19-Apr,205.762,thousand tones
 Slovakia,99.75,19-Apr,488.0,thousand tones
@@ -132,10 +132,10 @@ Bosnia and Herzegovina,19.55,19-Apr,945.039,thousand tones
 Ukraine,134.9,19-Apr,3817.0,thousand tones
 Moldova,7.74,19-Apr,16.85,thousand tones
 Belgium,527.8,19-May,307.1,thousand tones
-Bulgaria,55.08,19-May,2383.2670000000007,thousand tones
+Bulgaria,55.08,19-May,2383.2670000000003,thousand tones
 Denmark,347.2,19-May,82.9,thousand tones
 Germany,3820.0,19-May,13781.01,thousand tones
-Estonia,26.36,19-May,1016.396,thousand tones
+Estonia,26.36,19-May,1016.3960000000001,thousand tones
 Ireland,245.8,19-May,,thousand tones
 Greece,246.4,19-May,1808.859,thousand tones
 Spain,1400.0,19-May,442.0,thousand tones
@@ -169,14 +169,14 @@ Bulgaria,55.08,19-Jun,1490.606,thousand tones
 Denmark,347.2,19-Jun,29.656,thousand tones
 Germany,3820.0,19-Jun,11630.969,thousand tones
 Estonia,26.36,19-Jun,776.92,thousand tones
-Ireland,245.8,19-Jun,19.306,thousand tones
+Ireland,245.8,19-Jun,19.305999999999997,thousand tones
 Greece,246.4,19-Jun,2131.196,thousand tones
 Spain,1400.0,19-Jun,409.0,thousand tones
 France,2902.0,19-Jun,762.123,thousand tones
 Croatia,57.18,19-Jun,57.0,thousand tones
 Italy,2129.0,19-Jun,764.0,thousand tones
 Cyprus,21.34,19-Jun,3.455,thousand tones
-Latvia,32.82,19-Jun,2.341,thousand tones
+Latvia,32.82,19-Jun,2.3409999999999997,thousand tones
 Lithuania,48.72,19-Jun,22.05,thousand tones
 Luxembourg,63.93,19-Jun,13.248,thousand tones
 Hungary,129.7,19-Jun,569.11,thousand tones
@@ -201,7 +201,7 @@ Belgium,527.8,19-Jul,305.5,thousand tones
 Bulgaria,55.08,19-Jul,2000.476,thousand tones
 Denmark,347.2,19-Jul,18.733,thousand tones
 Germany,3820.0,19-Jul,12648.143999999998,thousand tones
-Estonia,26.36,19-Jul,771.5310000000002,thousand tones
+Estonia,26.36,19-Jul,771.5310000000001,thousand tones
 Ireland,245.8,19-Jul,21.531,thousand tones
 Greece,246.4,19-Jul,2121.157,thousand tones
 Spain,1400.0,19-Jul,693.0,thousand tones
@@ -216,7 +216,7 @@ Hungary,129.7,19-Jul,792.424,thousand tones
 Malta,10.57,19-Jul,,thousand tones
 Netherlands,880.4,19-Jul,722.395,thousand tones
 Austria,436.1,19-Jul,305.978,thousand tones
-Poland,552.2,19-Jul,10089.647,thousand tones
+Poland,552.2,19-Jul,10089.646999999999,thousand tones
 Portugal,228.2,19-Jul,314.795,thousand tones
 Romania,199.0,19-Jul,1949.0,thousand tones
 Slovenia,49.93,19-Jul,346.205,thousand tones
@@ -227,7 +227,7 @@ United Kingdom,2848.0,19-Jul,511.517,thousand tones
 Norway,511.6,19-Jul,67.172,thousand tones
 Montenegro,4.66,19-Jul,147.57,thousand tones
 Serbia,42.65,19-Jul,3002.442,thousand tones
-Bosnia and Herzegovina,19.55,19-Jul,1338.9589999999996,thousand tones
+Bosnia and Herzegovina,19.55,19-Jul,1338.9589999999998,thousand tones
 Ukraine,134.9,19-Jul,3586.8,thousand tones
 Moldova,7.74,19-Jul,12.953,thousand tones
 Belgium,527.8,19-Aug,303.0,thousand tones
@@ -248,7 +248,7 @@ Luxembourg,63.93,19-Aug,7.715,thousand tones
 Hungary,129.7,19-Aug,664.128,thousand tones
 Malta,10.57,19-Aug,,thousand tones
 Netherlands,880.4,19-Aug,517.5,thousand tones
-Austria,436.1,19-Aug,337.3640000000001,thousand tones
+Austria,436.1,19-Aug,337.36400000000003,thousand tones
 Poland,552.2,19-Aug,9904.243,thousand tones
 Portugal,228.2,19-Aug,45.912,thousand tones
 Romania,199.0,19-Aug,1843.0,thousand tones
@@ -256,10 +256,10 @@ Slovenia,49.93,19-Aug,246.532,thousand tones
 Slovakia,99.75,19-Aug,334.0,thousand tones
 Finland,276.3,19-Aug,381.0,thousand tones
 Sweden,559.1,19-Aug,174.0,thousand tones
-United Kingdom,2848.0,19-Aug,511.446,thousand tones
+United Kingdom,2848.0,19-Aug,511.44599999999997,thousand tones
 Norway,511.6,19-Aug,67.172,thousand tones
 Montenegro,4.66,19-Aug,161.95,thousand tones
-Serbia,42.65,19-Aug,3527.5840000000007,thousand tones
+Serbia,42.65,19-Aug,3527.5840000000003,thousand tones
 Bosnia and Herzegovina,19.55,19-Aug,1226.64,thousand tones
 Ukraine,134.9,19-Aug,3670.2,thousand tones
 Moldova,7.74,19-Aug,6.7,thousand tones
@@ -267,7 +267,7 @@ Belgium,527.8,19-Sep,298.1,thousand tones
 Bulgaria,55.08,19-Sep,2499.393,thousand tones
 Denmark,347.2,19-Sep,39.675,thousand tones
 Germany,3820.0,19-Sep,12535.235,thousand tones
-Estonia,26.36,19-Sep,1231.091,thousand tones
+Estonia,26.36,19-Sep,1231.0910000000001,thousand tones
 Ireland,245.8,19-Sep,,thousand tones
 Greece,246.4,19-Sep,1428.239,thousand tones
 Spain,1400.0,19-Sep,452.0,thousand tones
@@ -283,7 +283,7 @@ Malta,10.57,19-Sep,,thousand tones
 Netherlands,880.4,19-Sep,1085.2,thousand tones
 Austria,436.1,19-Sep,269.536,thousand tones
 Poland,552.2,19-Sep,10142.493,thousand tones
-Portugal,228.2,19-Sep,21.848000000000006,thousand tones
+Portugal,228.2,19-Sep,21.848000000000003,thousand tones
 Romania,199.0,19-Sep,1768.0,thousand tones
 Slovenia,49.93,19-Sep,236.247,thousand tones
 Slovakia,99.75,19-Sep,348.0,thousand tones
@@ -293,11 +293,11 @@ United Kingdom,2848.0,19-Sep,562.799,thousand tones
 Norway,511.6,19-Sep,67.172,thousand tones
 Montenegro,4.66,19-Sep,172.25,thousand tones
 Serbia,42.65,19-Sep,3355.208,thousand tones
-Bosnia and Herzegovina,19.55,19-Sep,1273.5410000000004,thousand tones
+Bosnia and Herzegovina,19.55,19-Sep,1273.5410000000002,thousand tones
 Ukraine,134.9,19-Sep,3513.4,thousand tones
 Moldova,7.74,19-Sep,20.4,thousand tones
 Belgium,527.8,19-Oct,304.9,thousand tones
-Bulgaria,55.08,19-Oct,2849.2670000000007,thousand tones
+Bulgaria,55.08,19-Oct,2849.2670000000003,thousand tones
 Denmark,347.2,19-Oct,76.64,thousand tones
 Germany,3820.0,19-Oct,13341.255,thousand tones
 Estonia,26.36,19-Oct,1057.133,thousand tones
@@ -325,7 +325,7 @@ Sweden,559.1,19-Oct,253.0,thousand tones
 United Kingdom,2848.0,19-Oct,628.289,thousand tones
 Norway,511.6,19-Oct,67.171,thousand tones
 Montenegro,4.66,19-Oct,167.17,thousand tones
-Serbia,42.65,19-Oct,3578.068,thousand tones
+Serbia,42.65,19-Oct,3578.0679999999998,thousand tones
 Bosnia and Herzegovina,19.55,19-Oct,1125.586,thousand tones
 Ukraine,134.9,19-Oct,4015.9,thousand tones
 Moldova,7.74,19-Oct,23.7,thousand tones
@@ -343,13 +343,13 @@ Italy,2129.0,19-Nov,910.0,thousand tones
 Cyprus,21.34,19-Nov,3.181,thousand tones
 Latvia,32.82,19-Nov,8.452,thousand tones
 Lithuania,48.72,19-Nov,23.375,thousand tones
-Luxembourg,63.93,19-Nov,5.408,thousand tones
-Hungary,129.7,19-Nov,673.7339999999998,thousand tones
+Luxembourg,63.93,19-Nov,5.4079999999999995,thousand tones
+Hungary,129.7,19-Nov,673.7339999999999,thousand tones
 Malta,10.57,19-Nov,,thousand tones
-Netherlands,880.4,19-Nov,1030.217,thousand tones
+Netherlands,880.4,19-Nov,1030.2169999999999,thousand tones
 Austria,436.1,19-Nov,299.249,thousand tones
 Poland,552.2,19-Nov,9930.918,thousand tones
-Portugal,228.2,19-Nov,59.94300000000001,thousand tones
+Portugal,228.2,19-Nov,59.943000000000005,thousand tones
 Romania,199.0,19-Nov,1754.0,thousand tones
 Slovenia,49.93,19-Nov,279.314,thousand tones
 Slovakia,99.75,19-Nov,380.0,thousand tones
@@ -359,14 +359,14 @@ United Kingdom,2848.0,19-Nov,894.173,thousand tones
 Norway,511.6,19-Nov,67.172,thousand tones
 Montenegro,4.66,19-Nov,122.39,thousand tones
 Serbia,42.65,19-Nov,3393.1,thousand tones
-Bosnia and Herzegovina,19.55,19-Nov,1389.698,thousand tones
+Bosnia and Herzegovina,19.55,19-Nov,1389.6979999999999,thousand tones
 Ukraine,134.9,19-Nov,3109.8,thousand tones
 Moldova,7.74,19-Nov,11.0,thousand tones
 Belgium,527.8,19-Dec,283.9,thousand tones
 Bulgaria,55.08,19-Dec,2657.902,thousand tones
 Denmark,347.2,19-Dec,186.28,thousand tones
 Germany,3820.0,19-Dec,12623.124,thousand tones
-Estonia,26.36,19-Dec,1135.061,thousand tones
+Estonia,26.36,19-Dec,1135.0610000000001,thousand tones
 Ireland,245.8,19-Dec,,thousand tones
 Greece,246.4,19-Dec,2623.429,thousand tones
 Spain,1400.0,19-Dec,310.0,thousand tones
@@ -381,8 +381,8 @@ Hungary,129.7,19-Dec,647.548,thousand tones
 Malta,10.57,19-Dec,,thousand tones
 Netherlands,880.4,19-Dec,958.513,thousand tones
 Austria,436.1,19-Dec,254.699,thousand tones
-Poland,552.2,19-Dec,9795.658,thousand tones
-Portugal,228.2,19-Dec,47.764,thousand tones
+Poland,552.2,19-Dec,9795.658000000001,thousand tones
+Portugal,228.2,19-Dec,47.763999999999996,thousand tones
 Romania,199.0,19-Dec,1799.0,thousand tones
 Slovenia,49.93,19-Dec,332.042,thousand tones
 Slovakia,99.75,19-Dec,429.0,thousand tones
@@ -398,12 +398,12 @@ Moldova,7.74,19-Dec,16.0,thousand tones
 Belgium,527.8,20-Jan,316.0,thousand tones
 Bulgaria,55.08,20-Jan,2422.37,thousand tones
 Denmark,347.2,20-Jan,185.685,thousand tones
-Germany,3820.0,20-Jan,13935.938999999997,thousand tones
+Germany,3820.0,20-Jan,13935.938999999998,thousand tones
 Estonia,26.36,20-Jan,1072.025,thousand tones
 Ireland,245.8,20-Jan,,thousand tones
 Greece,246.4,20-Jan,2727.138,thousand tones
 Spain,1400.0,20-Jan,552.0,thousand tones
-France,2902.0,20-Jan,888.7760000000002,thousand tones
+France,2902.0,20-Jan,888.7760000000001,thousand tones
 Croatia,57.18,20-Jan,27.0,thousand tones
 Italy,2129.0,20-Jan,,thousand tones
 Cyprus,21.34,20-Jan,0.285,thousand tones
@@ -412,19 +412,19 @@ Lithuania,48.72,20-Jan,24.443,thousand tones
 Luxembourg,63.93,20-Jan,4.956,thousand tones
 Hungary,129.7,20-Jan,663.7260000000001,thousand tones
 Malta,10.57,20-Jan,,thousand tones
-Netherlands,880.4,20-Jan,616.3919999999998,thousand tones
+Netherlands,880.4,20-Jan,616.3919999999999,thousand tones
 Austria,436.1,20-Jan,303.121,thousand tones
 Poland,552.2,20-Jan,9253.246,thousand tones
-Portugal,228.2,20-Jan,52.017,thousand tones
+Portugal,228.2,20-Jan,52.016999999999996,thousand tones
 Romania,199.0,20-Jan,1751.0,thousand tones
-Slovenia,49.93,20-Jan,259.958,thousand tones
+Slovenia,49.93,20-Jan,259.95799999999997,thousand tones
 Slovakia,99.75,20-Jan,427.0,thousand tones
 Finland,276.3,20-Jan,972.0,thousand tones
 Sweden,559.1,20-Jan,287.0,thousand tones
 United Kingdom,2848.0,20-Jan,1096.782,thousand tones
 Norway,511.6,20-Jan,,thousand tones
 Montenegro,4.66,20-Jan,,thousand tones
-Serbia,42.65,20-Jan,3519.773,thousand tones
+Serbia,42.65,20-Jan,3519.7729999999997,thousand tones
 Bosnia and Herzegovina,19.55,20-Jan,,thousand tones
 Ukraine,134.9,20-Jan,,thousand tones
 Moldova,7.74,20-Jan,6.8,thousand tones
