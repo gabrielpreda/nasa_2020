@@ -19,13 +19,28 @@ https://github.com/gabrielpreda/nasa_2020
 ## References
 Data from multiple sources (see below) was used.
 ### NASA Data
+
+#### SO2
+ 
+MERRA-2 tavgM_2d_chm_Nx: 2d,Monthly mean,Time-Averaged,Single-Level,Assimilation,Carbon Monoxide and Ozone Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXCHM) at GES DISC  
+https://search.earthdata.nasa.gov/search/granules/collection-details?p=C1276812852-GES_DISC&gdf=NetCDF!NetCDF4&fs10=Carbon%20Monoxide&fsm0=Air%20Quality&fst0=Atmosphere  
+
+#### C02
+
+MERRA-2 tavgM_2d_aer_Nx: 2d,Monthly mean,Time-averaged,Single-Level,Assimilation,Aerosol Diagnostics 0.625 x 0.5 degree V5.12.4 (M2TMNXAER) at GES DISC  
+https://search.earthdata.nasa.gov/search/granules?p=C1276812866-GES_DISC&gdf=NetCDF!NetCDF4&tl=1575130169!4!!&fs10=Sulfur%20Oxides&fsm0=Air%20Quality&fst0=Atmosphere  
+
+extracted)  
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/earthdata-merra2-co
+
 ### EU Europa Data
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/energy
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/transport%20data
+
 ### Kaggle Data
 https://www.kaggle.com/sudalairajkumar/undata-country-profiles
 Energy consumption, sustainable energy. Recently updated data. Original source: https://www.kaggle.com/natashalondon/sustainable-energy-for-all 
+
 ### COVID-19 Data
 https://github.com/gabrielpreda/Kaggle/tree/master/covid-19-db
 https://github.com/CSSEGISandData/COVID-19
