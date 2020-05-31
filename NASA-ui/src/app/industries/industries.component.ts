@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Inject, OnInit } from '@angular/core';
 import { IndustriesService } from './industries.service';
+import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 
 @Component({
   selector: 'app-industries',
@@ -8,9 +9,13 @@ import { IndustriesService } from './industries.service';
 })
 export class IndustriesComponent implements OnInit {
 
-  constructor(public industriesService: IndustriesService) { }
+  constructor(public industriesService: IndustriesService, public dialogRef: MatDialogRef<IndustriesComponent>,
+              @Inject(MAT_DIALOG_DATA) public data: any) { }
 
   ngOnInit() {
+  }
+  close(): void {
+    this.dialogRef.close();
   }
 
   getColor(i: number) {

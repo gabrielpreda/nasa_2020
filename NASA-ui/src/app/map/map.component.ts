@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import * as $ from 'jquery';
+import { IndustriesComponent } from '../industries/industries.component';
+import { MatDialog } from '@angular/material/dialog';
 
 declare var d3: any;
 declare var topojson: any;
@@ -10,7 +12,7 @@ declare var topojson: any;
 	styleUrls: ['./map.component.scss']
 })
 export class MapComponent implements OnInit {
-	constructor() {
+	constructor(private dialog: MatDialog) {
 	}
 
 	ngOnInit() {
@@ -19,8 +21,12 @@ export class MapComponent implements OnInit {
 			'Luxembourg', 'Malta', 'Norway', 'Poland', 'Portugal', 'Czech Republic', 'Romania', 'Slovakia',
 			'Slovenia', 'Spain', 'Sweden', 'Hungary', 'United Kingdom'];
 		let year_radio = 2010;
-		const w = 800, h = 600;
 
+		let w = 800, h = 600;
+		if ( window.innerWidth < w ) {
+			w = window.innerWidth;
+			h = w * 0.75;
+		}
 		const projection = d3.geo.mercator()
 			.center([13, 52])
 			.translate([w / 2, h / 2])
@@ -40,7 +46,7 @@ export class MapComponent implements OnInit {
 
 		const color = d3.scale.linear()
 			.domain([0, 1, 2300])      // <--- min and MAX of your value
-			.range(['#000000', '#ffffff', 'lightblue']);
+			.range(['#ee3e3e', '#ffffff']);
 
 		// tslint:disable-next-line:prefer-const
 		let dess = [], error, vector = svg;
@@ -85,6 +91,9 @@ export class MapComponent implements OnInit {
 		function colorThis() {
 			vector.selectAll('path')
 				.style('fill', function (d) {
+					// const step = 255 / avaibleCountries.length;
+					// return `rgb(${200 }, ${255 - (step)}, ${70 })`;
+					//
 					return color(+csv_value(+d.properties.indx));
 				});
 		}
@@ -109,7 +118,16 @@ export class MapComponent implements OnInit {
 	}
 
 
-	click(d){
-		console.log('click on ', d);
+	click(d) {
+		const dialogRef = this.dialog.open(IndustriesComponent, {
+			width: '70%',
+			height: '70%',
+			data: d
+		});
+
+		dialogRef.afterClosed().subscribe(result => {
+			console.log('The dialog was closed');
+
+		});
 	}
 }
