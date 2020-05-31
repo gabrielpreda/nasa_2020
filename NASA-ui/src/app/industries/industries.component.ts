@@ -1,5 +1,6 @@
 import { Component, Inject, OnInit } from '@angular/core';
 import { IndustriesService } from './industries.service';
+// @ts-ignore
 import { MAT_DIALOG_DATA, MatDialogRef } from '@angular/material/dialog';
 import { ChartDataSets, ChartOptions } from 'chart.js';
 import { Color, Label, ThemeService } from 'ng2-charts';
@@ -9,10 +10,7 @@ import { Color, Label, ThemeService } from 'ng2-charts';
 	styleUrls: ['./industries.component.scss']
 })
 export class IndustriesComponent implements OnInit {
-	public lineChartData: ChartDataSets[] = [
-		{data: [65, 59, 80, 81, 56, 55, 40], label: 'Series A'},
-		{data: [65, 90, 80, 44, 11, 78, 99], label: 'Series B'},
-	];
+
 	public lineChartLabels: Label[] = ['January', 'February', 'March', 'April', 'May', 'June', 'July'];
 	public lineChartOptions: ChartOptions = {
 		responsive: true,
@@ -35,12 +33,14 @@ export class IndustriesComponent implements OnInit {
 	public lineChartLegend = true;
 	public lineChartType = 'line';
 	public lineChartPlugins = [];
+	private selectedIndustry: any;
 	constructor(public industriesService: IndustriesService, public dialogRef: MatDialogRef<IndustriesComponent>,
 				@Inject(MAT_DIALOG_DATA) public data: any) {
 	}
 
 	ngOnInit() {
 		console.log(this.data);
+		this.selectedIndustry = this.industriesService.industries[0];
 	}
 
 	close(): void {
@@ -50,5 +50,10 @@ export class IndustriesComponent implements OnInit {
 	getColor(i: number) {
 		const step = 255 / this.industriesService.industries.length;
 		return `rgb(${120 + (i * (step / 2))}, ${255 - (i * step)}, ${70 - (i * step / 4)})`;
+	}
+
+	selectIndustry(industry: any) {
+		console.log(industry)
+		this.selectedIndustry = industry;
 	}
 }

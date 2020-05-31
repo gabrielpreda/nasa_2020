@@ -7,7 +7,7 @@
 		<div class="col-8 col-xs-12">
 
 			<canvas baseChart
-					[datasets]="lineChartData"
+					[datasets]="selectedIndustry.chart1Dataset"
 					[options]="lineChartOptions"
 					[chartType]="lineChartType"
 					[colors]="lineChartColors"
@@ -17,7 +17,7 @@
 		</div>
 
 		<div class="col-4 col-xs-12 industry-list">
-			<div *ngFor="let industry of industriesService.industries; let i = index" class="card card-1 clickable" [ngStyle]="{'background-color': getColor(i)}">
+			<div *ngFor="let industry of industriesService.industries; let i = index" class="card card-1 clickable" [ngStyle]="{'background-color': getColor(i)}" (click)="selectIndustry(industry)">
 				<h5>{{industry.name}}</h5>
 			</div>
 		</div>
