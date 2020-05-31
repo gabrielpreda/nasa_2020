@@ -34,8 +34,26 @@ extracted)
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/earthdata-merra2-co
 
 ### EU Europa Data
+
+Energy data
+https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=avia_paoa&lang=en  
+
+(processed)
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/energy
+ * gross_inland_deliveries_coal_all.csv  
+ * crude_oil.csv                               
+ * net_electricity_generation.csv  
+ * delivery_of_primary_coal_by_sector.csv       
+ * refinery_intake_crude_oil.csv  
+ * electricity_supply.csv                      
+ * solid_fuels_suply.csv  
+ 
 https://github.com/gabrielpreda/nasa_2020/tree/master/data/transport%20data
+* Air_passenger_transport_avia_paoa.tsv.gz  
+* Airport_traffic_data_avia_tf_apal.tsv.gz  
+* Gross_weight_of_ports_mar_go_qm.tsv.gz  
+* International_air_transport_avia_goinac.tsv.gz 
+
 
 ### Kaggle Data
 https://www.kaggle.com/sudalairajkumar/undata-country-profiles
