@@ -22,6 +22,21 @@ ei_etea19_m - Euro area 19 international trade - monthly data - eda
 
 isoc_ci_it_h - Households - type of connection to the internet
 
+### International intra-EU freight and mail air transport by main airports in each reporting country and EU partner country
+Data about freight and mail air transport
+Original source: https://data.europa.eu/euodp/en/data/dataset/LzQnng3eGm3hbz8HfjcIQ
+
+### Air passenger transport by main airports in each reporting country
+Data about the good and passengers that uses air transport
+Original source: https://data.europa.eu/euodp/en/data/dataset/Ez3kc1cjABsZ83uw1uw
+ 
+### Airport traffic data by reporting airport and airlines
+This data contains information about the airport traffic
+Origin source: https://ec.europa.eu/eurostat/web/products-datasets/product?code=avia_tf_apal
+
+### Gross weight of goods transported to/from main ports by direction and type of traffic (national and international) - quarterly data
+Data about good transported via maritime traffic
+Original source: https://data.europa.eu/euodp/en/data/dataset/5hX8WYrIVY6u08WnJ8Xrg
 
 ### UN Data
 
@@ -40,24 +55,6 @@ Original source: https://www.kaggle.com/natashalondon/sustainable-energy-for-all
 Data about NO2,O3,PM10,PM2.5 levels in 50 european cities
 Original source: https://github.com/CopernicusAtmosphere/air-quality-covid19-response
 
-### Air and maritime trasport data
-
-
-### International intra-EU freight and mail air transport by main airports in each reporting country and EU partner country
-Data about freight and mail air transport
-Original source: https://data.europa.eu/euodp/en/data/dataset/LzQnng3eGm3hbz8HfjcIQ
-
-### Air passenger transport by main airports in each reporting country
-Data about the good and passengers that uses air transport
-Original source: https://data.europa.eu/euodp/en/data/dataset/Ez3kc1cjABsZ83uw1uw
- 
-### Airport traffic data by reporting airport and airlines
-This data contains information about the airport traffic
-Origin source: https://ec.europa.eu/eurostat/web/products-datasets/product?code=avia_tf_apal
-
-### Gross weight of goods transported to/from main ports by direction and type of traffic (national and international) - quarterly data
-Data about good transported via maritime traffic
-Original source: https://data.europa.eu/euodp/en/data/dataset/5hX8WYrIVY6u08WnJ8Xrg
 
 ### Lookup files
 Those files contain code, label and other nomenclators information
