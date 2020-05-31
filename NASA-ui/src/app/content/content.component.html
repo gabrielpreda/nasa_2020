@@ -4,7 +4,7 @@
 		<mat-checkbox value="covidDCheck" (change)="checkDCovid(covidDCheck)" [(ngModel)]="covidDCheck" disabled="{{covidDailySeries.length===0}}">Covid19 Daily impact</mat-checkbox>
 		<mat-checkbox value="covidMCheck" (change)="checkMCovid(covidMCheck)" [(ngModel)]="covidMCheck" disabled="{{covidMonthlySeries.length===0}}">Covid19 Monthly impact</mat-checkbox>
 	</div>
-	<div class="col-6">
+	<div class="col-6" style="margin-top: 5%;">
 		<app-map [series]="mapSeries"></app-map>
 		<mat-slider
 				(input)="onInputChange($event)"
