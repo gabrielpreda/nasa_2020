@@ -1,5 +1,5 @@
 {
-  "/": {
+  "/covid/*": {
     "target": "https://nasa-covid19.herokuapp.com",
     "secure": false,
     "logLevel": "debug",

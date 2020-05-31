@@ -3,6 +3,7 @@ import * as $ from 'jquery';
 import { IndustriesComponent } from '../industries/industries.component';
 // @ts-ignore
 import { MatDialog } from '@angular/material/dialog';
+import { LoadingService } from '../services/loading.service';
 
 declare var d3: any;
 declare var topojson: any;
@@ -14,7 +15,7 @@ declare var topojson: any;
 })
 export class MapComponent implements OnInit {
 	@Input() series:[];
-	constructor(private dialog: MatDialog) {
+	constructor(private dialog: MatDialog, private loadingService:LoadingService) {
 	}
 
 	ngOnInit() {
@@ -78,7 +79,6 @@ export class MapComponent implements OnInit {
 				.attr('d', path)
 				.on('mouseover', function (d) {
 					d3.select('#coun' + d.properties.indx).style('stroke', '777').style('stroke-width', 2);
-					showInfo(d);
 				})
 				.on('click', function (d) {
 					d3.select('#coun' + d.properties.indx).style('stroke', '777').style('stroke-width', 2);
@@ -87,9 +87,12 @@ export class MapComponent implements OnInit {
 				.on('mouseout', function (d) {
 					d3.select('#coun' + d.properties.indx).style('stroke', 'ddd').style('stroke-width', 1);
 				});
-			colorThis();
+			// colorThis();
 		}
-
+		thisInstance.loadingService.getAsObservable().subscribe(value => {
+			console.log("desenez")
+			colorThis();
+		});
 		function colorThis() {
 			vector.selectAll('path')
 				.style('fill', function (d) {
@@ -97,7 +100,8 @@ export class MapComponent implements OnInit {
 					// return `rgb(${200 }, ${255 - (step)}, ${70 })`;
 					//
 					const step = 255 / thisInstance.series.length;
-					let index = thisInstance.series.findIndex(value => value.countryCode === d.properties.iso_a3);
+					let index = thisInstance.series.findIndex(value => value['countryCode'] === d.properties.iso_a3);
+
 					return `rgb(${120 + index * (step / 2)}, ${255 - (index * step)}, ${70 - (index * step / 4)})`;
 					// return color(+csv_value(+d.properties.indx));
 				});
@@ -116,10 +120,7 @@ export class MapComponent implements OnInit {
 			}
 		};
 
-		const showInfo = function (d) {
-			// tslint:disable-next-line:max-line-length
-			$('#info').html('Year: <b>' + year_radio + '</b> Country: <b>' + d.properties.name + '</b> Value: <b>' + csv_value(+d.properties.indx) + '</b>');
-		};
+
 	}
 
 
